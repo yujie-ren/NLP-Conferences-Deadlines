@@ -1,8 +1,8 @@
 # NLP Conferences Deadlines
 ## Conf Rankings
-|  Conf  | A    |   Notification  |   Conference  | CORE23 | CCF22 |
+|  Conf  | ACL    |   EMNLP  |   NAACL  | EACL | COLING |
 | :---:  |    :----:     |     :---:       |     :---:     | :---:  | :---: |
-|  CORE2023   |               |                 |               |   A*   |   A   |
+|  CORE2023   |               |                 |               |      |   A   |
 |  CCF2022 |               |                 |               |   A*   |   B   |
 
 ## 2025 Confs
@@ -19,7 +19,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4MzI2Nzk0LC03NDM2OTc2MDUsMzUyNz
-I3NzU2LDg2NDkyNTkwMSwtMTg1ODE3OTk5MiwyMDc4NzY4ODE0
-LC03MTU2NzI4NTIsMTA4OTQ0OTQyMl19
+eyJoaXN0b3J5IjpbLTE5MzE4Nzg1NjEsLTc0MzY5NzYwNSwzNT
+I3Mjc3NTYsODY0OTI1OTAxLC0xODU4MTc5OTkyLDIwNzg3Njg4
+MTQsLTcxNTY3Mjg1MiwxMDg5NDQ5NDIyXX0=
 -->
