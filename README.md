@@ -2,7 +2,7 @@
 
 ## Contents
 
-|  Year  | [Conference](#conference-papers) |                      |                      |
+|  Year  | [Conference](#conference-papers) |                      | |                         |
 | :---:  |    :----:        |        :---:         |        :---:         |
 |  2024  | [ACL](#acl-2024) | [EMNLP](#emnlp-2024) | [NAACL](#naacl-2024) |
 |  2023  | [ACL](#acl-2023) | [EMNLP](#emnlp-2023) |                      |
@@ -11,9 +11,7 @@
 
 ## Conference Papers
 
-###  ACL 2024
-Coming ...
-### EMNLP 2024
-Coming ...
-### NAACL 2024
-- Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23/)
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwOTYzOTA0OTNdfQ==
+-->
