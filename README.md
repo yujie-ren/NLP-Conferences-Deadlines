@@ -1,4 +1,4 @@
-# NLP Conferences Deadlines
+
 ## Conf Rankings
 |  Conf  | ACL    |   EMNLP  |   NAACL  | EACL | COLING |
 | :---:  |    :----:     |     :---:       |     :---:     | :---:  | :---: |
@@ -19,7 +19,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTYyMzM1MSwtNzQzNjk3NjA1LDM1Mj
+eyJoaXN0b3J5IjpbLTU3ODUwODU1NiwtNzQzNjk3NjA1LDM1Mj
 cyNzc1Niw4NjQ5MjU5MDEsLTE4NTgxNzk5OTIsMjA3ODc2ODgx
 NCwtNzE1NjcyODUyLDEwODk0NDk0MjJdfQ==
 -->
