@@ -1,6 +1,6 @@
 # NLP Conferences Deadlines
 
-## 2024 Confs
+## 2025 Confs
 
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:        |        :---:         |        :---:         |
@@ -13,6 +13,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjExMDQ5NTcsLTcxNTY3Mjg1MiwxMD
+eyJoaXN0b3J5IjpbLTEwODkwMzkxNjQsLTcxNTY3Mjg1MiwxMD
 g5NDQ5NDIyXX0=
 -->
