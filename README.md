@@ -4,17 +4,17 @@
 
 |  Conf  | Submission    |   Notification  |   Conference  | CORE23 | CCF22 |
 | :---:  |    :----:     |     :---:       |     :---:     | :---:  | :---: |
-|  ACL   |               |                 |               |   A*   | A  |
-|  EMNLP |               |                 |               |   A*   | B    |
-|  NAACL |               |                 |               |   A    | B  |
-|  EACL  |               |                 |               |   A    | --  |
-| [COLING](https://coling2025.org/) | 16-09-2024 | 29-11-2024 | 19-01-2025 |   B  | B |
+|  ACL   |               |                 |               |   A*   |   A   |
+|  EMNLP |               |                 |               |   A*   |   B   |
+|  NAACL |               |                 |               |   A    |   B   |
+|  EACL  |               |                 |               |   A    |   --  |
+| [COLING](https://coling2025.org/) | 16-09-2024 | 29-11-2024 | 19-01-2025 |  B  | B |
 
 ## 2024 Confs
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyNzI3NzU2LDg2NDkyNTkwMSwtMTg1OD
-E3OTk5MiwyMDc4NzY4ODE0LC03MTU2NzI4NTIsMTA4OTQ0OTQy
-Ml19
+eyJoaXN0b3J5IjpbMTg0NzM1NTMzNiwzNTI3Mjc3NTYsODY0OT
+I1OTAxLC0xODU4MTc5OTkyLDIwNzg3Njg4MTQsLTcxNTY3Mjg1
+MiwxMDg5NDQ5NDIyXX0=
 -->
