@@ -1,6 +1,9 @@
 # NLP Conferences Deadlines
 ## Conf Rankings
-
+|  Conf  | A    |   Notification  |   Conference  | CORE23 | CCF22 |
+| :---:  |    :----:     |     :---:       |     :---:     | :---:  | :---: |
+|  CORE2023   |               |                 |               |   A*   |   A   |
+|  CCF2022 |               |                 |               |   A*   |   B   |
 
 ## 2025 Confs
 
@@ -16,7 +19,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzOTY2NzQ0LC03NDM2OTc2MDUsMzUyNz
+eyJoaXN0b3J5IjpbMjY4MzI2Nzk0LC03NDM2OTc2MDUsMzUyNz
 I3NzU2LDg2NDkyNTkwMSwtMTg1ODE3OTk5MiwyMDc4NzY4ODE0
 LC03MTU2NzI4NTIsMTA4OTQ0OTQyMl19
 -->
