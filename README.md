@@ -2,7 +2,7 @@
 ## 2025 Confs
 
 |  Conf  | Submission    |   Notification  |   Conference  | 
-| :---:  |    :----:     |     :---:       |     :---:     | :---:  | :---: |
+| :---:  |    :----:     |     :---:       |     :---:     | 
 |  ACL   |               |                 |               |   A*   |   A   |
 |  EMNLP |               |                 |               |   A*   |   B   |
 |  NAACL |               |                 |               |   A    |   B   |
@@ -17,7 +17,7 @@
 | CORE2023 |       A*        |        A*         |     A           |    A   |    B  |
 |  CCF2022 |        A       |          B       |       B        |   -   |   B   |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTczNTY3MiwtNTc4NTA4NTU2LC03ND
+eyJoaXN0b3J5IjpbLTk0OTU4NTUyMCwtNTc4NTA4NTU2LC03ND
 M2OTc2MDUsMzUyNzI3NzU2LDg2NDkyNTkwMSwtMTg1ODE3OTk5
 MiwyMDc4NzY4ODE0LC03MTU2NzI4NTIsMTA4OTQ0OTQyMl19
 -->
