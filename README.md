@@ -1,4 +1,4 @@
-# Top NLP Conferences Deadlines
+# NLP Conferences Deadlines
 
 ## Contents
 
@@ -13,5 +13,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTYzOTA0OTNdfQ==
+eyJoaXN0b3J5IjpbMTY3NzYwNDgyNF19
 -->
