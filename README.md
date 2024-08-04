@@ -1,4 +1,4 @@
-# Top NLP Confenerces Deadlines
+# Top NLP Conferences Deadlines
 
 ## Contents
 
