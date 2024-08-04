@@ -3,7 +3,7 @@
 ## 2025 Confs
 
 |  Conf  | Submission    |   Notification  |   Conference  | CORE23 |
-| :---:  |    :----:     |     :---:       |     :---:     |       |
+| :---:  |    :----:     |     :---:       |     :---:     | :---:  |
 |  ACL   |               |                 |               |       |
 |  EMNLP |               |                 |               |       |
 |  NAACL |               |                 |               |       |
@@ -14,6 +14,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTMxNjcwNTcsLTE4NTgxNzk5OTIsMj
+eyJoaXN0b3J5IjpbLTE4OTExMjQ2NDIsLTE4NTgxNzk5OTIsMj
 A3ODc2ODgxNCwtNzE1NjcyODUyLDEwODk0NDk0MjJdfQ==
 -->
