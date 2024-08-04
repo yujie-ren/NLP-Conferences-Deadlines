@@ -1,6 +1,6 @@
 # NLP Conferences Deadlines
 
-## 2024 Main Confs
+## 2024 Confs
 
 |  Year  |                   | |                         |
 | :---:  |    :----:        |        :---:         |        :---:         |
@@ -13,5 +13,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTQ0OTQyMl19
+eyJoaXN0b3J5IjpbLTEwNjU1NDE2MDUsMTA4OTQ0OTQyMl19
 -->
