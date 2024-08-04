@@ -1,10 +1,4 @@
 
-## Conf Rankings
-|  Conf  | ACL    |   EMNLP  |   NAACL  | EACL | COLING |
-| :---:  |    :----:     |     :---:       |     :---:     | :---:  | :---: |
-|  CORE2023   |               |                 |               |      |      |
-|  CCF2022 |               |                 |               |      |      |
-
 ## 2025 Confs
 
 |  Conf  | Submission    |   Notification  |   Conference  | CORE23 | CCF22 |
@@ -17,9 +11,14 @@
 
 ## 2024 Confs
 
-
+## Conf Rankings
+|  Conf  | ACL    |   EMNLP  |   NAACL  | EACL | COLING |
+| :---:  |    :----:     |     :---:       |     :---:     | :---:  | :---: |
+|  CORE2023   |               |                 |               |      |      |
+|  CCF2022 |               |                 |               |      |      |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODUwODU1NiwtNzQzNjk3NjA1LDM1Mj
-cyNzc1Niw4NjQ5MjU5MDEsLTE4NTgxNzk5OTIsMjA3ODc2ODgx
-NCwtNzE1NjcyODUyLDEwODk0NDk0MjJdfQ==
+eyJoaXN0b3J5IjpbLTExMjgyNzc0MDQsLTU3ODUwODU1NiwtNz
+QzNjk3NjA1LDM1MjcyNzc1Niw4NjQ5MjU5MDEsLTE4NTgxNzk5
+OTIsMjA3ODc2ODgxNCwtNzE1NjcyODUyLDEwODk0NDk0MjJdfQ
+==
 -->
