@@ -7,13 +7,13 @@
 |  ACL   |               |                 |               |
 |  EMNLP |               |                  |                      |
 |  NAACL |               |                   |                 |
-|  EACL  |               |                 |                 |
+|  [EACL]  |               |                 |                 |
 |  [COLING](https://coling2025.org/)  |  |  |  |
 
 ## 2024 Confs
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxOTcwMzUwLC0xODU4MTc5OTkyLDIwNz
-g3Njg4MTQsLTcxNTY3Mjg1MiwxMDg5NDQ5NDIyXX0=
+eyJoaXN0b3J5IjpbLTEyOTU0NzYwNDIsLTE4NTgxNzk5OTIsMj
+A3ODc2ODgxNCwtNzE1NjcyODUyLDEwODk0NDk0MjJdfQ==
 -->
