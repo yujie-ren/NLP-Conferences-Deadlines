@@ -8,12 +8,12 @@
 |  EMNLP |               |                  |                      |
 |  NAACL |               |                   |                 |
 |  EACL  |               |                 |                 |
-| [COLING](https://coling2025.org/) |  |  |  |
+| [COLING](https://coling2025.org/) ||  | 19-01-2025 |
 
 ## 2024 Confs
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTkxMzQzMTAsLTE4NTgxNzk5OTIsMj
-A3ODc2ODgxNCwtNzE1NjcyODUyLDEwODk0NDk0MjJdfQ==
+eyJoaXN0b3J5IjpbMTgzNDUwNTUzOCwtMTg1ODE3OTk5MiwyMD
+c4NzY4ODE0LC03MTU2NzI4NTIsMTA4OTQ0OTQyMl19
 -->
