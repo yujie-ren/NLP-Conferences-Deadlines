@@ -2,7 +2,7 @@
 
 ## Contents
 
-|  Year  | [Conference](#conference-papers) |                      | |                         |
+|  Year  |                   | |                         |
 | :---:  |    :----:        |        :---:         |        :---:         |
 |  2024  | [ACL](#acl-2024) | [EMNLP](#emnlp-2024) | [NAACL](#naacl-2024) |
 |  2023  | [ACL](#acl-2023) | [EMNLP](#emnlp-2023) |                      |
@@ -13,5 +13,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzYwNDgyNF19
+eyJoaXN0b3J5IjpbMjA2MzU4NzIwNiwxNjc3NjA0ODI0XX0=
 -->
