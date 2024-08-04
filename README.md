@@ -14,11 +14,10 @@
 ## Conf Rankings
 |  Conf  | ACL    |   EMNLP  |   NAACL  | EACL | COLING |
 | :---:  |    :----:     |     :---:       |     :---:     | :---:  | :---: |
-| CORE2023 |               |                 |               |      |      |
-|  CCF2022 |               |                 |               |      |      |
+| CORE2023 |       A*        |        A*         |     A           |    A   |    B  |
+|  CCF2022 |        A       |          B       |       B        |   -   |   B   |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDg5ODM1ODQsLTU3ODUwODU1NiwtNz
-QzNjk3NjA1LDM1MjcyNzc1Niw4NjQ5MjU5MDEsLTE4NTgxNzk5
-OTIsMjA3ODc2ODgxNCwtNzE1NjcyODUyLDEwODk0NDk0MjJdfQ
-==
+eyJoaXN0b3J5IjpbMTcyMzgxMTQyLC01Nzg1MDg1NTYsLTc0Mz
+Y5NzYwNSwzNTI3Mjc3NTYsODY0OTI1OTAxLC0xODU4MTc5OTky
+LDIwNzg3Njg4MTQsLTcxNTY3Mjg1MiwxMDg5NDQ5NDIyXX0=
 -->
