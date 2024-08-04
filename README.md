@@ -2,7 +2,7 @@
 
 ## 2024 Confs
 
-|  Year  |                   | |                         |
+|  Conf  |                  |                      |                      |
 | :---:  |    :----:        |        :---:         |        :---:         |
 |  2024  | [ACL](#acl-2024) | [EMNLP](#emnlp-2024) | [NAACL](#naacl-2024) |
 |  2023  | [ACL](#acl-2023) | [EMNLP](#emnlp-2023) |                      |
@@ -13,5 +13,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjU1NDE2MDUsMTA4OTQ0OTQyMl19
+eyJoaXN0b3J5IjpbLTY0MjU3OTg0OCwxMDg5NDQ5NDIyXX0=
 -->
