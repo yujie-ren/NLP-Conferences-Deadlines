@@ -2,7 +2,7 @@
 
 ## 2024 Confs
 
-|  Conf  |   Submission DDL   |                      |                      |
+|  Conf  | Submission DDL |                      |                      |
 | :---:  |    :----:        |        :---:         |        :---:         |
 |  ACL   | [ACL](#acl-2024) | [EMNLP](#emnlp-2024) | [NAACL](#naacl-2024) |
 |  EMNLP | [ACL](#acl-2023) | [EMNLP](#emnlp-2023) |                      |
@@ -13,5 +13,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0MjA2NzM4LDEwODk0NDk0MjJdfQ==
+eyJoaXN0b3J5IjpbMTYyNTY0NjQ4MiwxMDg5NDQ5NDIyXX0=
 -->
