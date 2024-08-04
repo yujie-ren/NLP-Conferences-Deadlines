@@ -1,5 +1,5 @@
 # NLP Conferences Deadlines
-## Confs RANK
+## Conf Rankings
 
 
 ## 2025 Confs
@@ -16,7 +16,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDg5MzI0MiwtNzQzNjk3NjA1LDM1Mj
-cyNzc1Niw4NjQ5MjU5MDEsLTE4NTgxNzk5OTIsMjA3ODc2ODgx
-NCwtNzE1NjcyODUyLDEwODk0NDk0MjJdfQ==
+eyJoaXN0b3J5IjpbNjQzOTY2NzQ0LC03NDM2OTc2MDUsMzUyNz
+I3NzU2LDg2NDkyNTkwMSwtMTg1ODE3OTk5MiwyMDc4NzY4ODE0
+LC03MTU2NzI4NTIsMTA4OTQ0OTQyMl19
 -->
