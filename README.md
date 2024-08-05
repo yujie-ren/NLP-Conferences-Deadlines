@@ -15,10 +15,10 @@
 |  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |
 | :---:  | :----:  |   :---:  |  :---:   | :---:|  :---: |
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
-| [CCF2022](https://www.ccf.org.cn/)                 |        A       |          B       |       B        |   -   |   B   |
+| [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjQxNDY0LC02MDc2Mjc1OTIsMTU2OD
-k4Nzk1LC0xMTE5MDgwMjAsLTU3ODUwODU1NiwtNzQzNjk3NjA1
-LDM1MjcyNzc1Niw4NjQ5MjU5MDEsLTE4NTgxNzk5OTIsMjA3OD
-c2ODgxNCwtNzE1NjcyODUyLDEwODk0NDk0MjJdfQ==
+eyJoaXN0b3J5IjpbMTk5NzQ2NDc0NCwtNjA3NjI3NTkyLDE1Nj
+g5ODc5NSwtMTExOTA4MDIwLC01Nzg1MDg1NTYsLTc0MzY5NzYw
+NSwzNTI3Mjc3NTYsODY0OTI1OTAxLC0xODU4MTc5OTkyLDIwNz
+g3Njg4MTQsLTcxNTY3Mjg1MiwxMDg5NDQ5NDIyXX0=
 -->
