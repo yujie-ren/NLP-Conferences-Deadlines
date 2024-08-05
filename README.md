@@ -24,7 +24,7 @@
 | [EMNLP](https://2023.emnlp.org/)  |               |                 |               |
 | NAACL                             |       -       |        -        |       -       |
 | [EACL](https://2023.eacl.org/)    |               |                 |               |
-| [COLING]() |               |                 |               |
+| COLING                            |       -       |        -        |       -       |
 
 ## 2022 Confs
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -41,9 +41,9 @@
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTM3OTQxMSwxNDA1ODgxNjMxLDEzMD
-Y1NTQwMTIsMTk5NzQ2NDc0NCwtNjA3NjI3NTkyLDE1Njg5ODc5
-NSwtMTExOTA4MDIwLC01Nzg1MDg1NTYsLTc0MzY5NzYwNSwzNT
-I3Mjc3NTYsODY0OTI1OTAxLC0xODU4MTc5OTkyLDIwNzg3Njg4
-MTQsLTcxNTY3Mjg1MiwxMDg5NDQ5NDIyXX0=
+eyJoaXN0b3J5IjpbNzc4ODAxNjM3LDE0MDU4ODE2MzEsMTMwNj
+U1NDAxMiwxOTk3NDY0NzQ0LC02MDc2Mjc1OTIsMTU2ODk4Nzk1
+LC0xMTE5MDgwMjAsLTU3ODUwODU1NiwtNzQzNjk3NjA1LDM1Mj
+cyNzc1Niw4NjQ5MjU5MDEsLTE4NTgxNzk5OTIsMjA3ODc2ODgx
+NCwtNzE1NjcyODUyLDEwODk0NDk0MjJdfQ==
 -->
