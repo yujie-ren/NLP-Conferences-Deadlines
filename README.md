@@ -12,13 +12,13 @@
 ## 2024 Confs
 
 ## Conf Rankings
-|  Conf  | ACL    |   EMNLP  |   NAACL  | EACL | COLING |
-| :---:  |    :----:     |     :---:       |     :---:     | :---:  | :---: |
+|  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |
+| :---:  | :----:  |   :---:  |  :---:     | :---:  | :---: |
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/) |        A       |          B       |       B        |   -   |   B   |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzYyNzU5MiwxNTY4OTg3OTUsLTExMT
-kwODAyMCwtNTc4NTA4NTU2LC03NDM2OTc2MDUsMzUyNzI3NzU2
-LDg2NDkyNTkwMSwtMTg1ODE3OTk5MiwyMDc4NzY4ODE0LC03MT
-U2NzI4NTIsMTA4OTQ0OTQyMl19
+eyJoaXN0b3J5IjpbLTcwMzg2NzE4LC02MDc2Mjc1OTIsMTU2OD
+k4Nzk1LC0xMTE5MDgwMjAsLTU3ODUwODU1NiwtNzQzNjk3NjA1
+LDM1MjcyNzc1Niw4NjQ5MjU5MDEsLTE4NTgxNzk5OTIsMjA3OD
+c2ODgxNCwtNzE1NjcyODUyLDEwODk0NDk0MjJdfQ==
 -->
