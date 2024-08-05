@@ -15,7 +15,7 @@
 | [EMNLP](https://2024.emnlp.org/)  |               |                 |               |
 | [NAACL](https://2024.naacl.org/)  |               |                 |               |
 | [EACL](https://2024.eacl.org/)    |               |                 |               |
-| [COLING](https://coling2025.org/) |               |                |                |
+| [COLING](https://coling2025.org/) |               |                 |               |
 
 ## Conf Rankings
 |  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |
@@ -23,9 +23,9 @@
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDUxMDk2OTIsMTk5NzQ2NDc0NCwtNj
-A3NjI3NTkyLDE1Njg5ODc5NSwtMTExOTA4MDIwLC01Nzg1MDg1
-NTYsLTc0MzY5NzYwNSwzNTI3Mjc3NTYsODY0OTI1OTAxLC0xOD
-U4MTc5OTkyLDIwNzg3Njg4MTQsLTcxNTY3Mjg1MiwxMDg5NDQ5
-NDIyXX0=
+eyJoaXN0b3J5IjpbMzI3NDc1NzI0LDE5OTc0NjQ3NDQsLTYwNz
+YyNzU5MiwxNTY4OTg3OTUsLTExMTkwODAyMCwtNTc4NTA4NTU2
+LC03NDM2OTc2MDUsMzUyNzI3NzU2LDg2NDkyNTkwMSwtMTg1OD
+E3OTk5MiwyMDc4NzY4ODE0LC03MTU2NzI4NTIsMTA4OTQ0OTQy
+Ml19
 -->
