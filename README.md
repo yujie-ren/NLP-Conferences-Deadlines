@@ -11,7 +11,7 @@
 ## 2024 Confs
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-| [ACL]()   |               |                 |               |
+| [ACL](https://2024.aclweb.org/)   |               |                 |               |
 | [EMNLP]() |               |                 |               |
 | [NAACL]() |               |                 |               |
 | [EACL]()  |               |                 |               |
@@ -23,9 +23,9 @@
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTQwOTEwMSwxOTk3NDY0NzQ0LC02MD
-c2Mjc1OTIsMTU2ODk4Nzk1LC0xMTE5MDgwMjAsLTU3ODUwODU1
-NiwtNzQzNjk3NjA1LDM1MjcyNzc1Niw4NjQ5MjU5MDEsLTE4NT
-gxNzk5OTIsMjA3ODc2ODgxNCwtNzE1NjcyODUyLDEwODk0NDk0
-MjJdfQ==
+eyJoaXN0b3J5IjpbLTEwMTM4NzUzOTUsMTk5NzQ2NDc0NCwtNj
+A3NjI3NTkyLDE1Njg5ODc5NSwtMTExOTA4MDIwLC01Nzg1MDg1
+NTYsLTc0MzY5NzYwNSwzNTI3Mjc3NTYsODY0OTI1OTAxLC0xOD
+U4MTc5OTkyLDIwNzg3Njg4MTQsLTcxNTY3Mjg1MiwxMDg5NDQ5
+NDIyXX0=
 -->
