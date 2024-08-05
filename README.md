@@ -29,7 +29,7 @@
 ## 2022 Confs
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-| [ACL]()   |               |                 |               |
+| [ACL](https://www.aclweb.org/portal/content/60th-annual-meeting-association-computational-linguistics)   |               |                 |               |
 | [EMNLP]()  |               |                 |               |
 | [NAACL]()  |               |                 |               |
 | [EACL]()    |               |                 |               |
@@ -41,9 +41,9 @@
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4ODAxNjM3LDE0MDU4ODE2MzEsMTMwNj
-U1NDAxMiwxOTk3NDY0NzQ0LC02MDc2Mjc1OTIsMTU2ODk4Nzk1
-LC0xMTE5MDgwMjAsLTU3ODUwODU1NiwtNzQzNjk3NjA1LDM1Mj
-cyNzc1Niw4NjQ5MjU5MDEsLTE4NTgxNzk5OTIsMjA3ODc2ODgx
-NCwtNzE1NjcyODUyLDEwODk0NDk0MjJdfQ==
+eyJoaXN0b3J5IjpbNzUxMTAyMTcxLDc3ODgwMTYzNywxNDA1OD
+gxNjMxLDEzMDY1NTQwMTIsMTk5NzQ2NDc0NCwtNjA3NjI3NTky
+LDE1Njg5ODc5NSwtMTExOTA4MDIwLC01Nzg1MDg1NTYsLTc0Mz
+Y5NzYwNSwzNTI3Mjc3NTYsODY0OTI1OTAxLC0xODU4MTc5OTky
+LDIwNzg3Njg4MTQsLTcxNTY3Mjg1MiwxMDg5NDQ5NDIyXX0=
 -->
