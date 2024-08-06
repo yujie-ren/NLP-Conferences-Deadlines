@@ -1,30 +1,6 @@
 
 ## 2025 Confs
 
-<!-- 让表格居中显示的风格 -->
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="黑体" size=2.>表1 示例表格</font></p>
-
-<div class="center">
-
-| 序号  | 偏移  |   说明   |
-| :---: | :---: | :------: |
-|   1   |   0   | 表格说明 |
-|   2   |   2   | 表格说明 |
-|   3   |   4   | 表格说明 |
-</div>
-
-
-
  
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
@@ -68,7 +44,7 @@
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MzA0ODIwNCwtNTUzMDQ2ODgyLC0xMD
+eyJoaXN0b3J5IjpbMTYyOTU4MjQ3MiwtNTUzMDQ2ODgyLC0xMD
 cwMzkyNTMwLDE5NDE4MTEwNTgsNzUxMTAyMTcxLDc3ODgwMTYz
 NywxNDA1ODgxNjMxLDEzMDY1NTQwMTIsMTk5NzQ2NDc0NCwtNj
 A3NjI3NTkyLDE1Njg5ODc5NSwtMTExOTA4MDIwLC01Nzg1MDg1
