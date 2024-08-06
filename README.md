@@ -12,7 +12,7 @@
 ## 2024 Confs
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-| [ACL](https://2024.aclweb.org/)   |               |                 |   11-08-2024  |
+| [ACL](https://2024.aclweb.org/)   |  15-02-2024   |                 |   11-08-2024  |
 | [EMNLP](https://2024.emnlp.org/)  |               |                 |               |
 | [NAACL](https://2024.naacl.org/)  |               |                 |               |
 | [EACL](https://2024.eacl.org/)    |               |                 |               |
@@ -42,11 +42,11 @@
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQxNDMyMDQsMjEyNTk1MDMwOCwtNT
-UzMDQ2ODgyLC0xMDcwMzkyNTMwLDE5NDE4MTEwNTgsNzUxMTAy
-MTcxLDc3ODgwMTYzNywxNDA1ODgxNjMxLDEzMDY1NTQwMTIsMT
-k5NzQ2NDc0NCwtNjA3NjI3NTkyLDE1Njg5ODc5NSwtMTExOTA4
-MDIwLC01Nzg1MDg1NTYsLTc0MzY5NzYwNSwzNTI3Mjc3NTYsOD
-Y0OTI1OTAxLC0xODU4MTc5OTkyLDIwNzg3Njg4MTQsLTcxNTY3
-Mjg1Ml19
+eyJoaXN0b3J5IjpbLTMzODE4NDAzOCwtMTU5NDE0MzIwNCwyMT
+I1OTUwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgx
+MTA1OCw3NTExMDIxNzEsNzc4ODAxNjM3LDE0MDU4ODE2MzEsMT
+MwNjU1NDAxMiwxOTk3NDY0NzQ0LC02MDc2Mjc1OTIsMTU2ODk4
+Nzk1LC0xMTE5MDgwMjAsLTU3ODUwODU1NiwtNzQzNjk3NjA1LD
+M1MjcyNzc1Niw4NjQ5MjU5MDEsLTE4NTgxNzk5OTIsMjA3ODc2
+ODgxNF19
 -->
