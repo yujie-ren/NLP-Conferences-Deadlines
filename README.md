@@ -1,16 +1,31 @@
 
 ## 2025 Confs
-<!-- 让表格居中显示的风格 -->  
-<style> 
+
+<!-- 让表格居中显示的风格 -->
+<style>
 .center 
-{ 
-width: auto; 
-display: table; 
-margin-left: auto; 
-margin-right: auto; } 
-</style>  
-<p align="center"><font face="黑体" size=2.>表1 示例表格</font></p> 
- <div class="center">
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="黑体" size=2.>表1 示例表格</font></p>
+
+<div class="center">
+
+| 序号  | 偏移  |   说明   |
+| :---: | :---: | :------: |
+|   1   |   0   | 表格说明 |
+|   2   |   2   | 表格说明 |
+|   3   |   4   | 表格说明 |
+
+</div>
+
+
+
  
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
@@ -20,7 +35,6 @@ margin-right: auto; }
 |  EACL  |               |                 |               |
 | [COLING](https://coling2025.org/) | 16-09-2024 | 29-11-2024 | 19-01-2025 |
  
- </div>
  
 ## 2024 Confs
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -55,10 +69,10 @@ margin-right: auto; }
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzAzOTI1MzAsMTk0MTgxMTA1OCw3NT
-ExMDIxNzEsNzc4ODAxNjM3LDE0MDU4ODE2MzEsMTMwNjU1NDAx
-MiwxOTk3NDY0NzQ0LC02MDc2Mjc1OTIsMTU2ODk4Nzk1LC0xMT
-E5MDgwMjAsLTU3ODUwODU1NiwtNzQzNjk3NjA1LDM1MjcyNzc1
-Niw4NjQ5MjU5MDEsLTE4NTgxNzk5OTIsMjA3ODc2ODgxNCwtNz
-E1NjcyODUyLDEwODk0NDk0MjJdfQ==
+eyJoaXN0b3J5IjpbLTU1MzA0Njg4MiwtMTA3MDM5MjUzMCwxOT
+QxODExMDU4LDc1MTEwMjE3MSw3Nzg4MDE2MzcsMTQwNTg4MTYz
+MSwxMzA2NTU0MDEyLDE5OTc0NjQ3NDQsLTYwNzYyNzU5MiwxNT
+Y4OTg3OTUsLTExMTkwODAyMCwtNTc4NTA4NTU2LC03NDM2OTc2
+MDUsMzUyNzI3NzU2LDg2NDkyNTkwMSwtMTg1ODE3OTk5MiwyMD
+c4NzY4ODE0LC03MTU2NzI4NTIsMTA4OTQ0OTQyMl19
 -->
