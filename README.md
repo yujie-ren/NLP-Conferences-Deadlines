@@ -6,8 +6,7 @@
 |  EMNLP |               |                 |               |
 |  NAACL |               |                 |               |
 |  EACL  |               |                 |               |
-| [COLING](https://coling2025.org/) | 
-~~16-09-2024 | 29-11-2024 | 19-01-2025 |
+| [COLING](https://coling2025.org/) | ~~16-09-2024~~ | 29-11-2024 | 19-01-2025 |
  
  
 ## 2024 Confs
@@ -43,7 +42,7 @@
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTIwNzM0MiwtNTUzMDQ2ODgyLC0xMD
+eyJoaXN0b3J5IjpbMjEyNTk1MDMwOCwtNTUzMDQ2ODgyLC0xMD
 cwMzkyNTMwLDE5NDE4MTEwNTgsNzUxMTAyMTcxLDc3ODgwMTYz
 NywxNDA1ODgxNjMxLDEzMDY1NTQwMTIsMTk5NzQ2NDc0NCwtNj
 A3NjI3NTkyLDE1Njg5ODc5NSwtMTExOTA4MDIwLC01Nzg1MDg1
