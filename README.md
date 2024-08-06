@@ -1,7 +1,5 @@
 
-## 2025 Confs
-
- 
+## 2025 Confs 
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |  ACL   |               |                 |               |
@@ -44,11 +42,11 @@
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTU4MjQ3MiwtNTUzMDQ2ODgyLC0xMD
-cwMzkyNTMwLDE5NDE4MTEwNTgsNzUxMTAyMTcxLDc3ODgwMTYz
-NywxNDA1ODgxNjMxLDEzMDY1NTQwMTIsMTk5NzQ2NDc0NCwtNj
-A3NjI3NTkyLDE1Njg5ODc5NSwtMTExOTA4MDIwLC01Nzg1MDg1
-NTYsLTc0MzY5NzYwNSwzNTI3Mjc3NTYsODY0OTI1OTAxLC0xOD
-U4MTc5OTkyLDIwNzg3Njg4MTQsLTcxNTY3Mjg1MiwxMDg5NDQ5
-NDIyXX0=
+eyJoaXN0b3J5IjpbNjM0MzIzMTcyLC01NTMwNDY4ODIsLTEwNz
+AzOTI1MzAsMTk0MTgxMTA1OCw3NTExMDIxNzEsNzc4ODAxNjM3
+LDE0MDU4ODE2MzEsMTMwNjU1NDAxMiwxOTk3NDY0NzQ0LC02MD
+c2Mjc1OTIsMTU2ODk4Nzk1LC0xMTE5MDgwMjAsLTU3ODUwODU1
+NiwtNzQzNjk3NjA1LDM1MjcyNzc1Niw4NjQ5MjU5MDEsLTE4NT
+gxNzk5OTIsMjA3ODc2ODgxNCwtNzE1NjcyODUyLDEwODk0NDk0
+MjJdfQ==
 -->
