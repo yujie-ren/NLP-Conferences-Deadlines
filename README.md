@@ -11,7 +11,7 @@
  
 ## 2024 Confs
 |  Conf  | Submission    |   Notification  |   Conference  |
-| :---:  |    :----:     |     :---:       |     :---:     |
+| :---:  |    :----     |     :---:       |     :---:     |
 | [ACL](https://2024.aclweb.org/)   |February 15, 2024|May 15, 2024|**August 11–16, 2024**|
 | [EMNLP](https://2024.emnlp.org/)  |June 15, 2024|**September 20, 2024**|**November 12-16, 2024**|
 | [NAACL](https://2024.naacl.org/)  |December 15, 2023|March 15, 2024|June 16–21, 2024|
@@ -42,7 +42,7 @@
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTcyNzIyMzgsLTE2MzIzODg3NzQsLT
+eyJoaXN0b3J5IjpbLTE3MjI2Njk3NDQsLTE2MzIzODg3NzQsLT
 cwMjU1NDQ4NiwtMTU5NjMxMjM4NSw4NTAwNjU1OTIsLTIxMjc4
 NjI2NDIsLTIwNzI1NDUyODcsLTE3NzQ0OTMyODYsLTE1OTQxND
 MyMDQsMjEyNTk1MDMwOCwtNTUzMDQ2ODgyLC0xMDcwMzkyNTMw
