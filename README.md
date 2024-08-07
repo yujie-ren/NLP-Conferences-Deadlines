@@ -15,7 +15,7 @@
 | [ACL](https://2024.aclweb.org/)   |February 15, 2024|May 15, 2024|**August 11–16, 2024**|
 | [EMNLP](https://2024.emnlp.org/)  |June 15, 2024|**September 20, 2024**|**November 12-16, 2024**|
 | [NAACL](https://2024.naacl.org/)  |December 15, 2023|March 15, 2024|June 16–21, 2024|
-| [EACL](https://2024.eacl.org/)    |               |                 |March 17-22, 2024|
+| [EACL](https://2024.eacl.org/)    |15 October 2023|17 January 2024|March 17-22, 2024|
 | [COLING](https://coling2025.org/) |               |                 |               |
 
 ## 2023 Confs
@@ -42,11 +42,11 @@
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTMwNDQ3OTYsLTcwMjU1NDQ4NiwtMT
-U5NjMxMjM4NSw4NTAwNjU1OTIsLTIxMjc4NjI2NDIsLTIwNzI1
-NDUyODcsLTE3NzQ0OTMyODYsLTE1OTQxNDMyMDQsMjEyNTk1MD
-MwOCwtNTUzMDQ2ODgyLC0xMDcwMzkyNTMwLDE5NDE4MTEwNTgs
-NzUxMTAyMTcxLDc3ODgwMTYzNywxNDA1ODgxNjMxLDEzMDY1NT
-QwMTIsMTk5NzQ2NDc0NCwtNjA3NjI3NTkyLDE1Njg5ODc5NSwt
-MTExOTA4MDIwXX0=
+eyJoaXN0b3J5IjpbOTMzNTc4NTUzLC03MDI1NTQ0ODYsLTE1OT
+YzMTIzODUsODUwMDY1NTkyLC0yMTI3ODYyNjQyLC0yMDcyNTQ1
+Mjg3LC0xNzc0NDkzMjg2LC0xNTk0MTQzMjA0LDIxMjU5NTAzMD
+gsLTU1MzA0Njg4MiwtMTA3MDM5MjUzMCwxOTQxODExMDU4LDc1
+MTEwMjE3MSw3Nzg4MDE2MzcsMTQwNTg4MTYzMSwxMzA2NTU0MD
+EyLDE5OTc0NjQ3NDQsLTYwNzYyNzU5MiwxNTY4OTg3OTUsLTEx
+MTkwODAyMF19
 -->
