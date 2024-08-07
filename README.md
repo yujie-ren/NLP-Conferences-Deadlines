@@ -14,7 +14,7 @@
 | :---:  |    :----:     |     :---:       |     :---:     |
 | [ACL](https://2024.aclweb.org/)   |February 15, 2024|May 15, 2024|**August 11–16, 2024**|
 | [EMNLP](https://2024.emnlp.org/)  |June 15, 2024|**September 20, 2024**|**November 12-16, 2024**|
-| [NAACL](https://2024.naacl.org/)  |               |                 |               |
+| [NAACL](https://2024.naacl.org/)  |               |                 |June 16–21, 2024|
 | [EACL](https://2024.eacl.org/)    |               |                 |               |
 | [COLING](https://coling2025.org/) |               |                 |               |
 
@@ -42,7 +42,7 @@
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzAwMTY3NCwtNzAyNTU0NDg2LC0xNT
+eyJoaXN0b3J5IjpbLTYzOTMzMDcyNSwtNzAyNTU0NDg2LC0xNT
 k2MzEyMzg1LDg1MDA2NTU5MiwtMjEyNzg2MjY0MiwtMjA3MjU0
 NTI4NywtMTc3NDQ5MzI4NiwtMTU5NDE0MzIwNCwyMTI1OTUwMz
 A4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1OCw3
