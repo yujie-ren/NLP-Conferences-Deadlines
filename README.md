@@ -6,7 +6,7 @@
 |  EMNLP |               |                 |               |
 |  NAACL |               |                 |               |
 |  EACL  |               |                 |               |
-| [COLING](https://coling2025.org/) | **16-09-2024** | **29-11-2024** | **January 19-24, 2025** |
+| [COLING](https://coling2025.org/) | **September 16, 2024** | **November 29, 2024** | **January 19-24, 2025** |
  
  
 ## 2024 Confs
@@ -42,11 +42,11 @@
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDY1ODkzODIsLTE2MzIzODg3NzQsLT
-cwMjU1NDQ4NiwtMTU5NjMxMjM4NSw4NTAwNjU1OTIsLTIxMjc4
-NjI2NDIsLTIwNzI1NDUyODcsLTE3NzQ0OTMyODYsLTE1OTQxND
-MyMDQsMjEyNTk1MDMwOCwtNTUzMDQ2ODgyLC0xMDcwMzkyNTMw
-LDE5NDE4MTEwNTgsNzUxMTAyMTcxLDc3ODgwMTYzNywxNDA1OD
-gxNjMxLDEzMDY1NTQwMTIsMTk5NzQ2NDc0NCwtNjA3NjI3NTky
-LDE1Njg5ODc5NV19
+eyJoaXN0b3J5IjpbMjAxMDM0NzU5NiwtMTYzMjM4ODc3NCwtNz
+AyNTU0NDg2LC0xNTk2MzEyMzg1LDg1MDA2NTU5MiwtMjEyNzg2
+MjY0MiwtMjA3MjU0NTI4NywtMTc3NDQ5MzI4NiwtMTU5NDE0Mz
+IwNCwyMTI1OTUwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAs
+MTk0MTgxMTA1OCw3NTExMDIxNzEsNzc4ODAxNjM3LDE0MDU4OD
+E2MzEsMTMwNjU1NDAxMiwxOTk3NDY0NzQ0LC02MDc2Mjc1OTIs
+MTU2ODk4Nzk1XX0=
 -->
