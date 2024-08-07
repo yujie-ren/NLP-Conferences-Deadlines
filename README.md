@@ -12,8 +12,8 @@
 ## 2024 Confs
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-| [ACL](https://2024.aclweb.org/)   |  February 15, 2024   |   May 15, 2024    |  **August 11–16, 2024**  |
-| [EMNLP](https://2024.emnlp.org/)  |               |                 |  **November 12-16, 2024**  |
+| [ACL](https://2024.aclweb.org/)   |February 15, 2024|May 15, 2024|**August 11–16, 2024**|
+| [EMNLP](https://2024.emnlp.org/)  |June 15, 2024|September 20, 2024|**November 12-16, 2024**|
 | [NAACL](https://2024.naacl.org/)  |               |                 |               |
 | [EACL](https://2024.eacl.org/)    |               |                 |               |
 | [COLING](https://coling2025.org/) |               |                 |               |
@@ -42,11 +42,11 @@
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTYzMTIzODUsODUwMDY1NTkyLC0yMT
-I3ODYyNjQyLC0yMDcyNTQ1Mjg3LC0xNzc0NDkzMjg2LC0xNTk0
-MTQzMjA0LDIxMjU5NTAzMDgsLTU1MzA0Njg4MiwtMTA3MDM5Mj
-UzMCwxOTQxODExMDU4LDc1MTEwMjE3MSw3Nzg4MDE2MzcsMTQw
-NTg4MTYzMSwxMzA2NTU0MDEyLDE5OTc0NjQ3NDQsLTYwNzYyNz
-U5MiwxNTY4OTg3OTUsLTExMTkwODAyMCwtNTc4NTA4NTU2LC03
-NDM2OTc2MDVdfQ==
+eyJoaXN0b3J5IjpbLTcwMjU1NDQ4NiwtMTU5NjMxMjM4NSw4NT
+AwNjU1OTIsLTIxMjc4NjI2NDIsLTIwNzI1NDUyODcsLTE3NzQ0
+OTMyODYsLTE1OTQxNDMyMDQsMjEyNTk1MDMwOCwtNTUzMDQ2OD
+gyLC0xMDcwMzkyNTMwLDE5NDE4MTEwNTgsNzUxMTAyMTcxLDc3
+ODgwMTYzNywxNDA1ODgxNjMxLDEzMDY1NTQwMTIsMTk5NzQ2ND
+c0NCwtNjA3NjI3NTkyLDE1Njg5ODc5NSwtMTExOTA4MDIwLC01
+Nzg1MDg1NTZdfQ==
 -->
