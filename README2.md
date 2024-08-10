@@ -1,3 +1,4 @@
+
 ## ACL Confs 
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
@@ -7,7 +8,13 @@
 |[ACL22](https://2022.aclweb.org/)|November 15, 2021|February 23, 2022|May 22-27, 2022|
 | ACL21 | | | |
 
-
+## EMNLP Confs 
+|  Conf  | Submission    |   Notification  |   Conference  |
+| :---:  |    :----:     |     :---:       |     :---:     |
+| EMNLP25 |               |                 |               |
+| [EMNLP24](https://2024.emnlp.org/)  |June 15, 2024|**September 20, 2024**|**November 12-16, 2024**|
+| [EMNLP23](https://2023.emnlp.org/)  |June 16, 2023|October 6, 2023|December 6–10, 2023|
+| [EMNLP22](https://2022.emnlp.org/)  |June 17, 2022|October 6, 2022|December 7–11, 2022|
 
 
 ## 2025 Confs 
@@ -65,6 +72,6 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTU3OTk1NjEsLTIzNDg4Njc1NCwtNj
-gwNjczMTE0XX0=
+eyJoaXN0b3J5IjpbMjc1NjI4MTI0LC0yMzQ4ODY3NTQsLTY4MD
+Y3MzExNF19
 -->
