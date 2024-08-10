@@ -19,10 +19,6 @@
 | [COLING](https://lrec-coling-2024.org/) |October 20, 2023|February 19, 2024|May 20-25, 2024|
 
 
-
-
-
-
 ## 2023 Confs
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----     |     :---       |     :---     |
@@ -42,17 +38,18 @@
 |  EACL                             |       -       |        -        |       -       |
 | [COLING](https://coling2022.org/) |May 17, 2022|August 15, 2022|October 12-17, 2022|
 
+
 ## Conf Rankings
 |  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |
 | :---:  | :----:  |   :---:  |  :---:   | :---:|  :---: |
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTIyOTU3OCwxMTEyNzQ4NTUzLC0zOD
-kwODE2OTQsNDIzNTMwMjMwLDQyMzUzMDIzMCwtMTcyMjY2OTc0
-NCwtMTYzMjM4ODc3NCwtNzAyNTU0NDg2LC0xNTk2MzEyMzg1LD
-g1MDA2NTU5MiwtMjEyNzg2MjY0MiwtMjA3MjU0NTI4NywtMTc3
-NDQ5MzI4NiwtMTU5NDE0MzIwNCwyMTI1OTUwMzA4LC01NTMwND
-Y4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1OCw3NTExMDIxNzEs
-Nzc4ODAxNjM3XX0=
+eyJoaXN0b3J5IjpbLTE4NDc5MjY4MDQsLTcyOTIyOTU3OCwxMT
+EyNzQ4NTUzLC0zODkwODE2OTQsNDIzNTMwMjMwLDQyMzUzMDIz
+MCwtMTcyMjY2OTc0NCwtMTYzMjM4ODc3NCwtNzAyNTU0NDg2LC
+0xNTk2MzEyMzg1LDg1MDA2NTU5MiwtMjEyNzg2MjY0MiwtMjA3
+MjU0NTI4NywtMTc3NDQ5MzI4NiwtMTU5NDE0MzIwNCwyMTI1OT
+UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
+OCw3NTExMDIxNzFdfQ==
 -->
