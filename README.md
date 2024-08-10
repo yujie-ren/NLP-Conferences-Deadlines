@@ -37,7 +37,7 @@
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----     |     :---       |     :---     |
 | [ACL](https://2022.aclweb.org/)|November 15, 2021|February 23, 2022|May 22-27, 2022|
-| [EMNLP](https://2022.emnlp.org/)  |               |                 |December 7–11, 2022|
+| [EMNLP](https://2022.emnlp.org/)  |June 17, 2022|                 |December 7–11, 2022|
 | [NAACL](https://2022.naacl.org/)  |               |                 |               |
 |  EACL                             |       -       |        -        |       -       |
 | [COLING](https://coling2022.org/) |               |                 |               |
@@ -48,11 +48,11 @@
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2NTk0NjYzLC0zODkwODE2OTQsNDIzNT
-MwMjMwLDQyMzUzMDIzMCwtMTcyMjY2OTc0NCwtMTYzMjM4ODc3
-NCwtNzAyNTU0NDg2LC0xNTk2MzEyMzg1LDg1MDA2NTU5MiwtMj
-EyNzg2MjY0MiwtMjA3MjU0NTI4NywtMTc3NDQ5MzI4NiwtMTU5
-NDE0MzIwNCwyMTI1OTUwMzA4LC01NTMwNDY4ODIsLTEwNzAzOT
-I1MzAsMTk0MTgxMTA1OCw3NTExMDIxNzEsNzc4ODAxNjM3LDE0
-MDU4ODE2MzFdfQ==
+eyJoaXN0b3J5IjpbLTQzMDU4NzU5OSwtMzg5MDgxNjk0LDQyMz
+UzMDIzMCw0MjM1MzAyMzAsLTE3MjI2Njk3NDQsLTE2MzIzODg3
+NzQsLTcwMjU1NDQ4NiwtMTU5NjMxMjM4NSw4NTAwNjU1OTIsLT
+IxMjc4NjI2NDIsLTIwNzI1NDUyODcsLTE3NzQ0OTMyODYsLTE1
+OTQxNDMyMDQsMjEyNTk1MDMwOCwtNTUzMDQ2ODgyLC0xMDcwMz
+kyNTMwLDE5NDE4MTEwNTgsNzUxMTAyMTcxLDc3ODgwMTYzNywx
+NDA1ODgxNjMxXX0=
 -->
