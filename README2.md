@@ -1,5 +1,5 @@
 
-## ACL Confs 
+## ACL (CORE=A*, CCF=A)
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | ACL25 |               |                 |               |
@@ -60,6 +60,6 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0OTE5OTg4LDE5MjY2NjI1NzAsLTIzND
-g4Njc1NCwtNjgwNjczMTE0XX0=
+eyJoaXN0b3J5IjpbMTU3NDQ1MjQ2MSwxOTI2NjYyNTcwLC0yMz
+Q4ODY3NTQsLTY4MDY3MzExNF19
 -->
