@@ -20,7 +20,7 @@
 ## NAACL Confs 
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-
+| NAACL25 |               |                 |               |
 
 
 ## 2025 Confs 
@@ -78,6 +78,6 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2NDE4NDIzLC0yMzQ4ODY3NTQsLTY4MD
-Y3MzExNF19
+eyJoaXN0b3J5IjpbLTQ1MzcyMzEzMywtMjM0ODg2NzU0LC02OD
+A2NzMxMTRdfQ==
 -->
