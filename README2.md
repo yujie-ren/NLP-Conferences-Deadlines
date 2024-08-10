@@ -8,7 +8,7 @@
 |[ACL22](https://2022.aclweb.org/)|November 15, 2021|February 23, 2022|May 22-27, 2022|
 | ACL21 | | | |
 
-## EMNLP ()
+## EMNLP (CORE=A*, CCF=B)
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | EMNLP25 |               |                 |               |
@@ -17,7 +17,7 @@
 |[EMNLP22](https://2022.emnlp.org/)|June 17, 2022|October 6, 2022|December 7–11, 2022|
 | EMNLP21|               |                 |               |
 
-## NAACL Confs 
+## NAACL (CORE=A, CCF=B)
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | NAACL25 |               |                 |               |
@@ -26,7 +26,7 @@
 | [NAACL22](https://2022.naacl.org/)  |January 15, 2022|April 7, 2022|July 10–15, 2022|
 | NAACL21 |               |                 |               |
 
-## EACL Confs 
+## EACL (CORE=A, CCF=N/A)
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | EACL25 |               |                 |               |
@@ -35,7 +35,7 @@
 |  EACL22                             |       -       |        -        |       -       |
 | EACL21 |               |                 |               |
 
-## COLING Confs 
+## COLING (CORE=B, CCF=B)
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[COLING25](https://coling2025.org/)|**September 16, 2024**|**November 29, 2024**|**January 19-24, 2025**|
@@ -60,6 +60,6 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTA4NjE2NjcsMTU3NDQ1MjQ2MSwxOT
-I2NjYyNTcwLC0yMzQ4ODY3NTQsLTY4MDY3MzExNF19
+eyJoaXN0b3J5IjpbLTczOTkxMDMzNCwxNTc0NDUyNDYxLDE5Mj
+Y2NjI1NzAsLTIzNDg4Njc1NCwtNjgwNjczMTE0XX0=
 -->
