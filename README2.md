@@ -38,7 +38,11 @@
 ## COLING Confs 
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-| EACL25 |               |                 |               |
+|[COLING](https://coling2025.org/)|**September 16, 2024**|**November 29, 2024**|**January 19-24, 2025**|
+| [COLING](https://lrec-coling-2024.org/) |October 20, 2023|February 19, 2024|May 20-25, 2024|
+|  COLING23                           |       -       |        -        |       -       |
+| [COLING22](https://coling2022.org/) |May 17, 2022|August 15, 2022|October 12-17, 2022|
+
 
 
 ## 2025 Confs 
@@ -96,6 +100,6 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Mjk0NjEzLC0yMzQ4ODY3NTQsLTY4MD
-Y3MzExNF19
+eyJoaXN0b3J5IjpbLTUwNDY3OTIzNCwtMjM0ODg2NzU0LC02OD
+A2NzMxMTRdfQ==
 -->
