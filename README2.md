@@ -6,7 +6,7 @@
 |[ACL24](https://2024.aclweb.org/)|February 15, 2024|May 15, 2024|**August 11–16, 2024**|
 |[ACL23](https://2023.aclweb.org/)|December 15, 2022|May 1, 2023|July 9-14, 2023|
 |[ACL22](https://2022.aclweb.org/)|November 15, 2021|February 23, 2022|May 22-27, 2022|
-|[ACL21](https://2021.aclweb.org/) | | | |
+|[ACL21](https://2021.aclweb.org/) |January 25, 2021|May 5, 2021|August 1-6, 2021|
 
 ## EMNLP (CORE=A*, CCF=B)
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -60,6 +60,6 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzIxMjM3NzgsMTU3NDQ1MjQ2MSwxOT
-I2NjYyNTcwLC0yMzQ4ODY3NTQsLTY4MDY3MzExNF19
+eyJoaXN0b3J5IjpbMTQyOTgyNDkzNSwxNTc0NDUyNDYxLDE5Mj
+Y2NjI1NzAsLTIzNDg4Njc1NCwtNjgwNjczMTE0XX0=
 -->
