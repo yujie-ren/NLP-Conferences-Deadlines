@@ -24,7 +24,7 @@
 |[NAACL24](https://2024.naacl.org/)  |December 15, 2023|March 15, 2024|June 16–21, 2024|
 | NAACL23                            |       -       |        -        |       -       |
 |[NAACL22](https://2022.naacl.org/)  |January 15, 2022|April 7, 2022|July 10–15, 2022|
-| NAACL21 |               |                 |               |
+|[NAACL21](https://2021.naacl.org/) |               |                 |               |
 
 ## EACL (CORE=A, CCF=N/A)
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -60,7 +60,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjE4Mzc5MiwxNDI5ODI0OTM1LDE1Nz
+eyJoaXN0b3J5IjpbLTM4NzY1NjEzMywxNDI5ODI0OTM1LDE1Nz
 Q0NTI0NjEsMTkyNjY2MjU3MCwtMjM0ODg2NzU0LC02ODA2NzMx
 MTRdfQ==
 -->
