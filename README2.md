@@ -30,7 +30,7 @@
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | EACL25 |               |                 |               |
-
+| [EACL24](https://2024.eacl.org/)    |October 15, 2023|January 17, 2024|March 17-22, 2024|
 
 
 
@@ -90,6 +90,6 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDUxMDIxMywtMjM0ODg2NzU0LC02OD
-A2NzMxMTRdfQ==
+eyJoaXN0b3J5IjpbNjI0NjUxNTkxLC0yMzQ4ODY3NTQsLTY4MD
+Y3MzExNF19
 -->
