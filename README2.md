@@ -42,7 +42,7 @@
 | [COLING24](https://lrec-coling-2024.org/) |October 20, 2023|February 19, 2024|May 20-25, 2024|
 |  COLING23                           |       -       |        -        |       -       |
 | [COLING22](https://coling2022.org/) |May 17, 2022|August 15, 2022|October 12-17, 2022|
-| COLING21 |               |                 |               |
+| COLING21 |      -        |        -        |      -        |
 
 
 ## Conf Rankings
@@ -60,7 +60,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjgzNDA2NSwxNDI5ODI0OTM1LDE1Nz
+eyJoaXN0b3J5IjpbLTY0NjU1Mzg5OCwxNDI5ODI0OTM1LDE1Nz
 Q0NTI0NjEsMTkyNjY2MjU3MCwtMjM0ODg2NzU0LC02ODA2NzMx
 MTRdfQ==
 -->
