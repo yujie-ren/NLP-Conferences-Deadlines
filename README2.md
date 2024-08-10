@@ -35,7 +35,10 @@
 |  EACL22                             |       -       |        -        |       -       |
 | EACL21 |               |                 |               |
 
-
+## COLING Confs 
+|  Conf  | Submission    |   Notification  |   Conference  |
+| :---:  |    :----:     |     :---:       |     :---:     |
+| EACL25 |               |                 |               |
 
 
 ## 2025 Confs 
@@ -93,6 +96,6 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQ3MDQ3MDAsLTIzNDg4Njc1NCwtNj
-gwNjczMTE0XX0=
+eyJoaXN0b3J5IjpbLTc4Mjk0NjEzLC0yMzQ4ODY3NTQsLTY4MD
+Y3MzExNF19
 -->
