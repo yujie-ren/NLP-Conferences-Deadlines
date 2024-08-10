@@ -22,7 +22,7 @@
 ## 2023 Confs
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----     |     :---       |     :---     |
-| [ACL](https://2023.aclweb.org/)   |               |                 |July 9-14, 2023|
+| [ACL](https://2023.aclweb.org/)   |December 15, 2022|May 1, 2023|July 9-14, 2023|
 | [EMNLP](https://2023.emnlp.org/)  |               |                 |               |
 |  NAACL                            |       -       |        -        |       -       |
 | [EACL](https://2023.eacl.org/)    |               |                 |               |
@@ -44,7 +44,7 @@
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDkzMTkxMiw0MjM1MzAyMzAsNDIzNT
+eyJoaXN0b3J5IjpbLTM4OTA4MTY5NCw0MjM1MzAyMzAsNDIzNT
 MwMjMwLC0xNzIyNjY5NzQ0LC0xNjMyMzg4Nzc0LC03MDI1NTQ0
 ODYsLTE1OTYzMTIzODUsODUwMDY1NTkyLC0yMTI3ODYyNjQyLC
 0yMDcyNTQ1Mjg3LC0xNzc0NDkzMjg2LC0xNTk0MTQzMjA0LDIx
