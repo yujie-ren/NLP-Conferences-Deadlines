@@ -27,7 +27,7 @@
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----     |     :---       |     :---     |
 | [ACL](https://2023.aclweb.org/)   |December 15, 2022|May 1, 2023|July 9-14, 2023|
-| [EMNLP](https://2023.emnlp.org/)  |               |                 |               |
+| [EMNLP](https://2023.emnlp.org/)  |               |                 |December 6 –10, 2023|
 |  NAACL                            |       -       |        -        |       -       |
 | [EACL](https://2023.eacl.org/)    |               |                 |               |
 |  COLING                           |       -       |        -        |       -       |
@@ -48,7 +48,7 @@
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQ1MTAzMCwtMzg5MDgxNjk0LDQyMz
+eyJoaXN0b3J5IjpbLTY0OTE3NDkwNiwtMzg5MDgxNjk0LDQyMz
 UzMDIzMCw0MjM1MzAyMzAsLTE3MjI2Njk3NDQsLTE2MzIzODg3
 NzQsLTcwMjU1NDQ4NiwtMTU5NjMxMjM4NSw4NTAwNjU1OTIsLT
 IxMjc4NjI2NDIsLTIwNzI1NDUyODcsLTE3NzQ0OTMyODYsLTE1
