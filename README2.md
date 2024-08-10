@@ -2,7 +2,7 @@
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | ACL25 |               |                 |               |
-| ACL24 |               |                 |               |
+|[ACL24](https://2024.aclweb.org/)|               |                 |               |
 | ACL23 |               |                 |               |
 | ACL22 |               |                 |               |
 | ACL21 | | | |
@@ -65,6 +65,6 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzI1ODAsLTIzNDg4Njc1NCwtNjgwNj
-czMTE0XX0=
+eyJoaXN0b3J5IjpbLTE2NDg4MzE4NTMsLTIzNDg4Njc1NCwtNj
+gwNjczMTE0XX0=
 -->
