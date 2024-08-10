@@ -17,6 +17,10 @@
 |[EMNLP22](https://2022.emnlp.org/)|June 17, 2022|October 6, 2022|December 7–11, 2022|
 | EMNLP21|               |                 |               |
 
+## NAACL Confs 
+|  Conf  | Submission    |   Notification  |   Conference  |
+| :---:  |    :----:     |     :---:       |     :---:     |
+
 
 
 ## 2025 Confs 
@@ -74,6 +78,6 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NzM5OTAyNywtMjM0ODg2NzU0LC02OD
-A2NzMxMTRdfQ==
+eyJoaXN0b3J5IjpbMzU2NDE4NDIzLC0yMzQ4ODY3NTQsLTY4MD
+Y3MzExNF19
 -->
