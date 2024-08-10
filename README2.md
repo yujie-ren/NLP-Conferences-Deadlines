@@ -33,7 +33,7 @@
 |[EACL24](https://2024.eacl.org/) |October 15, 2023|January 17, 2024|March 17-22, 2024|
 |[EACL23](https://2023.eacl.org/) |October 13, 2022|January 20, 2023|May 2-6, 2023|
 | EACL22                          |       -       |        -        |       -       |
-| EACL21 |               |                 |               |
+|[EACL21](https://2021.eacl.org/) |               |                 |               |
 
 ## COLING (CORE=B, CCF=B)
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -60,7 +60,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODAyODc3OSwxNDI5ODI0OTM1LDE1Nz
-Q0NTI0NjEsMTkyNjY2MjU3MCwtMjM0ODg2NzU0LC02ODA2NzMx
-MTRdfQ==
+eyJoaXN0b3J5IjpbLTE5NDgwMzU2NTAsMTQyOTgyNDkzNSwxNT
+c0NDUyNDYxLDE5MjY2NjI1NzAsLTIzNDg4Njc1NCwtNjgwNjcz
+MTE0XX0=
 -->
