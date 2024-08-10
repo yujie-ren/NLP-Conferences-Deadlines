@@ -21,18 +21,18 @@
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | NAACL25 |               |                 |               |
-| [NAACL24](https://2024.naacl.org/)  |December 15, 2023|March 15, 2024|June 16–21, 2024|
-|  NAACL23                            |       -       |        -        |       -       |
-| [NAACL22](https://2022.naacl.org/)  |January 15, 2022|April 7, 2022|July 10–15, 2022|
+|[NAACL24](https://2024.naacl.org/)  |December 15, 2023|March 15, 2024|June 16–21, 2024|
+| NAACL23                            |       -       |        -        |       -       |
+|[NAACL22](https://2022.naacl.org/)  |January 15, 2022|April 7, 2022|July 10–15, 2022|
 | NAACL21 |               |                 |               |
 
 ## EACL (CORE=A, CCF=N/A)
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | EACL25 |               |                 |               |
-| [EACL24](https://2024.eacl.org/)    |October 15, 2023|January 17, 2024|March 17-22, 2024|
-| [EACL23](https://2023.eacl.org/)    |October 13, 2022|January 20, 2023|May 2-6, 2023|
-|  EACL22                             |       -       |        -        |       -       |
+|[EACL24](https://2024.eacl.org/) |October 15, 2023|January 17, 2024|March 17-22, 2024|
+|[EACL23](https://2023.eacl.org/) |October 13, 2022|January 20, 2023|May 2-6, 2023|
+| EACL22                          |       -       |        -        |       -       |
 | EACL21 |               |                 |               |
 
 ## COLING (CORE=B, CCF=B)
@@ -60,6 +60,6 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTkxMDMzNCwxNTc0NDUyNDYxLDE5Mj
+eyJoaXN0b3J5IjpbMTg4MzMzODU5MCwxNTc0NDUyNDYxLDE5Mj
 Y2NjI1NzAsLTIzNDg4Njc1NCwtNjgwNjczMTE0XX0=
 -->
