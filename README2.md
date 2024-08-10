@@ -15,7 +15,7 @@
 |[EMNLP24](https://2024.emnlp.org/)|June 15, 2024|**September 20, 2024**|**November 12-16, 2024**|
 |[EMNLP23](https://2023.emnlp.org/)|June 16, 2023|October 6, 2023|December 6–10, 2023|
 |[EMNLP22](https://2022.emnlp.org/)|June 17, 2022|October 6, 2022|December 7–11, 2022|
-| EMNLP21|               |                 |               |
+|[EMNLP21](https://2021.emnlp.org/)|               |                 |               |
 
 ## NAACL (CORE=A, CCF=B)
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -60,6 +60,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTgyNDkzNSwxNTc0NDUyNDYxLDE5Mj
-Y2NjI1NzAsLTIzNDg4Njc1NCwtNjgwNjczMTE0XX0=
+eyJoaXN0b3J5IjpbMTExOTcyMjM1MSwxNDI5ODI0OTM1LDE1Nz
+Q0NTI0NjEsMTkyNjY2MjU3MCwtMjM0ODg2NzU0LC02ODA2NzMx
+MTRdfQ==
 -->
