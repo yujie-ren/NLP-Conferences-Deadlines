@@ -1,11 +1,11 @@
 ## ACL Confs 
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-| ACL2025 |               |                 |               |
-| ACL2024 |               |                 |               |
-| ACL2023 |               |                 |               |
-| ACL2022 |               |                 |               |
-| ACL2021 | | | |
+| ACL25 |               |                 |               |
+| ACL24 |               |                 |               |
+| ACL23 |               |                 |               |
+| ACL22 |               |                 |               |
+| ACL21 | | | |
 
 
 
@@ -65,5 +65,6 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDg4Njc1NCwtNjgwNjczMTE0XX0=
+eyJoaXN0b3J5IjpbLTUzNzI1ODAsLTIzNDg4Njc1NCwtNjgwNj
+czMTE0XX0=
 -->
