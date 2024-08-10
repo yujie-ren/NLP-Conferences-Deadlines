@@ -1,5 +1,11 @@
 ## ACL Confs 
-
+|  Conf  | Submission    |   Notification  |   Conference  |
+| :---:  |    :----:     |     :---:       |     :---:     |
+| ACL2025 |               |                 |               |
+| ACL2024 |               |                 |               |
+| ACL2023 |               |                 |               |
+| ACL2022 |               |                 |               |
+|[COLING](https://coling2025.org/)|**September 16, 2024**|**November 29, 2024**|**January 19-24, 2025**|
 
 
 
@@ -59,5 +65,5 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTk5Mjk5MSwtNjgwNjczMTE0XX0=
+eyJoaXN0b3J5IjpbLTM0NjE3MjU2LC02ODA2NzMxMTRdfQ==
 -->
