@@ -26,6 +26,14 @@
 | [NAACL22](https://2022.naacl.org/)  |January 15, 2022|April 7, 2022|July 10–15, 2022|
 | NAACL21 |               |                 |               |
 
+## EACL Confs 
+|  Conf  | Submission    |   Notification  |   Conference  |
+| :---:  |    :----:     |     :---:       |     :---:     |
+| EACL25 |               |                 |               |
+
+
+
+
 
 ## 2025 Confs 
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -82,6 +90,6 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4MTcyMTcxLC0yMzQ4ODY3NTQsLTY4MD
-Y3MzExNF19
+eyJoaXN0b3J5IjpbLTgxMDUxMDIxMywtMjM0ODg2NzU0LC02OD
+A2NzMxMTRdfQ==
 -->
