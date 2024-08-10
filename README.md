@@ -36,7 +36,7 @@
 ## 2022 Confs
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----     |     :---       |     :---     |
-| [ACL](https://2022.aclweb.org/)|               |                 |May 22-27, 2022|
+| [ACL](https://2022.aclweb.org/)|November 15, 2021|February 23, 2022|May 22-27, 2022|
 | [EMNLP](https://2022.emnlp.org/)  |               |                 |               |
 | [NAACL](https://2022.naacl.org/)  |               |                 |               |
 |  EACL                             |       -       |        -        |       -       |
@@ -48,7 +48,7 @@
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzk3NjE4OCwtMzg5MDgxNjk0LDQyMz
+eyJoaXN0b3J5IjpbMTg2NDMwMDIwOCwtMzg5MDgxNjk0LDQyMz
 UzMDIzMCw0MjM1MzAyMzAsLTE3MjI2Njk3NDQsLTE2MzIzODg3
 NzQsLTcwMjU1NDQ4NiwtMTU5NjMxMjM4NSw4NTAwNjU1OTIsLT
 IxMjc4NjI2NDIsLTIwNzI1NDUyODcsLTE3NzQ0OTMyODYsLTE1
