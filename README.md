@@ -29,7 +29,7 @@
 | [ACL](https://2023.aclweb.org/)   |December 15, 2022|May 1, 2023|July 9-14, 2023|
 | [EMNLP](https://2023.emnlp.org/)  |June 16, 2023|October 6, 2023|December 6 –10, 2023|
 |  NAACL                            |       -       |        -        |       -       |
-| [EACL](https://2023.eacl.org/)    |               |                 |               |
+| [EACL](https://2023.eacl.org/)    |May 2-6, 2023|                 |               |
 |  COLING                           |       -       |        -        |       -       |
 
 
@@ -48,11 +48,11 @@
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Nzk0MDkwMSwtMzg5MDgxNjk0LDQyMz
-UzMDIzMCw0MjM1MzAyMzAsLTE3MjI2Njk3NDQsLTE2MzIzODg3
-NzQsLTcwMjU1NDQ4NiwtMTU5NjMxMjM4NSw4NTAwNjU1OTIsLT
-IxMjc4NjI2NDIsLTIwNzI1NDUyODcsLTE3NzQ0OTMyODYsLTE1
-OTQxNDMyMDQsMjEyNTk1MDMwOCwtNTUzMDQ2ODgyLC0xMDcwMz
-kyNTMwLDE5NDE4MTEwNTgsNzUxMTAyMTcxLDc3ODgwMTYzNywx
-NDA1ODgxNjMxXX0=
+eyJoaXN0b3J5IjpbLTEyNDc5NTE4ODYsLTM4OTA4MTY5NCw0Mj
+M1MzAyMzAsNDIzNTMwMjMwLC0xNzIyNjY5NzQ0LC0xNjMyMzg4
+Nzc0LC03MDI1NTQ0ODYsLTE1OTYzMTIzODUsODUwMDY1NTkyLC
+0yMTI3ODYyNjQyLC0yMDcyNTQ1Mjg3LC0xNzc0NDkzMjg2LC0x
+NTk0MTQzMjA0LDIxMjU5NTAzMDgsLTU1MzA0Njg4MiwtMTA3MD
+M5MjUzMCwxOTQxODExMDU4LDc1MTEwMjE3MSw3Nzg4MDE2Mzcs
+MTQwNTg4MTYzMV19
 -->
