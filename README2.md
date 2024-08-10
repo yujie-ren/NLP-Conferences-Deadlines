@@ -1,5 +1,5 @@
 
-## ACL Confs
+## ACL Timelines
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | ACL25 |               |                 |               |
@@ -9,7 +9,7 @@
 |[ACL21](https://2021.aclweb.org/) |January 25, 2021|May 5, 2021|August 1-6, 2021|
 
 
-## EMNLP Confs
+## EMNLP Timelines
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | EMNLP25 |               |                 |               |
@@ -19,7 +19,7 @@
 |[EMNLP21](https://2021.emnlp.org/)|May 10, 2021|August 25, 2021|November 7–11, 2021|
 
 
-## NAACL Confs
+## NAACL Timelines
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | NAACL25 |               |                 |               |
@@ -29,7 +29,7 @@
 |[NAACL21](https://2021.naacl.org/) |November 23, 2020|March 10, 2021|June 6–11, 2021|
 
 
-## EACL Confs
+## EACL Timelines
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | EACL25 |               |                 |               |
@@ -39,7 +39,7 @@
 |[EACL21](https://2021.eacl.org/) |October 7, 2020|January 11, 2021|April 19–23, 2021|
 
 
-## COLING Confs
+## COLING Timelines
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[COLING25](https://coling2025.org/)|**September 16, 2024**|**November 29, 2024**|**January 19-24, 2025**|
@@ -64,7 +64,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjM5MDU1NTQsLTY0NjU1Mzg5OCwxND
-I5ODI0OTM1LDE1NzQ0NTI0NjEsMTkyNjY2MjU3MCwtMjM0ODg2
-NzU0LC02ODA2NzMxMTRdfQ==
+eyJoaXN0b3J5IjpbNjAyMDQ5OTE3LC02NDY1NTM4OTgsMTQyOT
+gyNDkzNSwxNTc0NDUyNDYxLDE5MjY2NjI1NzAsLTIzNDg4Njc1
+NCwtNjgwNjczMTE0XX0=
 -->
