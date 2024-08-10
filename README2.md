@@ -21,6 +21,10 @@
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | NAACL25 |               |                 |               |
+| [NAACL24](https://2024.naacl.org/)  |December 15, 2023|March 15, 2024|June 16–21, 2024|
+|  NAACL23                            |       -       |        -        |       -       |
+| [NAACL22](https://2022.naacl.org/)  |January 15, 2022|April 7, 2022|July 10–15, 2022|
+
 
 
 ## 2025 Confs 
@@ -78,6 +82,6 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MzcyMzEzMywtMjM0ODg2NzU0LC02OD
+eyJoaXN0b3J5IjpbLTU4NzAwNzg4NSwtMjM0ODg2NzU0LC02OD
 A2NzMxMTRdfQ==
 -->
