@@ -11,7 +11,7 @@
  
 ## 2024 Confs
 |  Conf  | Submission    |   Notification  |   Conference  |
-| :---:  |    :----     |     :---       |     :---     |
+| :---:  |    :----:     |     :---:       |     :---:     |
 | [ACL](https://2024.aclweb.org/)   |February 15, 2024|May 15, 2024|**August 11–16, 2024**|
 | [EMNLP](https://2024.emnlp.org/)  |June 15, 2024|**September 20, 2024**|**November 12-16, 2024**|
 | [NAACL](https://2024.naacl.org/)  |December 15, 2023|March 15, 2024|June 16–21, 2024|
@@ -21,7 +21,7 @@
 
 ## 2023 Confs
 |  Conf  | Submission    |   Notification  |   Conference  |
-| :---:  |    :----     |     :---       |     :---     |
+| :---:  |    :----:     |     :---:       |     :---:     |
 | [ACL](https://2023.aclweb.org/)   |December 15, 2022|May 1, 2023|July 9-14, 2023|
 | [EMNLP](https://2023.emnlp.org/)  |June 16, 2023|October 6, 2023|December 6–10, 2023|
 |  NAACL                            |       -       |        -        |       -       |
@@ -31,7 +31,7 @@
 
 ## 2022 Confs
 |  Conf  | Submission    |   Notification  |   Conference  |
-| :---:  |    :----     |     :---       |     :---     |
+| :---:  |    :---:     |     :---:       |     :---:     |
 | [ACL](https://2022.aclweb.org/)|November 15, 2021|February 23, 2022|May 22-27, 2022|
 | [EMNLP](https://2022.emnlp.org/)  |June 17, 2022|October 6, 2022|December 7–11, 2022|
 | [NAACL](https://2022.naacl.org/)  |January 15, 2022|April 7, 2022|July 10–15, 2022|
