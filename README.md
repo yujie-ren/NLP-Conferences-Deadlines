@@ -1,7 +1,7 @@
 ## Confs 2025
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-| ACL25  |               |                 |               |
+|[ACL25](https://2025.aclweb.org/)  |               |                 |**July 27-August 1st, 2025**|
 | EMNLP25  |               |                 |               |
 |[NAACL25](https://2025.naacl.org/)  |**October 15, 2024**|                 |**April 29–May 4, 2025**|
 | EACL25  |               |                 |               |
@@ -72,7 +72,8 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2ODIxMDE5LC0xODk1OTM1ODIyLDcwMD
-M1NDQyNSwtNjQ2NTUzODk4LDE0Mjk4MjQ5MzUsMTU3NDQ1MjQ2
-MSwxOTI2NjYyNTcwLC0yMzQ4ODY3NTQsLTY4MDY3MzExNF19
+eyJoaXN0b3J5IjpbNDEyMDMyODEsODY2ODIxMDE5LC0xODk1OT
+M1ODIyLDcwMDM1NDQyNSwtNjQ2NTUzODk4LDE0Mjk4MjQ5MzUs
+MTU3NDQ1MjQ2MSwxOTI2NjYyNTcwLC0yMzQ4ODY3NTQsLTY4MD
+Y3MzExNF19
 -->
