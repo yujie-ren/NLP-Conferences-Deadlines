@@ -1,3 +1,11 @@
+## 2025Confs
+|  Conf  | Submission    |   Notification  |   Conference  |
+| :---:  |    :----:     |     :---:       |     :---:     |
+| ACL25 |               |                 |               |
+|[ACL24](https://2024.aclweb.org/)|February 15, 2024|May 15, 2024|**August 11–16, 2024**|
+|[ACL23](https://2023.aclweb.org/)|December 15, 2022|May 1, 2023|July 9-14, 2023|
+|[ACL22](https://2022.aclweb.org/)|November 15, 2021|February 23, 2022|May 22-27, 2022|
+|[ACL21](https://2021.aclweb.org/) |January 25, 2021|May 5, 2021|August 1-6, 2021|
 
 
 ## ACL
@@ -65,7 +73,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTU5MzU4MjIsNzAwMzU0NDI1LC02ND
-Y1NTM4OTgsMTQyOTgyNDkzNSwxNTc0NDUyNDYxLDE5MjY2NjI1
-NzAsLTIzNDg4Njc1NCwtNjgwNjczMTE0XX0=
+eyJoaXN0b3J5IjpbNjYzMTk1NDIxLC0xODk1OTM1ODIyLDcwMD
+M1NDQyNSwtNjQ2NTUzODk4LDE0Mjk4MjQ5MzUsMTU3NDQ1MjQ2
+MSwxOTI2NjYyNTcwLC0yMzQ4ODY3NTQsLTY4MDY3MzExNF19
 -->
