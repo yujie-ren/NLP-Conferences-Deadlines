@@ -2,8 +2,10 @@
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | ACL25  |               |                 |               |
-
-
+| EMNLP25  |               |                 |               |
+| NAACL25  |               |                 |               |
+| EACL25  |               |                 |               |
+| COLING25  |               |                 |               |
 
 ## ACL
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -70,8 +72,8 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjcyMTUyNTMsLTE4OTU5MzU4MjIsNz
-AwMzU0NDI1LC02NDY1NTM4OTgsMTQyOTgyNDkzNSwxNTc0NDUy
-NDYxLDE5MjY2NjI1NzAsLTIzNDg4Njc1NCwtNjgwNjczMTE0XX
-0=
+eyJoaXN0b3J5IjpbLTgwNDM4ODU2OSwtMTg5NTkzNTgyMiw3MD
+AzNTQ0MjUsLTY0NjU1Mzg5OCwxNDI5ODI0OTM1LDE1NzQ0NTI0
+NjEsMTkyNjY2MjU3MCwtMjM0ODg2NzU0LC02ODA2NzMxMTRdfQ
+==
 -->
