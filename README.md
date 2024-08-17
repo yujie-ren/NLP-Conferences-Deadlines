@@ -23,7 +23,7 @@
 ## NAACL
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-| [NAACL25](https://2025.naacl.org/)  |               |                 |April 29–May 4, 2025|
+|[NAACL25](https://2025.naacl.org/)  |               |                 |April 29–May 4, 2025|
 |[NAACL24](https://2024.naacl.org/)  |December 15, 2023|March 15, 2024|June 16–21, 2024|
 | NAACL23                            |       -       |        -        |       -       |
 |[NAACL22](https://2022.naacl.org/)  |January 15, 2022|April 7, 2022|July 10–15, 2022|
@@ -65,7 +65,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MzQ5MDE0OCw3MDAzNTQ0MjUsLTY0Nj
-U1Mzg5OCwxNDI5ODI0OTM1LDE1NzQ0NTI0NjEsMTkyNjY2MjU3
-MCwtMjM0ODg2NzU0LC02ODA2NzMxMTRdfQ==
+eyJoaXN0b3J5IjpbMTc4Nzk1MjMyLDcwMDM1NDQyNSwtNjQ2NT
+UzODk4LDE0Mjk4MjQ5MzUsMTU3NDQ1MjQ2MSwxOTI2NjYyNTcw
+LC0yMzQ4ODY3NTQsLTY4MDY3MzExNF19
 -->
