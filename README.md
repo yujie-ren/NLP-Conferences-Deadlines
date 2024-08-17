@@ -1,11 +1,11 @@
-## 2025Confs
+## Confs 2025
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | ACL25  |               |                 |               |
 | EMNLP25  |               |                 |               |
-| NAACL25  |               |                 |               |
+|[NAACL25](https://2025.naacl.org/)  |**October 15, 2024**|                 |**April 29–May 4, 2025**|
 | EACL25  |               |                 |               |
-| COLING25  |               |                 |               |
+|[COLING25](https://coling2025.org/)|**September 16, 2024**|**November 29, 2024**|**January 19-24, 2025**|
 
 ## ACL
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -72,8 +72,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDM4ODU2OSwtMTg5NTkzNTgyMiw3MD
-AzNTQ0MjUsLTY0NjU1Mzg5OCwxNDI5ODI0OTM1LDE1NzQ0NTI0
-NjEsMTkyNjY2MjU3MCwtMjM0ODg2NzU0LC02ODA2NzMxMTRdfQ
-==
+eyJoaXN0b3J5IjpbODY2ODIxMDE5LC0xODk1OTM1ODIyLDcwMD
+M1NDQyNSwtNjQ2NTUzODk4LDE0Mjk4MjQ5MzUsMTU3NDQ1MjQ2
+MSwxOTI2NjYyNTcwLC0yMzQ4ODY3NTQsLTY4MDY3MzExNF19
 -->
