@@ -4,7 +4,7 @@
 |[ACL25](https://2025.aclweb.org/)  |               |                 |**July 27-August 1st, 2025**|
 | EMNLP25  |               |                 |               |
 |[NAACL25](https://2025.naacl.org/)  |**October 15, 2024**|                 |**April 29–May 4, 2025**|
-| EACL25  |               |                 |               |
+| EACL25  |     -       |       -       |      -       |
 |[COLING25](https://coling2025.org/)|**September 16, 2024**|**November 29, 2024**|**January 19-24, 2025**|
 
 ## ACL
@@ -72,7 +72,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzIwOTgyNiwtMTEzNjE3Njc0MiwtMT
+eyJoaXN0b3J5IjpbLTM4Mzg3ODEyMSwtMTEzNjE3Njc0MiwtMT
 kxODU5NTUxMiwtMTkzOTAxNDI4MywxNDg3MDQ1OTA5LDk2OTQ5
 MTMzOSw4NjY4MjEwMTksLTE4OTU5MzU4MjIsNzAwMzU0NDI1LC
 02NDY1NTM4OTgsMTQyOTgyNDkzNSwxNTc0NDUyNDYxLDE5MjY2
