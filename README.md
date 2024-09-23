@@ -25,8 +25,8 @@ All dates are in the following format: **dd-mm, yy**
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |A |A |- |A |A |
 
 ## Contents
-- [ACL DLs 21-25](#acl)
-- [EMNLP DLs 21-25](#emnlp)
+- [ACL DLs](#acl)
+- [EMNLP DLs](#emnlp)
 
 ## ACL
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -90,11 +90,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0ODI3NTA0LDEzODM3NTAyLC03NDc5NT
-k5NTIsMTY3NDUyMjMxNywyMTEzNTE4MzA0LC01MzI3OTE1MTEs
-LTE4NzkzMzY2NTUsLTIwNjM0MzQxNTYsLTMxNTc1ODQ1MCwxNz
-Q4NjUyNzAyLC03NDA4MjQ2MDYsMTQwMDU2OTE2LC01ODE5OTg2
-NDEsOTA0NTQ0NzgzLC0xMTM2MTc2NzQyLC0xOTE4NTk1NTEyLC
-0xOTM5MDE0MjgzLDE0ODcwNDU5MDksOTY5NDkxMzM5LDg2Njgy
-MTAxOV19
+eyJoaXN0b3J5IjpbMTQwNjYzNTUzNiwxMzgzNzUwMiwtNzQ3OT
+U5OTUyLDE2NzQ1MjIzMTcsMjExMzUxODMwNCwtNTMyNzkxNTEx
+LC0xODc5MzM2NjU1LC0yMDYzNDM0MTU2LC0zMTU3NTg0NTAsMT
+c0ODY1MjcwMiwtNzQwODI0NjA2LDE0MDA1NjkxNiwtNTgxOTk4
+NjQxLDkwNDU0NDc4MywtMTEzNjE3Njc0MiwtMTkxODU5NTUxMi
+wtMTkzOTAxNDI4MywxNDg3MDQ1OTA5LDk2OTQ5MTMzOSw4NjY4
+MjEwMTldfQ==
 -->
