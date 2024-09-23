@@ -16,7 +16,7 @@ All dates are in the following format: **dd-mm, yy**
 |ICML25   |               |                 |               |
 |ICLR25   |               |                 |               |
 |AAAI25   |               |                 |               |
-|[IJCAI25]()  |               |                 |               |
+|IJCAI25  |               |                 |               |
 
 ## Conf Rankings
 |  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |NeurIPS|ICML|ICLR|AAAI|IJCAI|
@@ -86,11 +86,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njk1NzYxLDE2NzQ1MjIzMTcsMjExMz
-UxODMwNCwtNTMyNzkxNTExLC0xODc5MzM2NjU1LC0yMDYzNDM0
-MTU2LC0zMTU3NTg0NTAsMTc0ODY1MjcwMiwtNzQwODI0NjA2LD
-E0MDA1NjkxNiwtNTgxOTk4NjQxLDkwNDU0NDc4MywtMTEzNjE3
-Njc0MiwtMTkxODU5NTUxMiwtMTkzOTAxNDI4MywxNDg3MDQ1OT
-A5LDk2OTQ5MTMzOSw4NjY4MjEwMTksLTE4OTU5MzU4MjIsNzAw
-MzU0NDI1XX0=
+eyJoaXN0b3J5IjpbLTc0Nzk1OTk1MiwxNjc0NTIyMzE3LDIxMT
+M1MTgzMDQsLTUzMjc5MTUxMSwtMTg3OTMzNjY1NSwtMjA2MzQz
+NDE1NiwtMzE1NzU4NDUwLDE3NDg2NTI3MDIsLTc0MDgyNDYwNi
+wxNDAwNTY5MTYsLTU4MTk5ODY0MSw5MDQ1NDQ3ODMsLTExMzYx
+NzY3NDIsLTE5MTg1OTU1MTIsLTE5MzkwMTQyODMsMTQ4NzA0NT
+kwOSw5Njk0OTEzMzksODY2ODIxMDE5LC0xODk1OTM1ODIyLDcw
+MDM1NDQyNV19
 -->
