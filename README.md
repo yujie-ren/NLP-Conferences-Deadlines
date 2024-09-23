@@ -30,6 +30,11 @@ All dates are in the following format: **dd-mm, yy**
 - [NAACL Deadlines](#naacl)
 - [EACL Deadlines](#eacl)
 - [COLING Deadlines](#coling)
+- [NeurIPS Deadlines](#neurips)
+- [NeurIPS Deadlines](#neurips)
+- [NeurIPS Deadlines](#neurips)
+- [NeurIPS Deadlines](#neurips)
+- [NeurIPS Deadlines](#neurips)
 
 ## ACL
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -93,11 +98,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTc3MjY5NiwxNDA2NjM1NTM2LDEzOD
-M3NTAyLC03NDc5NTk5NTIsMTY3NDUyMjMxNywyMTEzNTE4MzA0
-LC01MzI3OTE1MTEsLTE4NzkzMzY2NTUsLTIwNjM0MzQxNTYsLT
-MxNTc1ODQ1MCwxNzQ4NjUyNzAyLC03NDA4MjQ2MDYsMTQwMDU2
-OTE2LC01ODE5OTg2NDEsOTA0NTQ0NzgzLC0xMTM2MTc2NzQyLC
-0xOTE4NTk1NTEyLC0xOTM5MDE0MjgzLDE0ODcwNDU5MDksOTY5
-NDkxMzM5XX0=
+eyJoaXN0b3J5IjpbLTE0MzczNjg3NTAsMTQwNjYzNTUzNiwxMz
+gzNzUwMiwtNzQ3OTU5OTUyLDE2NzQ1MjIzMTcsMjExMzUxODMw
+NCwtNTMyNzkxNTExLC0xODc5MzM2NjU1LC0yMDYzNDM0MTU2LC
+0zMTU3NTg0NTAsMTc0ODY1MjcwMiwtNzQwODI0NjA2LDE0MDA1
+NjkxNiwtNTgxOTk4NjQxLDkwNDU0NDc4MywtMTEzNjE3Njc0Mi
+wtMTkxODU5NTUxMiwtMTkzOTAxNDI4MywxNDg3MDQ1OTA5LDk2
+OTQ5MTMzOV19
 -->
