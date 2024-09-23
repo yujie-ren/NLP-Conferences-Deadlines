@@ -2,11 +2,12 @@ All dates are in the following format: **dd-mm, yy**
 ## Confs 2025
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
+|[COLING25](https://coling2025.org/)|16-09, 2024|**29-11, 2024**|**19-01, 2025**|
+|[NAACL25](https://2025.naacl.org/)  |**15-10, 2024**|                 |**29–04, 2025**|
 |[ACL25](https://2025.aclweb.org/)  |               |                 |**27-07, 2025**|
 | EMNLP25  |               |                 |               |
-|[NAACL25](https://2025.naacl.org/)  |**15-10, 2024**|                 |**29–04, 2025**|
 | EACL25  |     -       |       -       |      -       |
-|[COLING25](https://coling2025.org/)|16-09, 2024|**29-11, 2024**|**19-01, 2025**|
+
 
 ## ACL
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -73,7 +74,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzY1NDE0OSwtMTEzNjE3Njc0MiwtMT
+eyJoaXN0b3J5IjpbMTc3NDE3NzU4OSwtMTEzNjE3Njc0MiwtMT
 kxODU5NTUxMiwtMTkzOTAxNDI4MywxNDg3MDQ1OTA5LDk2OTQ5
 MTMzOSw4NjY4MjEwMTksLTE4OTU5MzU4MjIsNzAwMzU0NDI1LC
 02NDY1NTM4OTgsMTQyOTgyNDkzNSwxNTc0NDUyNDYxLDE5MjY2
