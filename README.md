@@ -1,6 +1,6 @@
-Record past NLP Conf deadlines,  to predict future deadlines.
+Record past NLP Conf Deadlines,  to predict future ones.
 All dates are in the following format: **dd-mm, yy**
-## NLP Confs 2025
+## NLP Conf 2025
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[COLING25](https://coling2025.org/)|16-09, 2024|**29-11, 2024**|**19-01, 2025**|
@@ -8,7 +8,7 @@ All dates are in the following format: **dd-mm, yy**
 |[ACL25](https://2025.aclweb.org/)  |**12, 2024 (expected)**|                 |**27-07, 2025**|
 | EMNLP25  |**06, 2025 (expected)**|          |**11, 2025 (expected)**|
 | EACL25  |     -       |       -       |      -       |
-## AI Confs 2025
+## AI Conf 2025
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |        |               |                 |               |
@@ -82,11 +82,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzY0MjI4LDE3NDg2NTI3MDIsLTc0MD
-gyNDYwNiwxNDAwNTY5MTYsLTU4MTk5ODY0MSw5MDQ1NDQ3ODMs
-LTExMzYxNzY3NDIsLTE5MTg1OTU1MTIsLTE5MzkwMTQyODMsMT
-Q4NzA0NTkwOSw5Njk0OTEzMzksODY2ODIxMDE5LC0xODk1OTM1
-ODIyLDcwMDM1NDQyNSwtNjQ2NTUzODk4LDE0Mjk4MjQ5MzUsMT
-U3NDQ1MjQ2MSwxOTI2NjYyNTcwLC0yMzQ4ODY3NTQsLTY4MDY3
-MzExNF19
+eyJoaXN0b3J5IjpbLTMxNTc1ODQ1MCwxNzQ4NjUyNzAyLC03ND
+A4MjQ2MDYsMTQwMDU2OTE2LC01ODE5OTg2NDEsOTA0NTQ0Nzgz
+LC0xMTM2MTc2NzQyLC0xOTE4NTk1NTEyLC0xOTM5MDE0MjgzLD
+E0ODcwNDU5MDksOTY5NDkxMzM5LDg2NjgyMTAxOSwtMTg5NTkz
+NTgyMiw3MDAzNTQ0MjUsLTY0NjU1Mzg5OCwxNDI5ODI0OTM1LD
+E1NzQ0NTI0NjEsMTkyNjY2MjU3MCwtMjM0ODg2NzU0LC02ODA2
+NzMxMTRdfQ==
 -->
