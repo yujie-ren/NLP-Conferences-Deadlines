@@ -27,6 +27,7 @@ All dates are in the following format: **dd-mm, yy**
 ## Contents
 - NLP
 - [ACL Deadlines](#acl)
+
 - [EMNLP Deadlines](#emnlp)
 - [NAACL Deadlines](#naacl)
 - [EACL Deadlines](#eacl)
@@ -101,7 +102,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTQ4MTc3NiwtMTc5MjM4ODAwMywxND
+eyJoaXN0b3J5IjpbMTkwMTEwNDczOCwtMTc5MjM4ODAwMywxND
 A2NjM1NTM2LDEzODM3NTAyLC03NDc5NTk5NTIsMTY3NDUyMjMx
 NywyMTEzNTE4MzA0LC01MzI3OTE1MTEsLTE4NzkzMzY2NTUsLT
 IwNjM0MzQxNTYsLTMxNTc1ODQ1MCwxNzQ4NjUyNzAyLC03NDA4
