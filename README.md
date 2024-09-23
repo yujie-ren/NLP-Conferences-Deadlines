@@ -122,7 +122,7 @@ All dates are in the following format: **dd-mm, yy**
 |[AAAI24](https://aaai.org/conference/aaai/aaai-24/) |         |                 |               |
 |[AAAI23](https://aaai-23.aaai.org/) |         |                 |               |
 |[AAAI22](https://aaai.org/conference/aaai/aaai-22/) |         |                 |               |
-|[AAAI21]() |         |                 |               |
+|[AAAI21](https://aaai.org/conference/aaai/aaai-21/) |         |                 |               |
 
 ## IJCAI
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -143,7 +143,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTcyNjUxNCwtMzM1MTg2NjI0LC01NT
+eyJoaXN0b3J5IjpbMTczMTE5MzQzMywtMzM1MTg2NjI0LC01NT
 U1MTIyMDEsLTEyNjQ5MTg3NjIsMTkwMTEwNDczOCwtMTc5MjM4
 ODAwMywxNDA2NjM1NTM2LDEzODM3NTAyLC03NDc5NTk5NTIsMT
 Y3NDUyMjMxNywyMTEzNTE4MzA0LC01MzI3OTE1MTEsLTE4Nzkz
