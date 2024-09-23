@@ -40,7 +40,7 @@
 ## EACL
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-| EACL25 |               |                 |               |
+| EACL25 |      -        |       -         |       -       |
 |[EACL24](https://2024.eacl.org/) |October 15, 2023|January 17, 2024|March 17-22, 2024|
 |[EACL23](https://2023.eacl.org/) |October 13, 2022|January 20, 2023|May 2-6, 2023|
 | EACL22                          |       -       |        -        |       -       |
@@ -72,9 +72,9 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM0MjIzNTYsLTExMzYxNzY3NDIsLT
-E5MTg1OTU1MTIsLTE5MzkwMTQyODMsMTQ4NzA0NTkwOSw5Njk0
-OTEzMzksODY2ODIxMDE5LC0xODk1OTM1ODIyLDcwMDM1NDQyNS
-wtNjQ2NTUzODk4LDE0Mjk4MjQ5MzUsMTU3NDQ1MjQ2MSwxOTI2
-NjYyNTcwLC0yMzQ4ODY3NTQsLTY4MDY3MzExNF19
+eyJoaXN0b3J5IjpbMTk2MzEzMDIwMSwtMTEzNjE3Njc0MiwtMT
+kxODU5NTUxMiwtMTkzOTAxNDI4MywxNDg3MDQ1OTA5LDk2OTQ5
+MTMzOSw4NjY4MjEwMTksLTE4OTU5MzU4MjIsNzAwMzU0NDI1LC
+02NDY1NTM4OTgsMTQyOTgyNDkzNSwxNTc0NDUyNDYxLDE5MjY2
+NjI1NzAsLTIzNDg4Njc1NCwtNjgwNjczMTE0XX0=
 -->
