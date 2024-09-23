@@ -128,8 +128,8 @@ All dates are in the following format: **dd-mm, yy**
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[IJCAI25]()|          |                 |               |
-|[IJCAI24]() |         |                 |               |
-|[IJCAI23]() |         |                 |               |
+|[IJCAI24](https://ijcai24.org/) |         |                 |               |
+|[IJCAI23](https://ijcai-23.org/) |         |                 |               |
 |[IJCAI22]() |         |                 |               |
 |[IJCAI21]() |         |                 |               |
 
@@ -143,7 +143,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTE5MzQzMywtMzM1MTg2NjI0LC01NT
+eyJoaXN0b3J5IjpbLTI3MDczNjk0NywtMzM1MTg2NjI0LC01NT
 U1MTIyMDEsLTEyNjQ5MTg3NjIsMTkwMTEwNDczOCwtMTc5MjM4
 ODAwMywxNDA2NjM1NTM2LDEzODM3NTAyLC03NDc5NTk5NTIsMT
 Y3NDUyMjMxNywyMTEzNTE4MzA0LC01MzI3OTE1MTEsLTE4Nzkz
