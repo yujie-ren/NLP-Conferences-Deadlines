@@ -1,22 +1,23 @@
 Record past Deadlines to predict future ones.
 All dates are in the following format: **dd-mm, yy**
+
 ## NLP Conf 2025
 |  Conf  |Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[COLING25](https://coling2025.org/)| ~~16-09, 2024~~|29-11, 2024|19-01, 2025|
-|[NAACL25](https://2025.naacl.org/)  |15-10, 2024|                 |29–04, 2025|
-|[ACL25](https://2025.aclweb.org/)  |12, 2024 (expected)|                 |27-07, 2025|
-| EMNLP25  |06, 2025 (expected)|          |11, 2025 (expected)|
+|[COLING-25](https://coling2025.org/)| ~~16-09, 2024~~|29-11, 2024|19-01, 2025|
+|[NAACL-25](https://2025.naacl.org/)  |15-10, 2024|                 |29–04, 2025|
+|[ACL-25](https://2025.aclweb.org/)  |12, 2024 (expected)|                 |27-07, 2025|
+| EMNLP-25  |06, 2025 (expected)|          |11, 2025 (expected)|
 
 
 ## AI Conf 2025
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|NeurIPS25|               |                 |               |
-|ICML25   |               |                 |               |
-|ICLR25   |               |                 |               |
-|AAAI25   |               |                 |               |
-|IJCAI25  |               |                 |               |
+|NeurIPS-25|               |                 |               |
+|ICML-25   |               |                 |               |
+|ICLR-25   |               |                 |               |
+|AAAI-25   |               |                 |               |
+|IJCAI-25  |               |                 |               |
 
 ## Conf Rankings
 |  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |NeurIPS|ICML|ICLR|AAAI|IJCAI|
@@ -143,11 +144,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0NDI5MTczLC0xMzA0MzA4NDM0LDIwMz
-UwMzE2NzQsLTMzNTE4NjYyNCwtNTU1NTEyMjAxLC0xMjY0OTE4
-NzYyLDE5MDExMDQ3MzgsLTE3OTIzODgwMDMsMTQwNjYzNTUzNi
-wxMzgzNzUwMiwtNzQ3OTU5OTUyLDE2NzQ1MjIzMTcsMjExMzUx
-ODMwNCwtNTMyNzkxNTExLC0xODc5MzM2NjU1LC0yMDYzNDM0MT
-U2LC0zMTU3NTg0NTAsMTc0ODY1MjcwMiwtNzQwODI0NjA2LDE0
-MDA1NjkxNl19
+eyJoaXN0b3J5IjpbODE1OTU1NjIyLDg1NDQyOTE3MywtMTMwND
+MwODQzNCwyMDM1MDMxNjc0LC0zMzUxODY2MjQsLTU1NTUxMjIw
+MSwtMTI2NDkxODc2MiwxOTAxMTA0NzM4LC0xNzkyMzg4MDAzLD
+E0MDY2MzU1MzYsMTM4Mzc1MDIsLTc0Nzk1OTk1MiwxNjc0NTIy
+MzE3LDIxMTM1MTgzMDQsLTUzMjc5MTUxMSwtMTg3OTMzNjY1NS
+wtMjA2MzQzNDE1NiwtMzE1NzU4NDUwLDE3NDg2NTI3MDIsLTc0
+MDgyNDYwNl19
 -->
