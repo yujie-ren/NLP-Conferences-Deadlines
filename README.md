@@ -115,6 +115,15 @@ All dates are in the following format: **dd-mm, yy**
 |[ICLR22]() |         |                 |               |
 |[ICLR21]() |         |                 |               |
 
+## AAAI
+|  Conf  | Submission    |   Notification  |   Conference  |
+| :---:  |    :----:     |     :---:       |     :---:     |
+|[AAAI25]()|          |                 |               |
+|[AAAI24]() |         |                 |               |
+|[AAAI23]() |         |                 |               |
+|[AAAI22]() |         |                 |               |
+|[AAAI21]() |         |                 |               |
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4NDc5MjY4MDQsLTcyOTIyOTU3OCwxMT
 EyNzQ4NTUzLC0zODkwODE2OTQsNDIzNTMwMjMwLDQyMzUzMDIz
@@ -125,7 +134,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTA3MzA5MjYsLTU1NTUxMjIwMSwtMT
+eyJoaXN0b3J5IjpbLTIwMTExNzU3MjIsLTU1NTUxMjIwMSwtMT
 I2NDkxODc2MiwxOTAxMTA0NzM4LC0xNzkyMzg4MDAzLDE0MDY2
 MzU1MzYsMTM4Mzc1MDIsLTc0Nzk1OTk1MiwxNjc0NTIyMzE3LD
 IxMTM1MTgzMDQsLTUzMjc5MTUxMSwtMTg3OTMzNjY1NSwtMjA2
