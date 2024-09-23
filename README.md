@@ -7,7 +7,14 @@ All dates are in the following format: **dd-mm, yy**
 |[ACL25](https://2025.aclweb.org/)  |**12, 2024 (expected)**|                 |**27-07, 2025**|
 | EMNLP25  |**06, 2025 (expected)**|          |**11, 2025 (expected)**|
 | EACL25  |     -       |       -       |      -       |
-
+## AI Confs 2025
+|  Conf  | Submission    |   Notification  |   Conference  |
+| :---:  |    :----:     |     :---:       |     :---:     |
+|[COLING25](https://coling2025.org/)|16-09, 2024|**29-11, 2024**|**19-01, 2025**|
+|[NAACL25](https://2025.naacl.org/)  |**15-10, 2024**|                 |**29–04, 2025**|
+|[ACL25](https://2025.aclweb.org/)  |**12, 2024 (expected)**|                 |**27-07, 2025**|
+| EMNLP25  |**06, 2025 (expected)**|          |**11, 2025 (expected)**|
+| EACL25  |     -       |       -       |      -       |
 
 ## ACL
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -74,10 +81,10 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDgyNDYwNiwxNDAwNTY5MTYsLTU4MT
-k5ODY0MSw5MDQ1NDQ3ODMsLTExMzYxNzY3NDIsLTE5MTg1OTU1
-MTIsLTE5MzkwMTQyODMsMTQ4NzA0NTkwOSw5Njk0OTEzMzksOD
-Y2ODIxMDE5LC0xODk1OTM1ODIyLDcwMDM1NDQyNSwtNjQ2NTUz
-ODk4LDE0Mjk4MjQ5MzUsMTU3NDQ1MjQ2MSwxOTI2NjYyNTcwLC
-0yMzQ4ODY3NTQsLTY4MDY3MzExNF19
+eyJoaXN0b3J5IjpbLTE5NDQ5ODExMjIsLTc0MDgyNDYwNiwxND
+AwNTY5MTYsLTU4MTk5ODY0MSw5MDQ1NDQ3ODMsLTExMzYxNzY3
+NDIsLTE5MTg1OTU1MTIsLTE5MzkwMTQyODMsMTQ4NzA0NTkwOS
+w5Njk0OTEzMzksODY2ODIxMDE5LC0xODk1OTM1ODIyLDcwMDM1
+NDQyNSwtNjQ2NTUzODk4LDE0Mjk4MjQ5MzUsMTU3NDQ1MjQ2MS
+wxOTI2NjYyNTcwLC0yMzQ4ODY3NTQsLTY4MDY3MzExNF19
 -->
