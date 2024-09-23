@@ -12,10 +12,10 @@ All dates are in the following format: **dd-mm, yy**
 ## AI Conf 2025
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[NeurIPS25]()|               |                 |               |
-|[ICML25]()   |               |                 |               |
-|[ICLR25]()   |               |                 |               |
-|[AAAI25]()   |               |                 |               |
+|NeurIPS25|               |                 |               |
+|ICML25   |               |                 |               |
+|ICLR25   |               |                 |               |
+|AAAI25   |               |                 |               |
 |[IJCAI25]()  |               |                 |               |
 
 ## Conf Rankings
@@ -86,11 +86,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDUyMjMxNywyMTEzNTE4MzA0LC01Mz
-I3OTE1MTEsLTE4NzkzMzY2NTUsLTIwNjM0MzQxNTYsLTMxNTc1
-ODQ1MCwxNzQ4NjUyNzAyLC03NDA4MjQ2MDYsMTQwMDU2OTE2LC
-01ODE5OTg2NDEsOTA0NTQ0NzgzLC0xMTM2MTc2NzQyLC0xOTE4
-NTk1NTEyLC0xOTM5MDE0MjgzLDE0ODcwNDU5MDksOTY5NDkxMz
-M5LDg2NjgyMTAxOSwtMTg5NTkzNTgyMiw3MDAzNTQ0MjUsLTY0
-NjU1Mzg5OF19
+eyJoaXN0b3J5IjpbLTE4Njk1NzYxLDE2NzQ1MjIzMTcsMjExMz
+UxODMwNCwtNTMyNzkxNTExLC0xODc5MzM2NjU1LC0yMDYzNDM0
+MTU2LC0zMTU3NTg0NTAsMTc0ODY1MjcwMiwtNzQwODI0NjA2LD
+E0MDA1NjkxNiwtNTgxOTk4NjQxLDkwNDU0NDc4MywtMTEzNjE3
+Njc0MiwtMTkxODU5NTUxMiwtMTkzOTAxNDI4MywxNDg3MDQ1OT
+A5LDk2OTQ5MTMzOSw4NjY4MjEwMTksLTE4OTU5MzU4MjIsNzAw
+MzU0NDI1XX0=
 -->
