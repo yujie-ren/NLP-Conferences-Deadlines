@@ -53,7 +53,7 @@ All dates are in the following format: **dd-mm, yy**
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[COLING25](https://coling2025.org/)|**September 16, 2024**|**November 29, 2024**|**January 19-24, 2025**|
-| [COLING24](https://lrec-coling-2024.org/) |October 20-10, 2023|February 19, 2024|May 20-25, 2024|
+| [COLING24](https://lrec-coling-2024.org/) |20-10, 2023|19-02, 2024|20-05, 2024|
 |  COLING23                           |       -       |        -        |       -       |
 | [COLING22](https://coling2022.org/) |17-05, 2022|15-08, 2022|12-10, 2022|
 | COLING21 |      -        |        -        |      -        |
@@ -74,10 +74,10 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5NjQ3NTM3LC01ODE5OTg2NDEsOTA0NT
-Q0NzgzLC0xMTM2MTc2NzQyLC0xOTE4NTk1NTEyLC0xOTM5MDE0
-MjgzLDE0ODcwNDU5MDksOTY5NDkxMzM5LDg2NjgyMTAxOSwtMT
-g5NTkzNTgyMiw3MDAzNTQ0MjUsLTY0NjU1Mzg5OCwxNDI5ODI0
-OTM1LDE1NzQ0NTI0NjEsMTkyNjY2MjU3MCwtMjM0ODg2NzU0LC
-02ODA2NzMxMTRdfQ==
+eyJoaXN0b3J5IjpbLTE0ODMzODE1ODUsLTU4MTk5ODY0MSw5MD
+Q1NDQ3ODMsLTExMzYxNzY3NDIsLTE5MTg1OTU1MTIsLTE5Mzkw
+MTQyODMsMTQ4NzA0NTkwOSw5Njk0OTEzMzksODY2ODIxMDE5LC
+0xODk1OTM1ODIyLDcwMDM1NDQyNSwtNjQ2NTUzODk4LDE0Mjk4
+MjQ5MzUsMTU3NDQ1MjQ2MSwxOTI2NjYyNTcwLC0yMzQ4ODY3NT
+QsLTY4MDY3MzExNF19
 -->
