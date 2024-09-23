@@ -4,7 +4,7 @@ All dates are in the following format: **dd-mm, yy**
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[ACL25](https://2025.aclweb.org/)  |               |                 |**July 27-August 1st, 2025**|
 | EMNLP25  |               |                 |               |
-|[NAACL25](https://2025.naacl.org/)  |**October 15, 2024**|                 |**April 29–May 4, 2025**|
+|[NAACL25](https://2025.naacl.org/)  |**15-10, 2024**|                 |**April 29–May 4, 2025**|
 | EACL25  |     -       |       -       |      -       |
 |[COLING25](https://coling2025.org/)|16-09, 2024|**29-11, 2024**|**19-01, 2025**|
 
@@ -73,9 +73,9 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2Nzc4ODcwLC0xMTM2MTc2NzQyLC0xOT
-E4NTk1NTEyLC0xOTM5MDE0MjgzLDE0ODcwNDU5MDksOTY5NDkx
-MzM5LDg2NjgyMTAxOSwtMTg5NTkzNTgyMiw3MDAzNTQ0MjUsLT
-Y0NjU1Mzg5OCwxNDI5ODI0OTM1LDE1NzQ0NTI0NjEsMTkyNjY2
-MjU3MCwtMjM0ODg2NzU0LC02ODA2NzMxMTRdfQ==
+eyJoaXN0b3J5IjpbLTEyODQxMzU3NTgsLTExMzYxNzY3NDIsLT
+E5MTg1OTU1MTIsLTE5MzkwMTQyODMsMTQ4NzA0NTkwOSw5Njk0
+OTEzMzksODY2ODIxMDE5LC0xODk1OTM1ODIyLDcwMDM1NDQyNS
+wtNjQ2NTUzODk4LDE0Mjk4MjQ5MzUsMTU3NDQ1MjQ2MSwxOTI2
+NjYyNTcwLC0yMzQ4ODY3NTQsLTY4MDY3MzExNF19
 -->
