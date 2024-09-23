@@ -12,9 +12,9 @@ All dates are in the following format: **dd-mm, yy**
 | :---:  |    :----:     |     :---:       |     :---:     |
 |        |               |                 |               |
 |        |               |                 |               |
-|        |               |                 |         |
-| EMNLP25  |**06, 2025 (expected)**|          |**11, 2025 (expected)**|
-| EACL25  |     -       |       -       |      -       |
+|        |               |                 |               |
+|        |               |                 |               |
+|        |               |                 |               |
 
 ## ACL
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -81,7 +81,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzMzMjcxOCwtNzQwODI0NjA2LDE0MD
+eyJoaXN0b3J5IjpbMTc0ODY1MjcwMiwtNzQwODI0NjA2LDE0MD
 A1NjkxNiwtNTgxOTk4NjQxLDkwNDU0NDc4MywtMTEzNjE3Njc0
 MiwtMTkxODU5NTUxMiwtMTkzOTAxNDI4MywxNDg3MDQ1OTA5LD
 k2OTQ5MTMzOSw4NjY4MjEwMTksLTE4OTU5MzU4MjIsNzAwMzU0
