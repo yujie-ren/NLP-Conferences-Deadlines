@@ -46,7 +46,7 @@ All dates are in the following format: **dd-mm, yy**
 |[EACL24](https://2024.eacl.org/) |October 15, 2023|January 17, 2024|March 17-22, 2024|
 |[EACL23](https://2023.eacl.org/) |October 13, 2022|January 20, 2023|May 2-6, 2023|
 | EACL22                          |       -       |        -        |       -       |
-|[EACL21](https://2021.eacl.org/) |October 7, 2020|January 11, 2021|April 19–23, 2021|
+|[EACL21](https://2021.eacl.org/) |07-10, 2020|11-01, 2021|April 19–23, 2021|
 
 
 ## COLING
@@ -74,7 +74,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjUwMDgyNCwtNTgxOTk4NjQxLDkwND
+eyJoaXN0b3J5IjpbLTI3ODc3NTY0NCwtNTgxOTk4NjQxLDkwND
 U0NDc4MywtMTEzNjE3Njc0MiwtMTkxODU5NTUxMiwtMTkzOTAx
 NDI4MywxNDg3MDQ1OTA5LDk2OTQ5MTMzOSw4NjY4MjEwMTksLT
 E4OTU5MzU4MjIsNzAwMzU0NDI1LC02NDY1NTM4OTgsMTQyOTgy
