@@ -88,7 +88,14 @@ All dates are in the following format: **dd-mm, yy**
 | [COLING22](https://coling2022.org/) |17-05, 2022|15-08, 2022|12-10, 2022|
 | COLING21 |      -        |        -        |      -        |
 
-
+## NeurIPS
+|  Conf  | Submission    |   Notification  |   Conference  |
+| :---:  |    :----:     |     :---:       |     :---:     |
+|[NeurIPS25]()|16-09, 2024|**29-11, 2024**|**19-01, 2025**|
+| [NeurIPS24]() |20-10, 2023|19-02, 2024|20-05, 2024|
+|  NeurIPS23                           |              |        -        |       -       |
+| [NeurIPS22]() |17-05, 2022|15-08, 2022|12-10, 2022|
+| NeurIPS21 |             |                |              |
 
 
 <!--stackedit_data:
@@ -101,11 +108,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTM3OTY4OTYsLTU1NTUxMjIwMSwtMT
-I2NDkxODc2MiwxOTAxMTA0NzM4LC0xNzkyMzg4MDAzLDE0MDY2
-MzU1MzYsMTM4Mzc1MDIsLTc0Nzk1OTk1MiwxNjc0NTIyMzE3LD
-IxMTM1MTgzMDQsLTUzMjc5MTUxMSwtMTg3OTMzNjY1NSwtMjA2
-MzQzNDE1NiwtMzE1NzU4NDUwLDE3NDg2NTI3MDIsLTc0MDgyND
-YwNiwxNDAwNTY5MTYsLTU4MTk5ODY0MSw5MDQ1NDQ3ODMsLTEx
-MzYxNzY3NDJdfQ==
+eyJoaXN0b3J5IjpbNDk2MzgyMjQyLC01NTU1MTIyMDEsLTEyNj
+Q5MTg3NjIsMTkwMTEwNDczOCwtMTc5MjM4ODAwMywxNDA2NjM1
+NTM2LDEzODM3NTAyLC03NDc5NTk5NTIsMTY3NDUyMjMxNywyMT
+EzNTE4MzA0LC01MzI3OTE1MTEsLTE4NzkzMzY2NTUsLTIwNjM0
+MzQxNTYsLTMxNTc1ODQ1MCwxNzQ4NjUyNzAyLC03NDA4MjQ2MD
+YsMTQwMDU2OTE2LC01ODE5OTg2NDEsOTA0NTQ0NzgzLC0xMTM2
+MTc2NzQyXX0=
 -->
