@@ -35,8 +35,8 @@ All dates are in the following format: **dd-mm, yy**
 |[NAACL25](https://2025.naacl.org/)  |**October 15, 2024**|                 |**April 29–May 4, 2025**|
 |[NAACL24](https://2024.naacl.org/)  |December 15, 2023|March 15, 2024|June 16–21, 2024|
 | NAACL23                            |       -       |        -        |       -       |
-|[NAACL22](https://2022.naacl.org/)  |January 15, 2022|April 7, 2022|July 10–15, 2022|
-|[NAACL21](https://2021.naacl.org/) |November 23, 2020|March 10, 2021|June 6–11, 2021|
+|[NAACL22](https://2022.naacl.org/)  |15-01, 2022|07-04, 2022|10–07, 2022|
+|[NAACL21](https://2021.naacl.org/) |23-11, 2020|10-03, 2021|06–06, 2021|
 
 
 ## EACL
@@ -74,10 +74,10 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTM2NTY4NTUsLTU4MTk5ODY0MSw5MD
-Q1NDQ3ODMsLTExMzYxNzY3NDIsLTE5MTg1OTU1MTIsLTE5Mzkw
-MTQyODMsMTQ4NzA0NTkwOSw5Njk0OTEzMzksODY2ODIxMDE5LC
-0xODk1OTM1ODIyLDcwMDM1NDQyNSwtNjQ2NTUzODk4LDE0Mjk4
-MjQ5MzUsMTU3NDQ1MjQ2MSwxOTI2NjYyNTcwLC0yMzQ4ODY3NT
-QsLTY4MDY3MzExNF19
+eyJoaXN0b3J5IjpbLTM5MTgxMTYyOSwtNTgxOTk4NjQxLDkwND
+U0NDc4MywtMTEzNjE3Njc0MiwtMTkxODU5NTUxMiwtMTkzOTAx
+NDI4MywxNDg3MDQ1OTA5LDk2OTQ5MTMzOSw4NjY4MjEwMTksLT
+E4OTU5MzU4MjIsNzAwMzU0NDI1LC02NDY1NTM4OTgsMTQyOTgy
+NDkzNSwxNTc0NDUyNDYxLDE5MjY2NjI1NzAsLTIzNDg4Njc1NC
+wtNjgwNjczMTE0XX0=
 -->
