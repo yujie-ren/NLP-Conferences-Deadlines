@@ -43,8 +43,8 @@ All dates are in the following format: **dd-mm, yy**
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | EACL25 |      -        |       -         |       -       |
-|[EACL24](https://2024.eacl.org/) |October 15, 2023|January 17, 2024|March 17-22, 2024|
-|[EACL23](https://2023.eacl.org/) |October 13, 2022|January 20, 2023|May 2-6, 2023|
+|[EACL24](https://2024.eacl.org/) |15-10, 2023|17-01, 2024|17-03, 2024|
+|[EACL23](https://2023.eacl.org/) |13-10, 2022|20-01, 2023|02-05, 2023|
 | EACL22                          |       -       |        -        |       -       |
 |[EACL21](https://2021.eacl.org/) |07-10, 2020|11-01, 2021|19–04, 2021|
 
@@ -74,10 +74,10 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1MDkzODk1LC01ODE5OTg2NDEsOTA0NT
-Q0NzgzLC0xMTM2MTc2NzQyLC0xOTE4NTk1NTEyLC0xOTM5MDE0
-MjgzLDE0ODcwNDU5MDksOTY5NDkxMzM5LDg2NjgyMTAxOSwtMT
-g5NTkzNTgyMiw3MDAzNTQ0MjUsLTY0NjU1Mzg5OCwxNDI5ODI0
-OTM1LDE1NzQ0NTI0NjEsMTkyNjY2MjU3MCwtMjM0ODg2NzU0LC
-02ODA2NzMxMTRdfQ==
+eyJoaXN0b3J5IjpbLTIwMTM2NTY4NTUsLTU4MTk5ODY0MSw5MD
+Q1NDQ3ODMsLTExMzYxNzY3NDIsLTE5MTg1OTU1MTIsLTE5Mzkw
+MTQyODMsMTQ4NzA0NTkwOSw5Njk0OTEzMzksODY2ODIxMDE5LC
+0xODk1OTM1ODIyLDcwMDM1NDQyNSwtNjQ2NTUzODk4LDE0Mjk4
+MjQ5MzUsMTU3NDQ1MjQ2MSwxOTI2NjYyNTcwLC0yMzQ4ODY3NT
+QsLTY4MDY3MzExNF19
 -->
