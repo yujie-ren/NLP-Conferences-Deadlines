@@ -62,7 +62,7 @@ All dates are in the following format: **dd-mm, yy**
 ## NAACL
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[NAACL25](https://2025.naacl.org/)  |**15-10, 2024**|                 |**29–04, 2025**|
+|[NAACL25](https://2025.naacl.org/)  |15-10, 2024|                 |29–04, 2025|
 |[NAACL24](https://2024.naacl.org/)  |15-12, 2023|15-03, 2024|16–06, 2024|
 | NAACL23                            |       -       |        -        |       -       |
 |[NAACL22](https://2022.naacl.org/)  |15-01, 2022|07-04, 2022|10–07, 2022|
@@ -82,7 +82,7 @@ All dates are in the following format: **dd-mm, yy**
 ## COLING
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[COLING25](https://coling2025.org/)|16-09, 2024|**29-11, 2024**|**19-01, 2025**|
+|[COLING25](https://coling2025.org/)|16-09, 2024|29-11, 2024**|**19-01, 2025**|
 | [COLING24](https://lrec-coling-2024.org/) |20-10, 2023|19-02, 2024|20-05, 2024|
 |  COLING23                           |       -       |        -        |       -       |
 | [COLING22](https://coling2022.org/) |17-05, 2022|15-08, 2022|12-10, 2022|
@@ -143,11 +143,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxNDExODg2LC0xMzA0MzA4NDM0LDIwMz
-UwMzE2NzQsLTMzNTE4NjYyNCwtNTU1NTEyMjAxLC0xMjY0OTE4
-NzYyLDE5MDExMDQ3MzgsLTE3OTIzODgwMDMsMTQwNjYzNTUzNi
-wxMzgzNzUwMiwtNzQ3OTU5OTUyLDE2NzQ1MjIzMTcsMjExMzUx
-ODMwNCwtNTMyNzkxNTExLC0xODc5MzM2NjU1LC0yMDYzNDM0MT
-U2LC0zMTU3NTg0NTAsMTc0ODY1MjcwMiwtNzQwODI0NjA2LDE0
-MDA1NjkxNl19
+eyJoaXN0b3J5IjpbLTIxMzU4MzkyNTAsLTEzMDQzMDg0MzQsMj
+AzNTAzMTY3NCwtMzM1MTg2NjI0LC01NTU1MTIyMDEsLTEyNjQ5
+MTg3NjIsMTkwMTEwNDczOCwtMTc5MjM4ODAwMywxNDA2NjM1NT
+M2LDEzODM3NTAyLC03NDc5NTk5NTIsMTY3NDUyMjMxNywyMTEz
+NTE4MzA0LC01MzI3OTE1MTEsLTE4NzkzMzY2NTUsLTIwNjM0Mz
+QxNTYsLTMxNTc1ODQ1MCwxNzQ4NjUyNzAyLC03NDA4MjQ2MDYs
+MTQwMDU2OTE2XX0=
 -->
