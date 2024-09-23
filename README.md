@@ -1,13 +1,13 @@
 Record past NLP Conf Deadlines to predict future ones.
 All dates are in the following format: **dd-mm, yy**
 ## NLP Conf 2025
-|  Conf  | Submission    |   Notification  |   Conference  |
-| :---:  |    :----:     |     :---:       |     :---:     |
-|[COLING25](https://coling2025.org/)|16-09, 2024|**29-11, 2024**|**19-01, 2025**|
-|[NAACL25](https://2025.naacl.org/)  |**15-10, 2024**|                 |**29–04, 2025**|
-|[ACL25](https://2025.aclweb.org/)  |**12, 2024 (expected)**|                 |**27-07, 2025**|
-| EMNLP25  |**06, 2025 (expected)**|          |**11, 2025 (expected)**|
-| EACL25  |     -       |       -       |      -       |
+|  Conf  |CORE|Submission    |   Notification  |   Conference  |
+| :---:  |:----:     |    :----:     |     :---:       |     :---:     |
+|[COLING25](https://coling2025.org/)|  |16-09, 2024|**29-11, 2024**|**19-01, 2025**|
+|[NAACL25](https://2025.naacl.org/)  |  |**15-10, 2024**|                 |**29–04, 2025**|
+|[ACL25](https://2025.aclweb.org/)  |  |**12, 2024 (expected)**|                 |**27-07, 2025**|
+| EMNLP25  |  |**06, 2025 (expected)**|          |**11, 2025 (expected)**|
+| EACL25  |  |     -       |       -       |      -       |
 
 ## AI Conf 2025
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -101,11 +101,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQ5MTg3NjIsMTkwMTEwNDczOCwtMT
-c5MjM4ODAwMywxNDA2NjM1NTM2LDEzODM3NTAyLC03NDc5NTk5
-NTIsMTY3NDUyMjMxNywyMTEzNTE4MzA0LC01MzI3OTE1MTEsLT
-E4NzkzMzY2NTUsLTIwNjM0MzQxNTYsLTMxNTc1ODQ1MCwxNzQ4
-NjUyNzAyLC03NDA4MjQ2MDYsMTQwMDU2OTE2LC01ODE5OTg2ND
-EsOTA0NTQ0NzgzLC0xMTM2MTc2NzQyLC0xOTE4NTk1NTEyLC0x
-OTM5MDE0MjgzXX0=
+eyJoaXN0b3J5IjpbMTc5MTAzNzA4MywtMTI2NDkxODc2MiwxOT
+AxMTA0NzM4LC0xNzkyMzg4MDAzLDE0MDY2MzU1MzYsMTM4Mzc1
+MDIsLTc0Nzk1OTk1MiwxNjc0NTIyMzE3LDIxMTM1MTgzMDQsLT
+UzMjc5MTUxMSwtMTg3OTMzNjY1NSwtMjA2MzQzNDE1NiwtMzE1
+NzU4NDUwLDE3NDg2NTI3MDIsLTc0MDgyNDYwNiwxNDAwNTY5MT
+YsLTU4MTk5ODY0MSw5MDQ1NDQ3ODMsLTExMzYxNzY3NDIsLTE5
+MTg1OTU1MTJdfQ==
 -->
