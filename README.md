@@ -53,7 +53,7 @@ All dates are in the following format: **dd-mm, yy**
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | EMNLP25 |               |                 |               |
-|[EMNLP24](https://2024.emnlp.org/)|15-06, 2024|**20-09, 2024**|**12-11, 2024**|
+|[EMNLP24](https://2024.emnlp.org/)|15-06, 2024|20-09, 2024|12-11, 2024|
 |[EMNLP23](https://2023.emnlp.org/)|16-06, 2023|06-10, 2023|06–12, 2023|
 |[EMNLP22](https://2022.emnlp.org/)|17-06, 2022|06-10, 2022|07–12, 2022|
 |[EMNLP21](https://2021.emnlp.org/)|10-05, 2021|25-08, 2021|07–11, 2021|
@@ -143,11 +143,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDQzMDg0MzQsMjAzNTAzMTY3NCwtMz
-M1MTg2NjI0LC01NTU1MTIyMDEsLTEyNjQ5MTg3NjIsMTkwMTEw
-NDczOCwtMTc5MjM4ODAwMywxNDA2NjM1NTM2LDEzODM3NTAyLC
-03NDc5NTk5NTIsMTY3NDUyMjMxNywyMTEzNTE4MzA0LC01MzI3
-OTE1MTEsLTE4NzkzMzY2NTUsLTIwNjM0MzQxNTYsLTMxNTc1OD
-Q1MCwxNzQ4NjUyNzAyLC03NDA4MjQ2MDYsMTQwMDU2OTE2LC01
-ODE5OTg2NDFdfQ==
+eyJoaXN0b3J5IjpbNzQxNDExODg2LC0xMzA0MzA4NDM0LDIwMz
+UwMzE2NzQsLTMzNTE4NjYyNCwtNTU1NTEyMjAxLC0xMjY0OTE4
+NzYyLDE5MDExMDQ3MzgsLTE3OTIzODgwMDMsMTQwNjYzNTUzNi
+wxMzgzNzUwMiwtNzQ3OTU5OTUyLDE2NzQ1MjIzMTcsMjExMzUx
+ODMwNCwtNTMyNzkxNTExLC0xODc5MzM2NjU1LC0yMDYzNDM0MT
+U2LC0zMTU3NTg0NTAsMTc0ODY1MjcwMiwtNzQwODI0NjA2LDE0
+MDA1NjkxNl19
 -->
