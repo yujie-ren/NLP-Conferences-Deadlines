@@ -27,6 +27,9 @@ All dates are in the following format: **dd-mm, yy**
 ## Contents
 - [ACL DLs](#acl)
 - [EMNLP DLs](#emnlp)
+- [NAACL DLs](#naacl)
+- [EACL DLs](#eacl)
+- [COLING DLs](#coling)
 
 ## ACL
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -90,11 +93,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjYzNTUzNiwxMzgzNzUwMiwtNzQ3OT
-U5OTUyLDE2NzQ1MjIzMTcsMjExMzUxODMwNCwtNTMyNzkxNTEx
-LC0xODc5MzM2NjU1LC0yMDYzNDM0MTU2LC0zMTU3NTg0NTAsMT
-c0ODY1MjcwMiwtNzQwODI0NjA2LDE0MDA1NjkxNiwtNTgxOTk4
-NjQxLDkwNDU0NDc4MywtMTEzNjE3Njc0MiwtMTkxODU5NTUxMi
-wtMTkzOTAxNDI4MywxNDg3MDQ1OTA5LDk2OTQ5MTMzOSw4NjY4
-MjEwMTldfQ==
+eyJoaXN0b3J5IjpbLTE1MDA0MTU0MTYsMTQwNjYzNTUzNiwxMz
+gzNzUwMiwtNzQ3OTU5OTUyLDE2NzQ1MjIzMTcsMjExMzUxODMw
+NCwtNTMyNzkxNTExLC0xODc5MzM2NjU1LC0yMDYzNDM0MTU2LC
+0zMTU3NTg0NTAsMTc0ODY1MjcwMiwtNzQwODI0NjA2LDE0MDA1
+NjkxNiwtNTgxOTk4NjQxLDkwNDU0NDc4MywtMTEzNjE3Njc0Mi
+wtMTkxODU5NTUxMiwtMTkzOTAxNDI4MywxNDg3MDQ1OTA5LDk2
+OTQ5MTMzOV19
 -->
