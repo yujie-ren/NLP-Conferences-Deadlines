@@ -8,6 +8,7 @@ All dates are in the following format: **dd-mm, yy**
 |[ACL25](https://2025.aclweb.org/)  |**12, 2024 (expected)**|                 |**27-07, 2025**|
 | EMNLP25  |**06, 2025 (expected)**|          |**11, 2025 (expected)**|
 | EACL25  |     -       |       -       |      -       |
+
 ## AI Conf 2025
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
@@ -16,6 +17,12 @@ All dates are in the following format: **dd-mm, yy**
 |[ICLR25]()   |               |                 |               |
 |[AAAI25]()   |               |                 |               |
 |[IJCAI25]()  |               |                 |               |
+
+## Conf Rankings
+|  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |
+| :---:  | :----:  |   :---:  |  :---:   | :---:|  :---: |
+| [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
+| [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 
 ## ACL
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -67,11 +74,8 @@ All dates are in the following format: **dd-mm, yy**
 | COLING21 |      -        |        -        |      -        |
 
 
-## Conf Rankings
-|  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |
-| :---:  | :----:  |   :---:  |  :---:   | :---:|  :---: |
-| [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
-| [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4NDc5MjY4MDQsLTcyOTIyOTU3OCwxMT
 EyNzQ4NTUzLC0zODkwODE2OTQsNDIzNTMwMjMwLDQyMzUzMDIz
@@ -82,11 +86,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzkzMzY2NTUsLTIwNjM0MzQxNTYsLT
-MxNTc1ODQ1MCwxNzQ4NjUyNzAyLC03NDA4MjQ2MDYsMTQwMDU2
-OTE2LC01ODE5OTg2NDEsOTA0NTQ0NzgzLC0xMTM2MTc2NzQyLC
-0xOTE4NTk1NTEyLC0xOTM5MDE0MjgzLDE0ODcwNDU5MDksOTY5
-NDkxMzM5LDg2NjgyMTAxOSwtMTg5NTkzNTgyMiw3MDAzNTQ0Mj
-UsLTY0NjU1Mzg5OCwxNDI5ODI0OTM1LDE1NzQ0NTI0NjEsMTky
-NjY2MjU3MF19
+eyJoaXN0b3J5IjpbLTUzMjc5MTUxMSwtMTg3OTMzNjY1NSwtMj
+A2MzQzNDE1NiwtMzE1NzU4NDUwLDE3NDg2NTI3MDIsLTc0MDgy
+NDYwNiwxNDAwNTY5MTYsLTU4MTk5ODY0MSw5MDQ1NDQ3ODMsLT
+ExMzYxNzY3NDIsLTE5MTg1OTU1MTIsLTE5MzkwMTQyODMsMTQ4
+NzA0NTkwOSw5Njk0OTEzMzksODY2ODIxMDE5LC0xODk1OTM1OD
+IyLDcwMDM1NDQyNSwtNjQ2NTUzODk4LDE0Mjk4MjQ5MzUsMTU3
+NDQ1MjQ2MV19
 -->
