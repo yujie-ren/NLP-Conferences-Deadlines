@@ -19,9 +19,9 @@ All dates are in the following format: **dd-mm, yy**
 |[IJCAI25]()  |               |                 |               |
 
 ## Conf Rankings
-|  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |NeurIPS| |
-| :---:  | :----:  |   :---:  |  :---:   | :---:|  :---: |:---: |:---: |
-| [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |
+|  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |NeurIPS|ICML|ICLR|AAAI|IJCAI|
+| :---:  | :----:  |   :---:  |  :---:   | :---:|  :---: |:---: |:---: |:---: |:---: |:---: |
+| [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |A*|A*|A*|A*|A*|
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
 
 ## ACL
@@ -86,11 +86,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3MTY3NDMzLC01MzI3OTE1MTEsLTE4Nz
-kzMzY2NTUsLTIwNjM0MzQxNTYsLTMxNTc1ODQ1MCwxNzQ4NjUy
-NzAyLC03NDA4MjQ2MDYsMTQwMDU2OTE2LC01ODE5OTg2NDEsOT
-A0NTQ0NzgzLC0xMTM2MTc2NzQyLC0xOTE4NTk1NTEyLC0xOTM5
-MDE0MjgzLDE0ODcwNDU5MDksOTY5NDkxMzM5LDg2NjgyMTAxOS
-wtMTg5NTkzNTgyMiw3MDAzNTQ0MjUsLTY0NjU1Mzg5OCwxNDI5
-ODI0OTM1XX0=
+eyJoaXN0b3J5IjpbMjExMzUxODMwNCwtNTMyNzkxNTExLC0xOD
+c5MzM2NjU1LC0yMDYzNDM0MTU2LC0zMTU3NTg0NTAsMTc0ODY1
+MjcwMiwtNzQwODI0NjA2LDE0MDA1NjkxNiwtNTgxOTk4NjQxLD
+kwNDU0NDc4MywtMTEzNjE3Njc0MiwtMTkxODU5NTUxMiwtMTkz
+OTAxNDI4MywxNDg3MDQ1OTA5LDk2OTQ5MTMzOSw4NjY4MjEwMT
+ksLTE4OTU5MzU4MjIsNzAwMzU0NDI1LC02NDY1NTM4OTgsMTQy
+OTgyNDkzNV19
 -->
