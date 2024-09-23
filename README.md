@@ -11,10 +11,10 @@
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[ACL25](https://2025.aclweb.org/)  |               |                 |**July 27-August 1st, 2025**|
-|[ACL24](https://2024.aclweb.org/)|15-02-2024|15-05-2024|August 11–16, 2024|
-|[ACL23](https://2023.aclweb.org/)|15-12-2022|01-05-2023|July 9-14, 2023|
-|[ACL22](https://2022.aclweb.org/)|15-11-2021|23-02-2022|May 22-27, 2022|
-|[ACL21](https://2021.aclweb.org/) |25-01-2021|05-05-2021|August 1-6, 2021|
+|[ACL24](https://2024.aclweb.org/)|15-02-2024|15-05-2024|11–08-2024|
+|[ACL23](https://2023.aclweb.org/)|15-12-2022|01-05-2023|09-07-2023|
+|[ACL22](https://2022.aclweb.org/)|15-11-2021|23-02-2022|22-05-2022|
+|[ACL21](https://2021.aclweb.org/) |25-01-2021|05-05-2021|01-08-2021|
 
 
 ## EMNLP
@@ -72,9 +72,9 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzYxNzY3NDIsLTE5MTg1OTU1MTIsLT
-E5MzkwMTQyODMsMTQ4NzA0NTkwOSw5Njk0OTEzMzksODY2ODIx
-MDE5LC0xODk1OTM1ODIyLDcwMDM1NDQyNSwtNjQ2NTUzODk4LD
-E0Mjk4MjQ5MzUsMTU3NDQ1MjQ2MSwxOTI2NjYyNTcwLC0yMzQ4
-ODY3NTQsLTY4MDY3MzExNF19
+eyJoaXN0b3J5IjpbMjAzNzIwOTgyNiwtMTEzNjE3Njc0MiwtMT
+kxODU5NTUxMiwtMTkzOTAxNDI4MywxNDg3MDQ1OTA5LDk2OTQ5
+MTMzOSw4NjY4MjEwMTksLTE4OTU5MzU4MjIsNzAwMzU0NDI1LC
+02NDY1NTM4OTgsMTQyOTgyNDkzNSwxNTc0NDUyNDYxLDE5MjY2
+NjI1NzAsLTIzNDg4Njc1NCwtNjgwNjczMTE0XX0=
 -->
