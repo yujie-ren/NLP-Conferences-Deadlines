@@ -97,6 +97,14 @@ All dates are in the following format: **dd-mm, yy**
 |[NeurIPS22]() |         |                 |               |
 |[NeurIPS21]() |         |                 |               |
 
+## ICML
+|  Conf  | Submission    |   Notification  |   Conference  |
+| :---:  |    :----:     |     :---:       |     :---:     |
+|[NeurIPS25]()|          |                 |               |
+|[NeurIPS24]() |         |                 |               |
+|[NeurIPS23]() |         |                 |               |
+|[NeurIPS22]() |         |                 |               |
+|[NeurIPS21]() |         |                 |               |
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4NDc5MjY4MDQsLTcyOTIyOTU3OCwxMT
@@ -108,7 +116,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDAzMDExOCwtNTU1NTEyMjAxLC0xMj
+eyJoaXN0b3J5IjpbLTEyMzg0NDAxMSwtNTU1NTEyMjAxLC0xMj
 Y0OTE4NzYyLDE5MDExMDQ3MzgsLTE3OTIzODgwMDMsMTQwNjYz
 NTUzNiwxMzgzNzUwMiwtNzQ3OTU5OTUyLDE2NzQ1MjIzMTcsMj
 ExMzUxODMwNCwtNTMyNzkxNTExLC0xODc5MzM2NjU1LC0yMDYz
