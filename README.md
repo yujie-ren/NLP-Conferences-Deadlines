@@ -1,4 +1,4 @@
-All dates are in the following format: dd-mm, 
+All dates are in the following format: **dd-mm, yy**
 ## Confs 2025
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
@@ -73,9 +73,9 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MzM1NjE4MiwtMTEzNjE3Njc0MiwtMT
-kxODU5NTUxMiwtMTkzOTAxNDI4MywxNDg3MDQ1OTA5LDk2OTQ5
-MTMzOSw4NjY4MjEwMTksLTE4OTU5MzU4MjIsNzAwMzU0NDI1LC
-02NDY1NTM4OTgsMTQyOTgyNDkzNSwxNTc0NDUyNDYxLDE5MjY2
-NjI1NzAsLTIzNDg4Njc1NCwtNjgwNjczMTE0XX0=
+eyJoaXN0b3J5IjpbNzQ2Nzc4ODcwLC0xMTM2MTc2NzQyLC0xOT
+E4NTk1NTEyLC0xOTM5MDE0MjgzLDE0ODcwNDU5MDksOTY5NDkx
+MzM5LDg2NjgyMTAxOSwtMTg5NTkzNTgyMiw3MDAzNTQ0MjUsLT
+Y0NjU1Mzg5OCwxNDI5ODI0OTM1LDE1NzQ0NTI0NjEsMTkyNjY2
+MjU3MCwtMjM0ODg2NzU0LC02ODA2NzMxMTRdfQ==
 -->
