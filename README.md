@@ -27,17 +27,16 @@ All dates are in the following format: **dd-mm, yy**
 ## Contents
 - NLP
   - [ACL ](#acl)
-
-- [EMNLP ](#emnlp)
-- [NAACL ](#naacl)
-- [EACL ](#eacl)
-- [COLING ](#coling)
+  - [EMNLP ](#emnlp)
+  - [NAACL ](#naacl)
+  - [EACL ](#eacl)
+  - [COLING ](#coling)
 - AI
-- [NeurIPS ](#neurips)
-- [ICML ](#icml)
-- [ICLR ](#iclr)
-- [AAAI ](#aaai)
-- [IJCAI ](#ijcai)
+  - [NeurIPS ](#neurips)
+  - [ICML ](#icml)
+  - [ICLR ](#iclr)
+  - [AAAI ](#aaai)
+  - [IJCAI ](#ijcai)
 
 
 ## ACL
@@ -102,11 +101,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTg1ODkxOTAsMTkwMTEwNDczOCwtMT
-c5MjM4ODAwMywxNDA2NjM1NTM2LDEzODM3NTAyLC03NDc5NTk5
-NTIsMTY3NDUyMjMxNywyMTEzNTE4MzA0LC01MzI3OTE1MTEsLT
-E4NzkzMzY2NTUsLTIwNjM0MzQxNTYsLTMxNTc1ODQ1MCwxNzQ4
-NjUyNzAyLC03NDA4MjQ2MDYsMTQwMDU2OTE2LC01ODE5OTg2ND
-EsOTA0NTQ0NzgzLC0xMTM2MTc2NzQyLC0xOTE4NTk1NTEyLC0x
-OTM5MDE0MjgzXX0=
+eyJoaXN0b3J5IjpbMTY0Mzc5NzUxNiwxOTAxMTA0NzM4LC0xNz
+kyMzg4MDAzLDE0MDY2MzU1MzYsMTM4Mzc1MDIsLTc0Nzk1OTk1
+MiwxNjc0NTIyMzE3LDIxMTM1MTgzMDQsLTUzMjc5MTUxMSwtMT
+g3OTMzNjY1NSwtMjA2MzQzNDE1NiwtMzE1NzU4NDUwLDE3NDg2
+NTI3MDIsLTc0MDgyNDYwNiwxNDAwNTY5MTYsLTU4MTk5ODY0MS
+w5MDQ1NDQ3ODMsLTExMzYxNzY3NDIsLTE5MTg1OTU1MTIsLTE5
+MzkwMTQyODNdfQ==
 -->
