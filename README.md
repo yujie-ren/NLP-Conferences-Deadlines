@@ -22,7 +22,7 @@ All dates are in the following format: **dd-mm, yy**
 |  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |NeurIPS|ICML|ICLR|AAAI|IJCAI|
 | :---:  | :----:  |   :---:  |  :---:   | :---:|  :---: |:---: |:---: |:---: |:---: |:---: |
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |A*|A*|A*|A*|A*|
-| [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |
+| [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |A |A |- |A |A |
 
 ## ACL
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -86,11 +86,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzUxODMwNCwtNTMyNzkxNTExLC0xOD
-c5MzM2NjU1LC0yMDYzNDM0MTU2LC0zMTU3NTg0NTAsMTc0ODY1
-MjcwMiwtNzQwODI0NjA2LDE0MDA1NjkxNiwtNTgxOTk4NjQxLD
-kwNDU0NDc4MywtMTEzNjE3Njc0MiwtMTkxODU5NTUxMiwtMTkz
-OTAxNDI4MywxNDg3MDQ1OTA5LDk2OTQ5MTMzOSw4NjY4MjEwMT
-ksLTE4OTU5MzU4MjIsNzAwMzU0NDI1LC02NDY1NTM4OTgsMTQy
-OTgyNDkzNV19
+eyJoaXN0b3J5IjpbMTY3NDUyMjMxNywyMTEzNTE4MzA0LC01Mz
+I3OTE1MTEsLTE4NzkzMzY2NTUsLTIwNjM0MzQxNTYsLTMxNTc1
+ODQ1MCwxNzQ4NjUyNzAyLC03NDA4MjQ2MDYsMTQwMDU2OTE2LC
+01ODE5OTg2NDEsOTA0NTQ0NzgzLC0xMTM2MTc2NzQyLC0xOTE4
+NTk1NTEyLC0xOTM5MDE0MjgzLDE0ODcwNDU5MDksOTY5NDkxMz
+M5LDg2NjgyMTAxOSwtMTg5NTkzNTgyMiw3MDAzNTQ0MjUsLTY0
+NjU1Mzg5OF19
 -->
