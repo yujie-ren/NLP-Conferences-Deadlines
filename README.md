@@ -1,4 +1,4 @@
-**Record past NLP Conf Deadlines,  to predict future ones.**  
+# Record past NLP Conf Deadlines,  to predict future ones.
 All dates are in the following format: **dd-mm, yy**
 ## NLP Conf 2025
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -82,7 +82,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjQzNDE5MCwxNzQ4NjUyNzAyLC03ND
+eyJoaXN0b3J5IjpbLTQyNjY4OTI2MywxNzQ4NjUyNzAyLC03ND
 A4MjQ2MDYsMTQwMDU2OTE2LC01ODE5OTg2NDEsOTA0NTQ0Nzgz
 LC0xMTM2MTc2NzQyLC0xOTE4NTk1NTEyLC0xOTM5MDE0MjgzLD
 E0ODcwNDU5MDksOTY5NDkxMzM5LDg2NjgyMTAxOSwtMTg5NTkz
