@@ -100,11 +100,11 @@ All dates are in the following format: **dd-mm, yy**
 ## ICML
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[NeurIPS25]()|          |                 |               |
-|[NeurIPS24]() |         |                 |               |
-|[NeurIPS23]() |         |                 |               |
-|[NeurIPS22]() |         |                 |               |
-|[NeurIPS21]() |         |                 |               |
+|[ICML25]()|          |                 |               |
+|[ICML24]() |         |                 |               |
+|[ICML23]() |         |                 |               |
+|[ICML22]() |         |                 |               |
+|[ICML21]() |         |                 |               |
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4NDc5MjY4MDQsLTcyOTIyOTU3OCwxMT
@@ -116,11 +116,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzg0NDAxMSwtNTU1NTEyMjAxLC0xMj
-Y0OTE4NzYyLDE5MDExMDQ3MzgsLTE3OTIzODgwMDMsMTQwNjYz
-NTUzNiwxMzgzNzUwMiwtNzQ3OTU5OTUyLDE2NzQ1MjIzMTcsMj
-ExMzUxODMwNCwtNTMyNzkxNTExLC0xODc5MzM2NjU1LC0yMDYz
-NDM0MTU2LC0zMTU3NTg0NTAsMTc0ODY1MjcwMiwtNzQwODI0Nj
-A2LDE0MDA1NjkxNiwtNTgxOTk4NjQxLDkwNDU0NDc4MywtMTEz
-NjE3Njc0Ml19
+eyJoaXN0b3J5IjpbLTExNzA1MzI1NzgsLTU1NTUxMjIwMSwtMT
+I2NDkxODc2MiwxOTAxMTA0NzM4LC0xNzkyMzg4MDAzLDE0MDY2
+MzU1MzYsMTM4Mzc1MDIsLTc0Nzk1OTk1MiwxNjc0NTIyMzE3LD
+IxMTM1MTgzMDQsLTUzMjc5MTUxMSwtMTg3OTMzNjY1NSwtMjA2
+MzQzNDE1NiwtMzE1NzU4NDUwLDE3NDg2NTI3MDIsLTc0MDgyND
+YwNiwxNDAwNTY5MTYsLTU4MTk5ODY0MSw5MDQ1NDQ3ODMsLTEx
+MzYxNzY3NDJdfQ==
 -->
