@@ -25,12 +25,8 @@ All dates are in the following format: **dd-mm, yy**
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |A |A |- |A |A |
 
 ## Contents
-|Year | [Conference](#conference-papers) |      |                      |               |        |
-|:---:|    :----:        |        :---:         |        :---:         |      :---:    | :---:  |
-|2024| [ACL](#acl-2024) | [EMNLP](#emnlp-2024) | [NAACL](#naacl-2024) |[COLM](#colm-2024)|[arXiv](#arxiv-2024)
-|2023| [ACL](#acl-2023) | [EMNLP](#emnlp-2023) |                      |
-|2022| [ACL](#acl-2022) | [EMNLP](#emnlp-2022) | [NAACL](#naacl-2022) |
-|2021| [ACL](#acl-2021) | [EMNLP](#emnlp-2021) | [NAACL](#naacl-2021) |
+- [ACL Deadlines](#ACL)
+
 
 ## ACL
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -94,11 +90,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Mzc1MDIsLTc0Nzk1OTk1MiwxNjc0NT
-IyMzE3LDIxMTM1MTgzMDQsLTUzMjc5MTUxMSwtMTg3OTMzNjY1
-NSwtMjA2MzQzNDE1NiwtMzE1NzU4NDUwLDE3NDg2NTI3MDIsLT
-c0MDgyNDYwNiwxNDAwNTY5MTYsLTU4MTk5ODY0MSw5MDQ1NDQ3
-ODMsLTExMzYxNzY3NDIsLTE5MTg1OTU1MTIsLTE5MzkwMTQyOD
-MsMTQ4NzA0NTkwOSw5Njk0OTEzMzksODY2ODIxMDE5LC0xODk1
-OTM1ODIyXX0=
+eyJoaXN0b3J5IjpbLTEyMDgyMzg5MiwxMzgzNzUwMiwtNzQ3OT
+U5OTUyLDE2NzQ1MjIzMTcsMjExMzUxODMwNCwtNTMyNzkxNTEx
+LC0xODc5MzM2NjU1LC0yMDYzNDM0MTU2LC0zMTU3NTg0NTAsMT
+c0ODY1MjcwMiwtNzQwODI0NjA2LDE0MDA1NjkxNiwtNTgxOTk4
+NjQxLDkwNDU0NDc4MywtMTEzNjE3Njc0MiwtMTkxODU5NTUxMi
+wtMTkzOTAxNDI4MywxNDg3MDQ1OTA5LDk2OTQ5MTMzOSw4NjY4
+MjEwMTldfQ==
 -->
