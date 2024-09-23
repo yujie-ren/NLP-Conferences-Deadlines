@@ -82,7 +82,7 @@ All dates are in the following format: **dd-mm, yy**
 ## COLING
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[COLING25](https://coling2025.org/)|16-09, 2024|29-11, 2024**|**19-01, 2025**|
+|[COLING25](https://coling2025.org/)|16-09, 2024|29-11, 2024|19-01, 2025|
 | [COLING24](https://lrec-coling-2024.org/) |20-10, 2023|19-02, 2024|20-05, 2024|
 |  COLING23                           |       -       |        -        |       -       |
 | [COLING22](https://coling2022.org/) |17-05, 2022|15-08, 2022|12-10, 2022|
@@ -143,11 +143,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzU4MzkyNTAsLTEzMDQzMDg0MzQsMj
-AzNTAzMTY3NCwtMzM1MTg2NjI0LC01NTU1MTIyMDEsLTEyNjQ5
-MTg3NjIsMTkwMTEwNDczOCwtMTc5MjM4ODAwMywxNDA2NjM1NT
-M2LDEzODM3NTAyLC03NDc5NTk5NTIsMTY3NDUyMjMxNywyMTEz
-NTE4MzA0LC01MzI3OTE1MTEsLTE4NzkzMzY2NTUsLTIwNjM0Mz
-QxNTYsLTMxNTc1ODQ1MCwxNzQ4NjUyNzAyLC03NDA4MjQ2MDYs
-MTQwMDU2OTE2XX0=
+eyJoaXN0b3J5IjpbLTY4ODEzNjI3NCwtMTMwNDMwODQzNCwyMD
+M1MDMxNjc0LC0zMzUxODY2MjQsLTU1NTUxMjIwMSwtMTI2NDkx
+ODc2MiwxOTAxMTA0NzM4LC0xNzkyMzg4MDAzLDE0MDY2MzU1Mz
+YsMTM4Mzc1MDIsLTc0Nzk1OTk1MiwxNjc0NTIyMzE3LDIxMTM1
+MTgzMDQsLTUzMjc5MTUxMSwtMTg3OTMzNjY1NSwtMjA2MzQzND
+E1NiwtMzE1NzU4NDUwLDE3NDg2NTI3MDIsLTc0MDgyNDYwNiwx
+NDAwNTY5MTZdfQ==
 -->
