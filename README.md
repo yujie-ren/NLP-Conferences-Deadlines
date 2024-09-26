@@ -120,7 +120,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 ## AAAI
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[AAAI25](https://aaai.org/conference/aaai/aaai-25/)|08-07, 2024|02-25, 2025|               |
+|[AAAI25](https://aaai.org/conference/aaai/aaai-25/)|08-07, 2024|  |02-25, 2025|
 |[AAAI24](https://aaai.org/conference/aaai/aaai-24/) |         |                 |               |
 |[AAAI23](https://aaai-23.aaai.org/) |         |                 |               |
 |[AAAI22](https://aaai.org/conference/aaai/aaai-22/) |         |                 |               |
@@ -145,7 +145,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDE1NjA3LDEzNjIxOTYxODIsMTk3MD
+eyJoaXN0b3J5IjpbNzk5MTE5MTYzLDEzNjIxOTYxODIsMTk3MD
 E0MzEzNCwtNDI2Mjc2Mzg2LDE0NTQ3MDI3NTAsMTkzNTA4MTQs
 NDc0Mjk5NjIwLDg5OTcxNzM0NCwxMjA5MjM3MTA0LDE4NDUyOT
 YxNjEsMjA0MDI5NTQwMCw4NTQ0MjkxNzMsLTEzMDQzMDg0MzQs
