@@ -102,7 +102,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[ICML25]()|          |                 |               |
-|[ICML24](https://icml.cc/Conferences/2024) |02-01, 2024|05-01, 2024|               |
+|[ICML24](https://icml.cc/Conferences/2024) |02-01, 2024|05-01, 2024|07-21, 2024|
 |[ICML23](https://icml.cc/Conferences/2023) |         |                 |               |
 |[ICML22](https://icml.cc/Conferences/2022) |         |                 |               |
 |[ICML21](https://icml.cc/Conferences/2021/index.html) |         |                 |               |
@@ -144,7 +144,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MjUwMTUyOSw0NzQyOTk2MjAsODk5Nz
+eyJoaXN0b3J5IjpbLTM2Nzg2MzA1OCw0NzQyOTk2MjAsODk5Nz
 E3MzQ0LDEyMDkyMzcxMDQsMTg0NTI5NjE2MSwyMDQwMjk1NDAw
 LDg1NDQyOTE3MywtMTMwNDMwODQzNCwyMDM1MDMxNjc0LC0zMz
 UxODY2MjQsLTU1NTUxMjIwMSwtMTI2NDkxODc2MiwxOTAxMTA0
