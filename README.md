@@ -43,7 +43,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 ## ACL
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[ACL25](https://2025.aclweb.org/)  |               |                 |27-07, 2025|
+|[ACL25](https://2025.aclweb.org/)  |               |                 |07-27, 2025|
 |[ACL24](https://2024.aclweb.org/)|02-15, 2024|05-15, 2024|08–11, 2024|
 |[ACL23](https://2023.aclweb.org/)|12-15, 2022|05-01, 2023|07-09, 2023|
 |[ACL22](https://2022.aclweb.org/)|11-15, 2021|02-23, 2022|05-22, 2022|
@@ -54,10 +54,10 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | EMNLP25 |               |                 |               |
-|[EMNLP24](https://2024.emnlp.org/)|15-06, 2024|20-09, 2024|12-11, 2024|
-|[EMNLP23](https://2023.emnlp.org/)|16-06, 2023|06-10, 2023|06–12, 2023|
-|[EMNLP22](https://2022.emnlp.org/)|17-06, 2022|06-10, 2022|07–12, 2022|
-|[EMNLP21](https://2021.emnlp.org/)|10-05, 2021|25-08, 2021|07–11, 2021|
+|[EMNLP24](https://2024.emnlp.org/)|06-15, 2024|09-20, 2024|11-12, 2024|
+|[EMNLP23](https://2023.emnlp.org/)|06-16, 2023|10-06, 2023|12-06, 2023|
+|[EMNLP22](https://2022.emnlp.org/)|06-17, 2022|10-06, 2022|12-07, 2022|
+|[EMNLP21](https://2021.emnlp.org/)|05-10, 2021|08-25, 2021|11-07, 2021|
 
 
 ## NAACL
@@ -144,11 +144,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODM5ODk4NSwyMDQwMjk1NDAwLDg1ND
-QyOTE3MywtMTMwNDMwODQzNCwyMDM1MDMxNjc0LC0zMzUxODY2
-MjQsLTU1NTUxMjIwMSwtMTI2NDkxODc2MiwxOTAxMTA0NzM4LC
-0xNzkyMzg4MDAzLDE0MDY2MzU1MzYsMTM4Mzc1MDIsLTc0Nzk1
-OTk1MiwxNjc0NTIyMzE3LDIxMTM1MTgzMDQsLTUzMjc5MTUxMS
-wtMTg3OTMzNjY1NSwtMjA2MzQzNDE1NiwtMzE1NzU4NDUwLDE3
-NDg2NTI3MDJdfQ==
+eyJoaXN0b3J5IjpbLTIwMDMzNzE5NTEsMjA0MDI5NTQwMCw4NT
+Q0MjkxNzMsLTEzMDQzMDg0MzQsMjAzNTAzMTY3NCwtMzM1MTg2
+NjI0LC01NTU1MTIyMDEsLTEyNjQ5MTg3NjIsMTkwMTEwNDczOC
+wtMTc5MjM4ODAwMywxNDA2NjM1NTM2LDEzODM3NTAyLC03NDc5
+NTk5NTIsMTY3NDUyMjMxNywyMTEzNTE4MzA0LC01MzI3OTE1MT
+EsLTE4NzkzMzY2NTUsLTIwNjM0MzQxNTYsLTMxNTc1ODQ1MCwx
+NzQ4NjUyNzAyXX0=
 -->
