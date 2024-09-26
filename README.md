@@ -13,6 +13,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 ## Upcoming AI Deadlines
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
+|[IJCAI24](https://ijcai24.org/) |~~01-10, 2024~~|~~04-16, 2024~~|~~08-03, 2024~~|
 |[ICML-24](https://icml.cc/Conferences/2024) |~~02-01, 2024~~|~~05-01, 2024~~|~~07-21, 2024~~|
 |[NeurIPS-24](https://neurips.cc/Conferences/2024) |~~05-15, 2024~~|~~09-25, 2024~~|12-09, 2024|
 |[AAAI25](https://aaai.org/conference/aaai/aaai-25/)|~~08-07, 2024~~|12-09, 2024|02-25, 2025|
@@ -146,11 +147,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzA4MDc0NzUsMjE4ODI2NjUsNzQzMD
-AzMjU3LC0xNTA2MjgxNTM4LC0xNDQ2NzMyNDAyLDc5OTExOTE2
-MywxMzYyMTk2MTgyLDE5NzAxNDMxMzQsLTQyNjI3NjM4NiwxND
-U0NzAyNzUwLDE5MzUwODE0LDQ3NDI5OTYyMCw4OTk3MTczNDQs
-MTIwOTIzNzEwNCwxODQ1Mjk2MTYxLDIwNDAyOTU0MDAsODU0ND
-I5MTczLC0xMzA0MzA4NDM0LDIwMzUwMzE2NzQsLTMzNTE4NjYy
-NF19
+eyJoaXN0b3J5IjpbLTQ0NjQ2Nzg1MywyMTg4MjY2NSw3NDMwMD
+MyNTcsLTE1MDYyODE1MzgsLTE0NDY3MzI0MDIsNzk5MTE5MTYz
+LDEzNjIxOTYxODIsMTk3MDE0MzEzNCwtNDI2Mjc2Mzg2LDE0NT
+Q3MDI3NTAsMTkzNTA4MTQsNDc0Mjk5NjIwLDg5OTcxNzM0NCwx
+MjA5MjM3MTA0LDE4NDUyOTYxNjEsMjA0MDI5NTQwMCw4NTQ0Mj
+kxNzMsLTEzMDQzMDg0MzQsMjAzNTAzMTY3NCwtMzM1MTg2NjI0
+XX0=
 -->
