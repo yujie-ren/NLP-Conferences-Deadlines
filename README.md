@@ -129,7 +129,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 ## IJCAI
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[IJCAI25]()|          |                 |               |
+|[IJCAI25]()|          |                 |08-16, 2025|
 |[IJCAI24](https://ijcai24.org/) |01-10, 2024|04-16, 2024|08-03, 2024|
 |[IJCAI23](https://ijcai-23.org/) |01-11, 2023|04-19, 2023|08-19, 2023|
 |[IJCAI22](https://ijcai-22.org/) |01-07, 2022|04-20, 2022|07-23, 2022|
@@ -145,7 +145,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjI5ODk5NiwyMTg4MjY2NSw3NDMwMD
+eyJoaXN0b3J5IjpbLTIxNTc5MzcxNSwyMTg4MjY2NSw3NDMwMD
 MyNTcsLTE1MDYyODE1MzgsLTE0NDY3MzI0MDIsNzk5MTE5MTYz
 LDEzNjIxOTYxODIsMTk3MDE0MzEzNCwtNDI2Mjc2Mzg2LDE0NT
 Q3MDI3NTAsMTkzNTA4MTQsNDc0Mjk5NjIwLDg5OTcxNzM0NCwx
