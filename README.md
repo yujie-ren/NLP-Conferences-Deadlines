@@ -93,7 +93,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[NeurIPS25]()|          |                 |               |
-|[NeurIPS24](https://neurips.cc/Conferences/2024) |         |                 |               |
+|[NeurIPS24](https://neurips.cc/Conferences/2024) |         |09-25, 2024|               |
 |[NeurIPS23](https://neurips.cc/Conferences/2023) |         |                 |               |
 |[NeurIPS22](https://neurips.cc/Conferences/2022) |         |                 |               |
 |[NeurIPS21](https://neurips.cc/Conferences/2021) |         |                 |               |
@@ -144,7 +144,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NjAyMTY3NSwxODQ1Mjk2MTYxLDIwND
+eyJoaXN0b3J5IjpbMTIwOTIzNzEwNCwxODQ1Mjk2MTYxLDIwND
 AyOTU0MDAsODU0NDI5MTczLC0xMzA0MzA4NDM0LDIwMzUwMzE2
 NzQsLTMzNTE4NjYyNCwtNTU1NTEyMjAxLC0xMjY0OTE4NzYyLD
 E5MDExMDQ3MzgsLTE3OTIzODgwMDMsMTQwNjYzNTUzNiwxMzgz
