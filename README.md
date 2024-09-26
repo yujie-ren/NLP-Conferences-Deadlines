@@ -74,19 +74,19 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | EACL25 |      -        |       -         |       -       |
-|[EACL24](https://2024.eacl.org/) |15-10-15, 2023|17-01-17, 2024|17-03, 2024|
-|[EACL23](https://2023.eacl.org/) |13-10-13, 2022|20-01, 2023|02-05, 2023|
+|[EACL24](https://2024.eacl.org/) |10-15, 2023|01-17, 2024|03-17, 2024|
+|[EACL23](https://2023.eacl.org/) |10-13, 2022|01-20, 2023|05-02, 2023|
 | EACL22                          |       -       |        -        |       -       |
-|[EACL21](https://2021.eacl.org/) |07-10-07, 2020|11-01, 2021|19–04, 2021|
+|[EACL21](https://2021.eacl.org/) |10-07, 2020|01-11, 2021|04-19, 2021|
 
 
 ## COLING
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[COLING25](https://coling2025.org/)|16-09, 2024|29-11, 2024|19-01, 2025|
-| [COLING24](https://lrec-coling-2024.org/) |20-10, 2023|19-02, 2024|20-05, 2024|
+|[COLING25](https://coling2025.org/)|09-16, 2024|11-29, 2024|01-19, 2025|
+| [COLING24](https://lrec-coling-2024.org/) |10-20, 2023|02-19, 2024|05-20, 2024|
 |  COLING23                           |       -       |        -        |       -       |
-| [COLING22](https://coling2022.org/) |17-05, 2022|15-08, 2022|12-10, 2022|
+| [COLING22](https://coling2022.org/) |05-17, 2022|08-15, 2022|10-12, 2022|
 | COLING21 |      -        |        -        |      -        |
 
 ## NeurIPS
@@ -144,7 +144,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODEyNDY4MCwyMDQwMjk1NDAwLDg1ND
+eyJoaXN0b3J5IjpbMTg0NTI5NjE2MSwyMDQwMjk1NDAwLDg1ND
 QyOTE3MywtMTMwNDMwODQzNCwyMDM1MDMxNjc0LC0zMzUxODY2
 MjQsLTU1NTUxMjIwMSwtMTI2NDkxODc2MiwxOTAxMTA0NzM4LC
 0xNzkyMzg4MDAzLDE0MDY2MzU1MzYsMTM4Mzc1MDIsLTc0Nzk1
