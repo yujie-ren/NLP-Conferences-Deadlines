@@ -1,5 +1,5 @@
 Record past Deadlines to predict future ones.
-All dates are in the following format: **dd-mm, yy**
+All dates are in the following format: **dd-mm, yy** or  **mm, yy** 
 
 ## Upcoming Deadlines
 |  Conf  |Submission    |   Notification  |   Conference  |
@@ -144,11 +144,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDI5NTQwMCw4NTQ0MjkxNzMsLTEzMD
-QzMDg0MzQsMjAzNTAzMTY3NCwtMzM1MTg2NjI0LC01NTU1MTIy
-MDEsLTEyNjQ5MTg3NjIsMTkwMTEwNDczOCwtMTc5MjM4ODAwMy
-wxNDA2NjM1NTM2LDEzODM3NTAyLC03NDc5NTk5NTIsMTY3NDUy
-MjMxNywyMTEzNTE4MzA0LC01MzI3OTE1MTEsLTE4NzkzMzY2NT
-UsLTIwNjM0MzQxNTYsLTMxNTc1ODQ1MCwxNzQ4NjUyNzAyLC03
-NDA4MjQ2MDZdfQ==
+eyJoaXN0b3J5IjpbLTIwNzE5OTk1NjcsMjA0MDI5NTQwMCw4NT
+Q0MjkxNzMsLTEzMDQzMDg0MzQsMjAzNTAzMTY3NCwtMzM1MTg2
+NjI0LC01NTU1MTIyMDEsLTEyNjQ5MTg3NjIsMTkwMTEwNDczOC
+wtMTc5MjM4ODAwMywxNDA2NjM1NTM2LDEzODM3NTAyLC03NDc5
+NTk5NTIsMTY3NDUyMjMxNywyMTEzNTE4MzA0LC01MzI3OTE1MT
+EsLTE4NzkzMzY2NTUsLTIwNjM0MzQxNTYsLTMxNTc1ODQ1MCwx
+NzQ4NjUyNzAyXX0=
 -->
