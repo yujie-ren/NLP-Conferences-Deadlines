@@ -94,7 +94,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[NeurIPS25]()|          |                 |               |
 |[NeurIPS24](https://neurips.cc/Conferences/2024) |05-15, 2024|09-25, 2024|12-09, 2024|
-|[NeurIPS23](https://neurips.cc/Conferences/2023) |         |                 |               |
+|[NeurIPS23](https://neurips.cc/Conferences/2023) |05-11, 2023|                 |               |
 |[NeurIPS22](https://neurips.cc/Conferences/2022) |         |                 |               |
 |[NeurIPS21](https://neurips.cc/Conferences/2021) |         |                 |               |
 
@@ -144,11 +144,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5ODM4MjAxLDEyMDkyMzcxMDQsMTg0NT
-I5NjE2MSwyMDQwMjk1NDAwLDg1NDQyOTE3MywtMTMwNDMwODQz
-NCwyMDM1MDMxNjc0LC0zMzUxODY2MjQsLTU1NTUxMjIwMSwtMT
-I2NDkxODc2MiwxOTAxMTA0NzM4LC0xNzkyMzg4MDAzLDE0MDY2
-MzU1MzYsMTM4Mzc1MDIsLTc0Nzk1OTk1MiwxNjc0NTIyMzE3LD
-IxMTM1MTgzMDQsLTUzMjc5MTUxMSwtMTg3OTMzNjY1NSwtMjA2
-MzQzNDE1Nl19
+eyJoaXN0b3J5IjpbLTE2MjY2MjYyMTAsMTIwOTIzNzEwNCwxOD
+Q1Mjk2MTYxLDIwNDAyOTU0MDAsODU0NDI5MTczLC0xMzA0MzA4
+NDM0LDIwMzUwMzE2NzQsLTMzNTE4NjYyNCwtNTU1NTEyMjAxLC
+0xMjY0OTE4NzYyLDE5MDExMDQ3MzgsLTE3OTIzODgwMDMsMTQw
+NjYzNTUzNiwxMzgzNzUwMiwtNzQ3OTU5OTUyLDE2NzQ1MjIzMT
+csMjExMzUxODMwNCwtNTMyNzkxNTExLC0xODc5MzM2NjU1LC0y
+MDYzNDM0MTU2XX0=
 -->
