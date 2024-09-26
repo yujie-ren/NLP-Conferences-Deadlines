@@ -110,7 +110,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 ## ICLR
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[ICLR25](https://iclr.cc/Conferences/2025)|09-27, 2024|                 |               |
+|[ICLR25](https://iclr.cc/Conferences/2025)|09-27, 2024|                 |04-24, 2025|
 |[ICLR24](https://iclr.cc/Conferences/2024) |         |                 |               |
 |[ICLR23](https://iclr.cc/Conferences/2023) |         |                 |               |
 |[ICLR22](https://iclr.cc/Conferences/2022) |         |                 |               |
@@ -144,7 +144,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg2OTQxODU0LDg5OTcxNzM0NCwxMjA5Mj
+eyJoaXN0b3J5IjpbNjQzNDMwMTEwLDg5OTcxNzM0NCwxMjA5Mj
 M3MTA0LDE4NDUyOTYxNjEsMjA0MDI5NTQwMCw4NTQ0MjkxNzMs
 LTEzMDQzMDg0MzQsMjAzNTAzMTY3NCwtMzM1MTg2NjI0LC01NT
 U1MTIyMDEsLTEyNjQ5MTg3NjIsMTkwMTEwNDczOCwtMTc5MjM4
