@@ -1,5 +1,5 @@
 Record past Deadlines to predict future ones.
-All dates are in the following format: **"mm-dd, yy"** or  **"mm, yy (expected)"** 
+Date format: **"mm-dd, yy"** or  **"mm, yy (expected)"** 
 
 ## Upcoming NLP Deadlines
 |  Conf  |Submission    |   Notification  |   Conference  |
@@ -153,11 +153,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTcxNzg0LDY0NTA5Njc2MSwxMjg2Nj
-I3MTQxLDE4MjU3OTkyNjUsMzM5Mjg1MTU0LC0xNTIyMjY3MTAz
-LDIxODgyNjY1LDc0MzAwMzI1NywtMTUwNjI4MTUzOCwtMTQ0Nj
-czMjQwMiw3OTkxMTkxNjMsMTM2MjE5NjE4MiwxOTcwMTQzMTM0
-LC00MjYyNzYzODYsMTQ1NDcwMjc1MCwxOTM1MDgxNCw0NzQyOT
-k2MjAsODk5NzE3MzQ0LDEyMDkyMzcxMDQsMTg0NTI5NjE2MV19
-
+eyJoaXN0b3J5IjpbMTI3MTY4ODU4Myw2NDUwOTY3NjEsMTI4Nj
+YyNzE0MSwxODI1Nzk5MjY1LDMzOTI4NTE1NCwtMTUyMjI2NzEw
+MywyMTg4MjY2NSw3NDMwMDMyNTcsLTE1MDYyODE1MzgsLTE0ND
+Y3MzI0MDIsNzk5MTE5MTYzLDEzNjIxOTYxODIsMTk3MDE0MzEz
+NCwtNDI2Mjc2Mzg2LDE0NTQ3MDI3NTAsMTkzNTA4MTQsNDc0Mj
+k5NjIwLDg5OTcxNzM0NCwxMjA5MjM3MTA0LDE4NDUyOTYxNjFd
+fQ==
 -->
