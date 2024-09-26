@@ -4,10 +4,10 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 ## Upcoming NLP Deadlines
 |  Conf  |Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[COLING-25](https://coling2025.org/)| ~~09-16, 2024~~|**11-29, 2024**|**01-19, 2025**|
-|[NAACL-25](https://2025.naacl.org/)  |**10-15, 2024**|                 |**04–29, 2025**|
-|[ACL-25](https://2025.aclweb.org/)  |**12, 2024 (expected)**|                 |**07-27, 2025**|
-| EMNLP-25                           |**06, 2025 (expected)**|          |**11, 2025 (expected)**|
+|[COLING-25](https://coling2025.org/)| ~~09-16, 2024~~|11-29, 2024|01-19, 2025|
+|[NAACL-25](https://2025.naacl.org/)  |10-15, 2024|                 |04–29, 2025|
+|[ACL-25](https://2025.aclweb.org/)  |12, 2024 (expected)|                 |07-27, 2025|
+| EMNLP-25                           |06, 2025 (expected)|          |11, 2025 (expected)|
 
 
 ## Upcoming AI Deadlines
@@ -15,7 +15,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[ICML-24](https://icml.cc/Conferences/2024) |02-01, 2024|05-01, 2024|07-21, 2024|
 |[NeurIPS-24](https://neurips.cc/Conferences/2024) |05-15, 2024|09-25, 2024|12-09, 2024|
-|[ICLR-25](https://iclr.cc/Conferences/2025)|**09-27, 2024**|**01-22, 2025**|**04-24, 2025**|
+|[ICLR-25](https://iclr.cc/Conferences/2025)|09-27, 2024|01-22, 2025|04-24, 2025|
 |ICML-25   |               |                 |               |
 |AAAI-25   |               |                 |               |
 |IJCAI-25  |               |                 |               |
@@ -145,11 +145,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjI3NjM4NiwxNDU0NzAyNzUwLDE5Mz
-UwODE0LDQ3NDI5OTYyMCw4OTk3MTczNDQsMTIwOTIzNzEwNCwx
-ODQ1Mjk2MTYxLDIwNDAyOTU0MDAsODU0NDI5MTczLC0xMzA0Mz
-A4NDM0LDIwMzUwMzE2NzQsLTMzNTE4NjYyNCwtNTU1NTEyMjAx
-LC0xMjY0OTE4NzYyLDE5MDExMDQ3MzgsLTE3OTIzODgwMDMsMT
-QwNjYzNTUzNiwxMzgzNzUwMiwtNzQ3OTU5OTUyLDE2NzQ1MjIz
-MTddfQ==
+eyJoaXN0b3J5IjpbNDEwMzQ4MjU0LC00MjYyNzYzODYsMTQ1ND
+cwMjc1MCwxOTM1MDgxNCw0NzQyOTk2MjAsODk5NzE3MzQ0LDEy
+MDkyMzcxMDQsMTg0NTI5NjE2MSwyMDQwMjk1NDAwLDg1NDQyOT
+E3MywtMTMwNDMwODQzNCwyMDM1MDMxNjc0LC0zMzUxODY2MjQs
+LTU1NTUxMjIwMSwtMTI2NDkxODc2MiwxOTAxMTA0NzM4LC0xNz
+kyMzg4MDAzLDE0MDY2MzU1MzYsMTM4Mzc1MDIsLTc0Nzk1OTk1
+Ml19
 -->
