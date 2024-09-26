@@ -13,7 +13,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 ## Upcoming AI Deadlines
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[NeurIPS24](https://neurips.cc/Conferences/2024) |05-15, 2024|09-25, 2024|12-09, 2024|
+|[NeurIPS24](https://neurips.cc/Conferences/2024) |~~05-15, 2024~~|~~09-25, 2024~~|12-09, 2024|
 |NeurIPS-25|               |                 |               |
 |ICML-25   |               |                 |               |
 |ICLR-25   |               |                 |               |
@@ -145,7 +145,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODIxNTEzNyw4OTk3MTczNDQsMTIwOT
+eyJoaXN0b3J5IjpbLTU1NzA5ODAxNyw4OTk3MTczNDQsMTIwOT
 IzNzEwNCwxODQ1Mjk2MTYxLDIwNDAyOTU0MDAsODU0NDI5MTcz
 LC0xMzA0MzA4NDM0LDIwMzUwMzE2NzQsLTMzNTE4NjYyNCwtNT
 U1NTEyMjAxLC0xMjY0OTE4NzYyLDE5MDExMDQ3MzgsLTE3OTIz
