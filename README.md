@@ -4,7 +4,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 ## Upcoming NLP Deadlines
 |  Conf  |Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[COLING-24](https://lrec-coling-2024.org/) |10-20, 2023|02-19, 2024|05-20, 2024|
+|[COLING-24](https://lrec-coling-2024.org/) |~~10-20, 2023~~|~~02-19, 2024~~|~~05-20, 2024~~|
 |[NAACL24](https://2024.naacl.org/)  |~~12-15, 2023~~|~~03-15, 2024~~|~~06-16, 2024~~|
 |[ACL-24](https://2024.aclweb.org/)|~~02-15, 2024~~|~~05-15, 2024~~|~~08–11, 2024~~|
 |[EMNLP-24](https://2024.emnlp.org/)|~~06-15, 2024~~|~~09-20, 2024~~|~~11-12, 2024~~|
@@ -153,11 +153,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0Mzg1MjQ5LDMzOTI4NTE1NCwtMTUyMj
-I2NzEwMywyMTg4MjY2NSw3NDMwMDMyNTcsLTE1MDYyODE1Mzgs
-LTE0NDY3MzI0MDIsNzk5MTE5MTYzLDEzNjIxOTYxODIsMTk3MD
-E0MzEzNCwtNDI2Mjc2Mzg2LDE0NTQ3MDI3NTAsMTkzNTA4MTQs
-NDc0Mjk5NjIwLDg5OTcxNzM0NCwxMjA5MjM3MTA0LDE4NDUyOT
-YxNjEsMjA0MDI5NTQwMCw4NTQ0MjkxNzMsLTEzMDQzMDg0MzRd
-fQ==
+eyJoaXN0b3J5IjpbMTgyNTc5OTI2NSwzMzkyODUxNTQsLTE1Mj
+IyNjcxMDMsMjE4ODI2NjUsNzQzMDAzMjU3LC0xNTA2MjgxNTM4
+LC0xNDQ2NzMyNDAyLDc5OTExOTE2MywxMzYyMTk2MTgyLDE5Nz
+AxNDMxMzQsLTQyNjI3NjM4NiwxNDU0NzAyNzUwLDE5MzUwODE0
+LDQ3NDI5OTYyMCw4OTk3MTczNDQsMTIwOTIzNzEwNCwxODQ1Mj
+k2MTYxLDIwNDAyOTU0MDAsODU0NDI5MTczLC0xMzA0MzA4NDM0
+XX0=
 -->
