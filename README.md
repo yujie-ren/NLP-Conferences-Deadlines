@@ -111,7 +111,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[ICLR25](https://iclr.cc/Conferences/2025)|09-27, 2024|01-22, 2025|04-24, 2025|
-|[ICLR24](https://iclr.cc/Conferences/2024) |09-23, 2023|                 |05-07, 2024|
+|[ICLR24](https://iclr.cc/Conferences/2024) |09-23, 2023|01-15, 2024|05-07, 2024|
 |[ICLR23](https://iclr.cc/Conferences/2023) |         |                 |               |
 |[ICLR22](https://iclr.cc/Conferences/2022) |         |                 |               |
 |[ICLR21](https://iclr.cc/Conferences/2021) |         |                 |               |
@@ -144,11 +144,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjgyNjg0NCw4OTk3MTczNDQsMTIwOT
-IzNzEwNCwxODQ1Mjk2MTYxLDIwNDAyOTU0MDAsODU0NDI5MTcz
-LC0xMzA0MzA4NDM0LDIwMzUwMzE2NzQsLTMzNTE4NjYyNCwtNT
-U1NTEyMjAxLC0xMjY0OTE4NzYyLDE5MDExMDQ3MzgsLTE3OTIz
-ODgwMDMsMTQwNjYzNTUzNiwxMzgzNzUwMiwtNzQ3OTU5OTUyLD
-E2NzQ1MjIzMTcsMjExMzUxODMwNCwtNTMyNzkxNTExLC0xODc5
-MzM2NjU1XX0=
+eyJoaXN0b3J5IjpbNjcyMDg2NDMyLDg5OTcxNzM0NCwxMjA5Mj
+M3MTA0LDE4NDUyOTYxNjEsMjA0MDI5NTQwMCw4NTQ0MjkxNzMs
+LTEzMDQzMDg0MzQsMjAzNTAzMTY3NCwtMzM1MTg2NjI0LC01NT
+U1MTIyMDEsLTEyNjQ5MTg3NjIsMTkwMTEwNDczOCwtMTc5MjM4
+ODAwMywxNDA2NjM1NTM2LDEzODM3NTAyLC03NDc5NTk5NTIsMT
+Y3NDUyMjMxNywyMTEzNTE4MzA0LC01MzI3OTE1MTEsLTE4Nzkz
+MzY2NTVdfQ==
 -->
