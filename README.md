@@ -1,7 +1,7 @@
 Record past Deadlines to predict future ones.
 All dates are in the following format: **mm-dd, yy** or  **mm, yy** 
 
-## Upcoming Deadlines
+## Upcoming NLP Deadlines
 |  Conf  |Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[COLING-25](https://coling2025.org/)| ~~09-16, 2024~~|11-29, 2024|01-19, 2025|
@@ -10,7 +10,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 | EMNLP-25                           |06, 2025 (expected)|          |11, 2025 (expected)|
 
 
-## AI Conf 2025
+## Upcoming AI Deadlines
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[NeurIPS24](https://neurips.cc/Conferences/2024) |05-15, 2024|09-25, 2024|12-09, 2024|
@@ -145,11 +145,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0NDEzODE1LDg5OTcxNzM0NCwxMjA5Mj
-M3MTA0LDE4NDUyOTYxNjEsMjA0MDI5NTQwMCw4NTQ0MjkxNzMs
-LTEzMDQzMDg0MzQsMjAzNTAzMTY3NCwtMzM1MTg2NjI0LC01NT
-U1MTIyMDEsLTEyNjQ5MTg3NjIsMTkwMTEwNDczOCwtMTc5MjM4
-ODAwMywxNDA2NjM1NTM2LDEzODM3NTAyLC03NDc5NTk5NTIsMT
-Y3NDUyMjMxNywyMTEzNTE4MzA0LC01MzI3OTE1MTEsLTE4Nzkz
-MzY2NTVdfQ==
+eyJoaXN0b3J5IjpbLTE4ODIxNTEzNyw4OTk3MTczNDQsMTIwOT
+IzNzEwNCwxODQ1Mjk2MTYxLDIwNDAyOTU0MDAsODU0NDI5MTcz
+LC0xMzA0MzA4NDM0LDIwMzUwMzE2NzQsLTMzNTE4NjYyNCwtNT
+U1NTEyMjAxLC0xMjY0OTE4NzYyLDE5MDExMDQ3MzgsLTE3OTIz
+ODgwMDMsMTQwNjYzNTUzNiwxMzgzNzUwMiwtNzQ3OTU5OTUyLD
+E2NzQ1MjIzMTcsMjExMzUxODMwNCwtNTMyNzkxNTExLC0xODc5
+MzM2NjU1XX0=
 -->
