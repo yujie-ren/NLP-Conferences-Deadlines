@@ -22,7 +22,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 |IJCAI-25                               |01, 2025 (expected)|                 |08-16, 2025|
 |[ICML-25](https://icml.cc/Conferences/2025)|01-31, 2025|                 |07-11, 2025|
 |NeurIPS-25                             |05, 2025 (expected)|             |12, 2025 (expected)|
-|AAAI-26                                 |08, 2024 (expected)|             |02, 2026 (expected)|
+|AAAI-26                                 |08, 2025 (expected)|             |02, 2026 (expected)|
 
 ## Conf Rankings
 |  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |NeurIPS|ICML|ICLR|AAAI|IJCAI|
@@ -149,11 +149,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjIyNjcxMDMsMjE4ODI2NjUsNzQzMD
-AzMjU3LC0xNTA2MjgxNTM4LC0xNDQ2NzMyNDAyLDc5OTExOTE2
-MywxMzYyMTk2MTgyLDE5NzAxNDMxMzQsLTQyNjI3NjM4NiwxND
-U0NzAyNzUwLDE5MzUwODE0LDQ3NDI5OTYyMCw4OTk3MTczNDQs
-MTIwOTIzNzEwNCwxODQ1Mjk2MTYxLDIwNDAyOTU0MDAsODU0ND
-I5MTczLC0xMzA0MzA4NDM0LDIwMzUwMzE2NzQsLTMzNTE4NjYy
-NF19
+eyJoaXN0b3J5IjpbMzM5Mjg1MTU0LC0xNTIyMjY3MTAzLDIxOD
+gyNjY1LDc0MzAwMzI1NywtMTUwNjI4MTUzOCwtMTQ0NjczMjQw
+Miw3OTkxMTkxNjMsMTM2MjE5NjE4MiwxOTcwMTQzMTM0LC00Mj
+YyNzYzODYsMTQ1NDcwMjc1MCwxOTM1MDgxNCw0NzQyOTk2MjAs
+ODk5NzE3MzQ0LDEyMDkyMzcxMDQsMTg0NTI5NjE2MSwyMDQwMj
+k1NDAwLDg1NDQyOTE3MywtMTMwNDMwODQzNCwyMDM1MDMxNjc0
+XX0=
 -->
