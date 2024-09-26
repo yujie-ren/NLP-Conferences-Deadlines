@@ -63,21 +63,21 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 ## NAACL
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[NAACL25](https://2025.naacl.org/)  |15-10, 2024|                 |29–04, 2025|
-|[NAACL24](https://2024.naacl.org/)  |15-12, 2023|15-03, 2024|16–06, 2024|
+|[NAACL25](https://2025.naacl.org/)  |10-15, 2024|                 |04-29, 2025|
+|[NAACL24](https://2024.naacl.org/)  |12-15, 2023|03-15, 2024|06-16, 2024|
 | NAACL23                            |       -       |        -        |       -       |
-|[NAACL22](https://2022.naacl.org/)  |15-01, 2022|07-04, 2022|10–07, 2022|
-|[NAACL21](https://2021.naacl.org/) |23-11, 2020|10-03, 2021|06–06, 2021|
+|[NAACL22](https://2022.naacl.org/)  |01-15, 2022|04-07, 2022|07-10, 2022|
+|[NAACL21](https://2021.naacl.org/) |11-23, 2020|03-10, 2021|06–06, 2021|
 
 
 ## EACL
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | EACL25 |      -        |       -         |       -       |
-|[EACL24](https://2024.eacl.org/) |15-10, 2023|17-01, 2024|17-03, 2024|
-|[EACL23](https://2023.eacl.org/) |13-10, 2022|20-01, 2023|02-05, 2023|
+|[EACL24](https://2024.eacl.org/) |15-10-15, 2023|17-01-17, 2024|17-03, 2024|
+|[EACL23](https://2023.eacl.org/) |13-10-13, 2022|20-01, 2023|02-05, 2023|
 | EACL22                          |       -       |        -        |       -       |
-|[EACL21](https://2021.eacl.org/) |07-10, 2020|11-01, 2021|19–04, 2021|
+|[EACL21](https://2021.eacl.org/) |07-10-07, 2020|11-01, 2021|19–04, 2021|
 
 
 ## COLING
@@ -144,11 +144,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDMzNzE5NTEsMjA0MDI5NTQwMCw4NT
-Q0MjkxNzMsLTEzMDQzMDg0MzQsMjAzNTAzMTY3NCwtMzM1MTg2
-NjI0LC01NTU1MTIyMDEsLTEyNjQ5MTg3NjIsMTkwMTEwNDczOC
-wtMTc5MjM4ODAwMywxNDA2NjM1NTM2LDEzODM3NTAyLC03NDc5
-NTk5NTIsMTY3NDUyMjMxNywyMTEzNTE4MzA0LC01MzI3OTE1MT
-EsLTE4NzkzMzY2NTUsLTIwNjM0MzQxNTYsLTMxNTc1ODQ1MCwx
-NzQ4NjUyNzAyXX0=
+eyJoaXN0b3J5IjpbMTE5ODEyNDY4MCwyMDQwMjk1NDAwLDg1ND
+QyOTE3MywtMTMwNDMwODQzNCwyMDM1MDMxNjc0LC0zMzUxODY2
+MjQsLTU1NTUxMjIwMSwtMTI2NDkxODc2MiwxOTAxMTA0NzM4LC
+0xNzkyMzg4MDAzLDE0MDY2MzU1MzYsMTM4Mzc1MDIsLTc0Nzk1
+OTk1MiwxNjc0NTIyMzE3LDIxMTM1MTgzMDQsLTUzMjc5MTUxMS
+wtMTg3OTMzNjY1NSwtMjA2MzQzNDE1NiwtMzE1NzU4NDUwLDE3
+NDg2NTI3MDJdfQ==
 -->
