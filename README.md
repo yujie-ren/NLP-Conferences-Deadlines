@@ -1,12 +1,12 @@
 Record past Deadlines to predict future ones.
-All dates are in the following format: **dd-mm, yy** or  **mm, yy** 
+All dates are in the following format: **mm-dd, yy** or  **mm, yy** 
 
 ## Upcoming Deadlines
 |  Conf  |Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[COLING-25](https://coling2025.org/)| ~~16-09, 2024~~|29-11, 2024|19-01, 2025|
-|[NAACL-25](https://2025.naacl.org/)  |15-10, 2024|                 |29–04, 2025|
-|[ACL-25](https://2025.aclweb.org/)  |12, 2024 (expected)|                 |27-07, 2025|
+|[COLING-25](https://coling2025.org/)| ~~09-16, 2024~~|11-29, 2024|01-19, 2025|
+|[NAACL-25](https://2025.naacl.org/)  |10-15, 2024|                 |04–29, 2025|
+|[ACL-25](https://2025.aclweb.org/)  |12, 2024 (expected)|                 |07-27, 2025|
 | EMNLP-25  |06, 2025 (expected)|          |11, 2025 (expected)|
 
 
@@ -144,11 +144,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE5OTk1NjcsMjA0MDI5NTQwMCw4NT
-Q0MjkxNzMsLTEzMDQzMDg0MzQsMjAzNTAzMTY3NCwtMzM1MTg2
-NjI0LC01NTU1MTIyMDEsLTEyNjQ5MTg3NjIsMTkwMTEwNDczOC
-wtMTc5MjM4ODAwMywxNDA2NjM1NTM2LDEzODM3NTAyLC03NDc5
-NTk5NTIsMTY3NDUyMjMxNywyMTEzNTE4MzA0LC01MzI3OTE1MT
-EsLTE4NzkzMzY2NTUsLTIwNjM0MzQxNTYsLTMxNTc1ODQ1MCwx
-NzQ4NjUyNzAyXX0=
+eyJoaXN0b3J5IjpbNzAwNTYxMjEsMjA0MDI5NTQwMCw4NTQ0Mj
+kxNzMsLTEzMDQzMDg0MzQsMjAzNTAzMTY3NCwtMzM1MTg2NjI0
+LC01NTU1MTIyMDEsLTEyNjQ5MTg3NjIsMTkwMTEwNDczOCwtMT
+c5MjM4ODAwMywxNDA2NjM1NTM2LDEzODM3NTAyLC03NDc5NTk5
+NTIsMTY3NDUyMjMxNywyMTEzNTE4MzA0LC01MzI3OTE1MTEsLT
+E4NzkzMzY2NTUsLTIwNjM0MzQxNTYsLTMxNTc1ODQ1MCwxNzQ4
+NjUyNzAyXX0=
 -->
