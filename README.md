@@ -13,13 +13,13 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 ## Upcoming AI Deadlines
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[IJCAI24](https://ijcai24.org/) |~~01-10, 2024~~|~~04-16, 2024~~|~~08-03, 2024~~|
+|[IJCAI-24](https://ijcai24.org/) |~~01-10, 2024~~|~~04-16, 2024~~|~~08-03, 2024~~|
 |[ICML-24](https://icml.cc/Conferences/2024) |~~02-01, 2024~~|~~05-01, 2024~~|~~07-21, 2024~~|
 |[NeurIPS-24](https://neurips.cc/Conferences/2024) |~~05-15, 2024~~|~~09-25, 2024~~|12-09, 2024|
-|[AAAI25](https://aaai.org/conference/aaai/aaai-25/)|~~08-07, 2024~~|12-09, 2024|02-25, 2025|
+|[AAAI-25](https://aaai.org/conference/aaai/aaai-25/)|~~08-07, 2024~~|12-09, 2024|02-25, 2025|
 |[ICLR-25](https://iclr.cc/Conferences/2025)|09-27, 2024|01-22, 2025|04-24, 2025|
-|[ICML25](https://icml.cc/Conferences/2025)|01-31, 2025|                 |07-11, 2025|
-|IJCAI25|01, 2025 (expected)|                 |08-16, 2025|
+|[ICML-25](https://icml.cc/Conferences/2025)|01-31, 2025|                 |07-11, 2025|
+|IJCAI-25|01, 2025 (expected)|                 |08-16, 2025|
 
 
 ## Conf Rankings
@@ -147,7 +147,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NjQ2Nzg1MywyMTg4MjY2NSw3NDMwMD
+eyJoaXN0b3J5IjpbLTQ4MzQxOTQyOSwyMTg4MjY2NSw3NDMwMD
 MyNTcsLTE1MDYyODE1MzgsLTE0NDY3MzI0MDIsNzk5MTE5MTYz
 LDEzNjIxOTYxODIsMTk3MDE0MzEzNCwtNDI2Mjc2Mzg2LDE0NT
 Q3MDI3NTAsMTkzNTA4MTQsNDc0Mjk5NjIwLDg5OTcxNzM0NCwx
