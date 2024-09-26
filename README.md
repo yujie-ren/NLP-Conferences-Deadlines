@@ -7,7 +7,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 |[COLING-25](https://coling2025.org/)| ~~09-16, 2024~~|11-29, 2024|01-19, 2025|
 |[NAACL-25](https://2025.naacl.org/)  |10-15, 2024|                 |04–29, 2025|
 |[ACL-25](https://2025.aclweb.org/)  |12, 2024 (expected)|                 |07-27, 2025|
-| EMNLP-25  |06, 2025 (expected)|          |11, 2025 (expected)|
+| EMNLP-25                           |06, 2025 (expected)|          |11, 2025 (expected)|
 
 
 ## AI Conf 2025
@@ -144,11 +144,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTI5NjE2MSwyMDQwMjk1NDAwLDg1ND
-QyOTE3MywtMTMwNDMwODQzNCwyMDM1MDMxNjc0LC0zMzUxODY2
-MjQsLTU1NTUxMjIwMSwtMTI2NDkxODc2MiwxOTAxMTA0NzM4LC
-0xNzkyMzg4MDAzLDE0MDY2MzU1MzYsMTM4Mzc1MDIsLTc0Nzk1
-OTk1MiwxNjc0NTIyMzE3LDIxMTM1MTgzMDQsLTUzMjc5MTUxMS
-wtMTg3OTMzNjY1NSwtMjA2MzQzNDE1NiwtMzE1NzU4NDUwLDE3
-NDg2NTI3MDJdfQ==
+eyJoaXN0b3J5IjpbLTM3NjAyMTY3NSwxODQ1Mjk2MTYxLDIwND
+AyOTU0MDAsODU0NDI5MTczLC0xMzA0MzA4NDM0LDIwMzUwMzE2
+NzQsLTMzNTE4NjYyNCwtNTU1NTEyMjAxLC0xMjY0OTE4NzYyLD
+E5MDExMDQ3MzgsLTE3OTIzODgwMDMsMTQwNjYzNTUzNiwxMzgz
+NzUwMiwtNzQ3OTU5OTUyLDE2NzQ1MjIzMTcsMjExMzUxODMwNC
+wtNTMyNzkxNTExLC0xODc5MzM2NjU1LC0yMDYzNDM0MTU2LC0z
+MTU3NTg0NTBdfQ==
 -->
