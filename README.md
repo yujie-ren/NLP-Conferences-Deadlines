@@ -23,8 +23,8 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 |[NeurIPS-24](https://neurips.cc/Conferences/2024) |~~05-15, 2024~~|~~09-25, 2024~~|12-09, 2024|
 |[AAAI-25](https://aaai.org/conference/aaai/aaai-25/)|~~08-07, 2024~~|12-09, 2024|02-25, 2025|
 |[ICLR-25](https://iclr.cc/Conferences/2025)|09-27, 2024|01-22, 2025|04-24, 2025|
-|IJCAI-25                               |01, 2025 (expected)|                 |08-16, 2025|
 |[ICML-25](https://icml.cc/Conferences/2025)|01-31, 2025|                 |07-11, 2025|
+|IJCAI-25                               |01, 2025 (expected)|                 |08-16, 2025|
 |NeurIPS-25                             |05, 2025 (expected)|             |12, 2025 (expected)|
 |AAAI-26                                 |08, 2025 (expected)|             |02, 2026 (expected)|
 
@@ -153,11 +153,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTc5OTI2NSwzMzkyODUxNTQsLTE1Mj
-IyNjcxMDMsMjE4ODI2NjUsNzQzMDAzMjU3LC0xNTA2MjgxNTM4
-LC0xNDQ2NzMyNDAyLDc5OTExOTE2MywxMzYyMTk2MTgyLDE5Nz
-AxNDMxMzQsLTQyNjI3NjM4NiwxNDU0NzAyNzUwLDE5MzUwODE0
-LDQ3NDI5OTYyMCw4OTk3MTczNDQsMTIwOTIzNzEwNCwxODQ1Mj
-k2MTYxLDIwNDAyOTU0MDAsODU0NDI5MTczLC0xMzA0MzA4NDM0
-XX0=
+eyJoaXN0b3J5IjpbMTI4NjYyNzE0MSwxODI1Nzk5MjY1LDMzOT
+I4NTE1NCwtMTUyMjI2NzEwMywyMTg4MjY2NSw3NDMwMDMyNTcs
+LTE1MDYyODE1MzgsLTE0NDY3MzI0MDIsNzk5MTE5MTYzLDEzNj
+IxOTYxODIsMTk3MDE0MzEzNCwtNDI2Mjc2Mzg2LDE0NTQ3MDI3
+NTAsMTkzNTA4MTQsNDc0Mjk5NjIwLDg5OTcxNzM0NCwxMjA5Mj
+M3MTA0LDE4NDUyOTYxNjEsMjA0MDI5NTQwMCw4NTQ0MjkxNzNd
+fQ==
 -->
