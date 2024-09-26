@@ -124,7 +124,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 |[AAAI24](https://aaai.org/conference/aaai/aaai-24/) |08-08, 2023|12-09, 2023|02-20, 2024|
 |[AAAI23](https://aaai-23.aaai.org/) |08-08, 2022|11-18, 2022|02-07, 2023|
 |[AAAI22](https://aaai.org/conference/aaai/aaai-22/) |08-30, 2021|11-29, 2021|02-22, 2022|
-|[AAAI21](https://aaai.org/conference/aaai/aaai-21/) |         |                 |02-02, 2021|
+|[AAAI21](https://aaai.org/conference/aaai/aaai-21/) |08-15, 2020|                 |02-02, 2021|
 
 ## IJCAI
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -145,7 +145,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTkwMDE1NSw3NDMwMDMyNTcsLTE1MD
+eyJoaXN0b3J5IjpbMTYwODM5MTY4Miw3NDMwMDMyNTcsLTE1MD
 YyODE1MzgsLTE0NDY3MzI0MDIsNzk5MTE5MTYzLDEzNjIxOTYx
 ODIsMTk3MDE0MzEzNCwtNDI2Mjc2Mzg2LDE0NTQ3MDI3NTAsMT
 kzNTA4MTQsNDc0Mjk5NjIwLDg5OTcxNzM0NCwxMjA5MjM3MTA0
