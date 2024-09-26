@@ -120,7 +120,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 ## AAAI
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[AAAI25](https://aaai.org/conference/aaai/aaai-25/)|          |                 |               |
+|[AAAI25](https://aaai.org/conference/aaai/aaai-25/)|08-07, 2024|                 |               |
 |[AAAI24](https://aaai.org/conference/aaai/aaai-24/) |         |                 |               |
 |[AAAI23](https://aaai-23.aaai.org/) |         |                 |               |
 |[AAAI22](https://aaai.org/conference/aaai/aaai-22/) |         |                 |               |
@@ -145,11 +145,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjE5NjE4MiwxOTcwMTQzMTM0LC00Mj
-YyNzYzODYsMTQ1NDcwMjc1MCwxOTM1MDgxNCw0NzQyOTk2MjAs
-ODk5NzE3MzQ0LDEyMDkyMzcxMDQsMTg0NTI5NjE2MSwyMDQwMj
-k1NDAwLDg1NDQyOTE3MywtMTMwNDMwODQzNCwyMDM1MDMxNjc0
-LC0zMzUxODY2MjQsLTU1NTUxMjIwMSwtMTI2NDkxODc2MiwxOT
-AxMTA0NzM4LC0xNzkyMzg4MDAzLDE0MDY2MzU1MzYsMTM4Mzc1
-MDJdfQ==
+eyJoaXN0b3J5IjpbMTc5NTAzMTI1OCwxMzYyMTk2MTgyLDE5Nz
+AxNDMxMzQsLTQyNjI3NjM4NiwxNDU0NzAyNzUwLDE5MzUwODE0
+LDQ3NDI5OTYyMCw4OTk3MTczNDQsMTIwOTIzNzEwNCwxODQ1Mj
+k2MTYxLDIwNDAyOTU0MDAsODU0NDI5MTczLC0xMzA0MzA4NDM0
+LDIwMzUwMzE2NzQsLTMzNTE4NjYyNCwtNTU1NTEyMjAxLC0xMj
+Y0OTE4NzYyLDE5MDExMDQ3MzgsLTE3OTIzODgwMDMsMTQwNjYz
+NTUzNl19
 -->
