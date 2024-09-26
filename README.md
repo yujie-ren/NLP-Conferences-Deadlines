@@ -4,10 +4,10 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 ## Upcoming NLP Deadlines
 |  Conf  |Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[COLING-25](https://coling2025.org/)| ~~09-16, 2024~~|11-29, 2024|01-19, 2025|
-|[NAACL-25](https://2025.naacl.org/)  |10-15, 2024|                 |04–29, 2025|
-|[ACL-25](https://2025.aclweb.org/)  |12, 2024 (expected)|                 |07-27, 2025|
-| EMNLP-25                           |06, 2025 (expected)|          |11, 2025 (expected)|
+|[COLING-25](https://coling2025.org/)| 09-16, 2024|**11-29, 2024**|**01-19, 2025**|
+|[NAACL-25](https://2025.naacl.org/)  |**10-15, 2024**|                 |**04–29, 2025**|
+|[ACL-25](https://2025.aclweb.org/)  |**12, 2024 (expected)**|                 |**07-27, 2025**|
+| EMNLP-25                           |**06, 2025 (expected)**|          |**11, 2025 (expected)**|
 
 
 ## Upcoming AI Deadlines
@@ -145,11 +145,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1ODA1NTM0LDE5MzUwODE0LDQ3NDI5OT
-YyMCw4OTk3MTczNDQsMTIwOTIzNzEwNCwxODQ1Mjk2MTYxLDIw
-NDAyOTU0MDAsODU0NDI5MTczLC0xMzA0MzA4NDM0LDIwMzUwMz
-E2NzQsLTMzNTE4NjYyNCwtNTU1NTEyMjAxLC0xMjY0OTE4NzYy
-LDE5MDExMDQ3MzgsLTE3OTIzODgwMDMsMTQwNjYzNTUzNiwxMz
-gzNzUwMiwtNzQ3OTU5OTUyLDE2NzQ1MjIzMTcsMjExMzUxODMw
-NF19
+eyJoaXN0b3J5IjpbMTQ1NDcwMjc1MCwxOTM1MDgxNCw0NzQyOT
+k2MjAsODk5NzE3MzQ0LDEyMDkyMzcxMDQsMTg0NTI5NjE2MSwy
+MDQwMjk1NDAwLDg1NDQyOTE3MywtMTMwNDMwODQzNCwyMDM1MD
+MxNjc0LC0zMzUxODY2MjQsLTU1NTUxMjIwMSwtMTI2NDkxODc2
+MiwxOTAxMTA0NzM4LC0xNzkyMzg4MDAzLDE0MDY2MzU1MzYsMT
+M4Mzc1MDIsLTc0Nzk1OTk1MiwxNjc0NTIyMzE3LDIxMTM1MTgz
+MDRdfQ==
 -->
