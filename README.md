@@ -15,9 +15,9 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[ICML-24](https://icml.cc/Conferences/2024) |~~02-01, 2024~~|~~05-01, 2024~~|~~07-21, 2024~~|
 |[NeurIPS-24](https://neurips.cc/Conferences/2024) |~~05-15, 2024~~|~~09-25, 2024~~|12-09, 2024|
+|[AAAI25](https://aaai.org/conference/aaai/aaai-25/)|~~08-07, 2024~~|12-09, 2024|02-25, 2025|
 |[ICLR-25](https://iclr.cc/Conferences/2025)|09-27, 2024|01-22, 2025|04-24, 2025|
 |[ICML25](https://icml.cc/Conferences/2025)|01-31, 2025|                 |               |
-|AAAI-25   |               |                 |               |
 |IJCAI-25  |               |                 |               |
 
 ## Conf Rankings
@@ -145,7 +145,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDAyNjQxOCw3OTkxMTkxNjMsMTM2Mj
+eyJoaXN0b3J5IjpbMTUyNTYwODE4OSw3OTkxMTkxNjMsMTM2Mj
 E5NjE4MiwxOTcwMTQzMTM0LC00MjYyNzYzODYsMTQ1NDcwMjc1
 MCwxOTM1MDgxNCw0NzQyOTk2MjAsODk5NzE3MzQ0LDEyMDkyMz
 cxMDQsMTg0NTI5NjE2MSwyMDQwMjk1NDAwLDg1NDQyOTE3Mywt
