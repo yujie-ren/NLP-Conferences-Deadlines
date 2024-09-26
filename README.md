@@ -44,10 +44,10 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[ACL25](https://2025.aclweb.org/)  |               |                 |27-07, 2025|
-|[ACL24](https://2024.aclweb.org/)|15-02, 2024|15-05, 2024|11–08, 2024|
-|[ACL23](https://2023.aclweb.org/)|15-12, 2022|01-05, 2023|09-07, 2023|
-|[ACL22](https://2022.aclweb.org/)|15-11, 2021|23-02, 2022|22-05, 2022|
-|[ACL21](https://2021.aclweb.org/) |25-01, 2021|05-05, 2021|01-08, 2021|
+|[ACL24](https://2024.aclweb.org/)|02-15, 2024|05-15, 2024|08–11, 2024|
+|[ACL23](https://2023.aclweb.org/)|12-15, 2022|05-01, 2023|07-09, 2023|
+|[ACL22](https://2022.aclweb.org/)|11-15, 2021|02-23, 2022|05-22, 2022|
+|[ACL21](https://2021.aclweb.org/) |01-25, 2021|05-05, 2021|08-01, 2021|
 
 
 ## EMNLP
@@ -144,11 +144,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwNTYxMjEsMjA0MDI5NTQwMCw4NTQ0Mj
-kxNzMsLTEzMDQzMDg0MzQsMjAzNTAzMTY3NCwtMzM1MTg2NjI0
-LC01NTU1MTIyMDEsLTEyNjQ5MTg3NjIsMTkwMTEwNDczOCwtMT
-c5MjM4ODAwMywxNDA2NjM1NTM2LDEzODM3NTAyLC03NDc5NTk5
-NTIsMTY3NDUyMjMxNywyMTEzNTE4MzA0LC01MzI3OTE1MTEsLT
-E4NzkzMzY2NTUsLTIwNjM0MzQxNTYsLTMxNTc1ODQ1MCwxNzQ4
-NjUyNzAyXX0=
+eyJoaXN0b3J5IjpbLTc5ODM5ODk4NSwyMDQwMjk1NDAwLDg1ND
+QyOTE3MywtMTMwNDMwODQzNCwyMDM1MDMxNjc0LC0zMzUxODY2
+MjQsLTU1NTUxMjIwMSwtMTI2NDkxODc2MiwxOTAxMTA0NzM4LC
+0xNzkyMzg4MDAzLDE0MDY2MzU1MzYsMTM4Mzc1MDIsLTc0Nzk1
+OTk1MiwxNjc0NTIyMzE3LDIxMTM1MTgzMDQsLTUzMjc5MTUxMS
+wtMTg3OTMzNjY1NSwtMjA2MzQzNDE1NiwtMzE1NzU4NDUwLDE3
+NDg2NTI3MDJdfQ==
 -->
