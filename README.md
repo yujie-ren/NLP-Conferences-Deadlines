@@ -132,7 +132,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 |[IJCAI25]()|          |                 |               |
 |[IJCAI24](https://ijcai24.org/) |01-10, 2024|04-16, 2024|08-03, 2024|
 |[IJCAI23](https://ijcai-23.org/) |01-11, 2023|04-19, 2023|08-19, 2023|
-|[IJCAI22](https://ijcai-22.org/) |         |                 |               |
+|[IJCAI22](https://ijcai-22.org/) |         |                 |07-23, 2022|
 |[IJCAI21](https://ijcai-21.org/) |         |                 |               |
 
 <!--stackedit_data:
@@ -145,7 +145,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5MzQzMjc5LDIxODgyNjY1LDc0MzAwMz
+eyJoaXN0b3J5IjpbNTEyMDQ5MDE0LDIxODgyNjY1LDc0MzAwMz
 I1NywtMTUwNjI4MTUzOCwtMTQ0NjczMjQwMiw3OTkxMTkxNjMs
 MTM2MjE5NjE4MiwxOTcwMTQzMTM0LC00MjYyNzYzODYsMTQ1ND
 cwMjc1MCwxOTM1MDgxNCw0NzQyOTk2MjAsODk5NzE3MzQ0LDEy
