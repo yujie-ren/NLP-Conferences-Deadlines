@@ -122,7 +122,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[AAAI25](https://aaai.org/conference/aaai/aaai-25/)|08-07, 2024|12-09, 2024|02-25, 2025|
 |[AAAI24](https://aaai.org/conference/aaai/aaai-24/) |08-08, 2023|12-09, 2023|02-20, 2024|
-|[AAAI23](https://aaai-23.aaai.org/) |08-08, 2022|                 |               |
+|[AAAI23](https://aaai-23.aaai.org/) |08-08, 2022|11-18, 2022|               |
 |[AAAI22](https://aaai.org/conference/aaai/aaai-22/) |         |                 |               |
 |[AAAI21](https://aaai.org/conference/aaai/aaai-21/) |         |                 |               |
 
@@ -145,7 +145,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTA4NjUzNSw3OTkxMTkxNjMsMTM2Mj
+eyJoaXN0b3J5IjpbMTU0NDQzMjgxOSw3OTkxMTkxNjMsMTM2Mj
 E5NjE4MiwxOTcwMTQzMTM0LC00MjYyNzYzODYsMTQ1NDcwMjc1
 MCwxOTM1MDgxNCw0NzQyOTk2MjAsODk5NzE3MzQ0LDEyMDkyMz
 cxMDQsMTg0NTI5NjE2MSwyMDQwMjk1NDAwLDg1NDQyOTE3Mywt
