@@ -130,7 +130,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[IJCAI25]()|          |                 |               |
-|[IJCAI24](https://ijcai24.org/) |         |                 |               |
+|[IJCAI24](https://ijcai24.org/) |01-10, 2024|                 |               |
 |[IJCAI23](https://ijcai-23.org/) |         |                 |               |
 |[IJCAI22](https://ijcai-22.org/) |         |                 |               |
 |[IJCAI21](https://ijcai-21.org/) |         |                 |               |
@@ -145,11 +145,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4ODI2NjUsNzQzMDAzMjU3LC0xNTA2Mj
-gxNTM4LC0xNDQ2NzMyNDAyLDc5OTExOTE2MywxMzYyMTk2MTgy
-LDE5NzAxNDMxMzQsLTQyNjI3NjM4NiwxNDU0NzAyNzUwLDE5Mz
-UwODE0LDQ3NDI5OTYyMCw4OTk3MTczNDQsMTIwOTIzNzEwNCwx
-ODQ1Mjk2MTYxLDIwNDAyOTU0MDAsODU0NDI5MTczLC0xMzA0Mz
-A4NDM0LDIwMzUwMzE2NzQsLTMzNTE4NjYyNCwtNTU1NTEyMjAx
-XX0=
+eyJoaXN0b3J5IjpbMTYwNTg1OTMwLDIxODgyNjY1LDc0MzAwMz
+I1NywtMTUwNjI4MTUzOCwtMTQ0NjczMjQwMiw3OTkxMTkxNjMs
+MTM2MjE5NjE4MiwxOTcwMTQzMTM0LC00MjYyNzYzODYsMTQ1ND
+cwMjc1MCwxOTM1MDgxNCw0NzQyOTk2MjAsODk5NzE3MzQ0LDEy
+MDkyMzcxMDQsMTg0NTI5NjE2MSwyMDQwMjk1NDAwLDg1NDQyOT
+E3MywtMTMwNDMwODQzNCwyMDM1MDMxNjc0LC0zMzUxODY2MjRd
+fQ==
 -->
