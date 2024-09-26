@@ -102,7 +102,7 @@ All dates are in the following format: **mm-dd, yy** or  **mm, yy**
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[ICML25]()|          |                 |               |
-|[ICML24](https://icml.cc/Conferences/2024) |         |                 |               |
+|[ICML24](https://icml.cc/Conferences/2024) |02-01, 2024|05-01, 2024|               |
 |[ICML23](https://icml.cc/Conferences/2023) |         |                 |               |
 |[ICML22](https://icml.cc/Conferences/2022) |         |                 |               |
 |[ICML21](https://icml.cc/Conferences/2021/index.html) |         |                 |               |
@@ -144,11 +144,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0Mjk5NjIwLDg5OTcxNzM0NCwxMjA5Mj
-M3MTA0LDE4NDUyOTYxNjEsMjA0MDI5NTQwMCw4NTQ0MjkxNzMs
-LTEzMDQzMDg0MzQsMjAzNTAzMTY3NCwtMzM1MTg2NjI0LC01NT
-U1MTIyMDEsLTEyNjQ5MTg3NjIsMTkwMTEwNDczOCwtMTc5MjM4
-ODAwMywxNDA2NjM1NTM2LDEzODM3NTAyLC03NDc5NTk5NTIsMT
-Y3NDUyMjMxNywyMTEzNTE4MzA0LC01MzI3OTE1MTEsLTE4Nzkz
-MzY2NTVdfQ==
+eyJoaXN0b3J5IjpbLTM1MjUwMTUyOSw0NzQyOTk2MjAsODk5Nz
+E3MzQ0LDEyMDkyMzcxMDQsMTg0NTI5NjE2MSwyMDQwMjk1NDAw
+LDg1NDQyOTE3MywtMTMwNDMwODQzNCwyMDM1MDMxNjc0LC0zMz
+UxODY2MjQsLTU1NTUxMjIwMSwtMTI2NDkxODc2MiwxOTAxMTA0
+NzM4LC0xNzkyMzg4MDAzLDE0MDY2MzU1MzYsMTM4Mzc1MDIsLT
+c0Nzk1OTk1MiwxNjc0NTIyMzE3LDIxMTM1MTgzMDQsLTUzMjc5
+MTUxMV19
 -->
