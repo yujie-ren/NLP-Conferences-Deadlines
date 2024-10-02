@@ -49,7 +49,7 @@ Date format: **"mm-dd, yy"** or  **"mm, yy (expected)"**
   - [IJCAI ](#ijcai)
 
 
-## ACL
+### ACL
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[ACL25](https://2025.aclweb.org/)  |               |                 |07-27, 2025|
@@ -59,7 +59,7 @@ Date format: **"mm-dd, yy"** or  **"mm, yy (expected)"**
 |[ACL21](https://2021.aclweb.org/) |01-25, 2021|05-05, 2021|08-01, 2021|
 
 
-## EMNLP
+### EMNLP
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | EMNLP25 |               |                 |               |
@@ -69,7 +69,7 @@ Date format: **"mm-dd, yy"** or  **"mm, yy (expected)"**
 |[EMNLP21](https://2021.emnlp.org/)|05-10, 2021|08-25, 2021|11-07, 2021|
 
 
-## NAACL
+### NAACL
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[NAACL25](https://2025.naacl.org/)  |10-15, 2024|                 |04-29, 2025|
@@ -79,7 +79,7 @@ Date format: **"mm-dd, yy"** or  **"mm, yy (expected)"**
 |[NAACL21](https://2021.naacl.org/) |11-23, 2020|03-10, 2021|06–06, 2021|
 
 
-## EACL
+### EACL
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | EACL25 |      -        |       -         |       -       |
@@ -89,7 +89,7 @@ Date format: **"mm-dd, yy"** or  **"mm, yy (expected)"**
 |[EACL21](https://2021.eacl.org/) |10-07, 2020|01-11, 2021|04-19, 2021|
 
 
-## COLING
+### COLING
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[COLING25](https://coling2025.org/)|09-16, 2024|11-29, 2024|01-19, 2025|
@@ -98,7 +98,7 @@ Date format: **"mm-dd, yy"** or  **"mm, yy (expected)"**
 | [COLING22](https://coling2022.org/) |05-17, 2022|08-15, 2022|10-12, 2022|
 | COLING21 |      -        |        -        |      -        |
 
-## NeurIPS
+### NeurIPS
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[NeurIPS25]()|          |                 |               |
@@ -107,7 +107,7 @@ Date format: **"mm-dd, yy"** or  **"mm, yy (expected)"**
 |[NeurIPS22](https://neurips.cc/Conferences/2022) |05-16, 2022|09-14, 2022|11-28, 2022|
 |[NeurIPS21](https://neurips.cc/Conferences/2021) |05-21, 2021|09-28, 2021|12-06, 2021|
 
-## ICML
+### ICML
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[ICML25](https://icml.cc/Conferences/2025)|01-31, 2025|                 |               |
@@ -116,7 +116,7 @@ Date format: **"mm-dd, yy"** or  **"mm, yy (expected)"**
 |[ICML22](https://icml.cc/Conferences/2022) |01-20, 2022|05-14, 2022|07-17, 2022|
 |[ICML21](https://icml.cc/Conferences/2021/index.html) |01-28, 2021|05-08, 2021|07-18, 2021|
 
-## ICLR
+### ICLR
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[ICLR25](https://iclr.cc/Conferences/2025)|09-27, 2024|01-22, 2025|04-24, 2025|
@@ -125,7 +125,7 @@ Date format: **"mm-dd, yy"** or  **"mm, yy (expected)"**
 |[ICLR22](https://iclr.cc/Conferences/2022) |09-29, 2021|01-24, 2022|04-25, 2022|
 |[ICLR21](https://iclr.cc/Conferences/2021) |09-28, 2020|01-14, 2021|05-03, 2021|
 
-## AAAI
+### AAAI
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[AAAI25](https://aaai.org/conference/aaai/aaai-25/)|08-07, 2024|12-09, 2024|02-25, 2025|
@@ -134,7 +134,7 @@ Date format: **"mm-dd, yy"** or  **"mm, yy (expected)"**
 |[AAAI22](https://aaai.org/conference/aaai/aaai-22/) |08-30, 2021|11-29, 2021|02-22, 2022|
 |[AAAI21](https://aaai.org/conference/aaai/aaai-21/) |09-01, 2020|12-01, 2020|02-02, 2021|
 
-## IJCAI
+### IJCAI
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[IJCAI25]()|          |                 |08-16, 2025|
@@ -153,11 +153,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1OTc1Mzk5LDEyNzE2ODg1ODMsNjQ1MD
-k2NzYxLDEyODY2MjcxNDEsMTgyNTc5OTI2NSwzMzkyODUxNTQs
-LTE1MjIyNjcxMDMsMjE4ODI2NjUsNzQzMDAzMjU3LC0xNTA2Mj
-gxNTM4LC0xNDQ2NzMyNDAyLDc5OTExOTE2MywxMzYyMTk2MTgy
-LDE5NzAxNDMxMzQsLTQyNjI3NjM4NiwxNDU0NzAyNzUwLDE5Mz
-UwODE0LDQ3NDI5OTYyMCw4OTk3MTczNDQsMTIwOTIzNzEwNF19
-
+eyJoaXN0b3J5IjpbLTE4NDYwMzUzNTUsODg1OTc1Mzk5LDEyNz
+E2ODg1ODMsNjQ1MDk2NzYxLDEyODY2MjcxNDEsMTgyNTc5OTI2
+NSwzMzkyODUxNTQsLTE1MjIyNjcxMDMsMjE4ODI2NjUsNzQzMD
+AzMjU3LC0xNTA2MjgxNTM4LC0xNDQ2NzMyNDAyLDc5OTExOTE2
+MywxMzYyMTk2MTgyLDE5NzAxNDMxMzQsLTQyNjI3NjM4NiwxND
+U0NzAyNzUwLDE5MzUwODE0LDQ3NDI5OTYyMCw4OTk3MTczNDRd
+fQ==
 -->
