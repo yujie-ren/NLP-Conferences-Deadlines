@@ -10,7 +10,7 @@ Date format: **"mm-dd, yy"** or  **"mm, yy (expected)"**
 |[EMNLP-24](https://2024.emnlp.org/)|~~06-15, 2024~~|~~09-20, 2024~~|~~11-12, 2024~~|
 |[COLING-25](https://coling2025.org/)| ~~09-16, 2024~~|11-29, 2024|01-19, 2025|
 |[NAACL-25](https://2025.naacl.org/)  |10-15, 2024|                 |04–29, 2025|
-|[ACL-25](https://2025.aclweb.org/)  |12, 2024 (expected)|                 |07-27, 2025|
+|[ACL-25](https://2025.aclweb.org/)  |02-15, 2024 |                 |07-27, 2025|
 | EMNLP-25                           |06, 2025 (expected)|          |11, 2025 (expected)|
 
 
