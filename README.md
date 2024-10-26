@@ -12,7 +12,7 @@ Date format: **"mm-dd, yy"** or  **"mm, yy (expected)"**
 |[COLING-25](https://coling2025.org/)| ~~09-16, 2024~~|11-29, 2024|01-19, 2025|
 |[NAACL-25](https://2025.naacl.org/)  |~~10-15, 2024~~|01-22, 2025|04–29, 2025|
 |[ACL-25](https://2025.aclweb.org/)  |02-15, 2025 |05-15, 2025|07-27, 2025|
-|[COLM-25](https://2025.aclweb.org/)  |02-15, 2025 |05-15, 2025|10-07, 2025|
+|[COLM-25](https://2025.aclweb.org/)  |03-29, 2025 (expected)|  |10-07, 2025|
 | EMNLP-25                           |06, 2025 (expected)|          |11, 2025 (expected)|
 
 
@@ -155,7 +155,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1NTg5ODQ0LDE0MTMwMjg1NiwtMTg5OD
+eyJoaXN0b3J5IjpbODEwNzU4NzE0LDE0MTMwMjg1NiwtMTg5OD
 AyODI3LC0xNzk5OTYzNTk1LC0xNDA5ODQ4NTY1LC05OTQ2OTY5
 MjMsLTE4NDYwMzUzNTUsODg1OTc1Mzk5LDEyNzE2ODg1ODMsNj
 Q1MDk2NzYxLDEyODY2MjcxNDEsMTgyNTc5OTI2NSwzMzkyODUx
