@@ -13,7 +13,7 @@ Date format: **"mm-dd, yy"** or  **"mm, yy (expected)"**
 |[NAACL-25](https://2025.naacl.org/)  |~~10-15, 2024~~|01-22, 2025|04–29, 2025|
 |[ACL-25](https://2025.aclweb.org/)  |02-15, 2025 |05-15, 2025|07-27, 2025|
 |[COLM-25](https://2025.aclweb.org/)  |03-29, 2025 (expected)|  |10-07, 2025|
-| EMNLP-25                           |06, 2025 (expected)|          |11, 2025 (expected)|
+| EMNLP-25                           |06-15, 2025 (expected)|          |11, 2025 (expected)|
 
 
 ## Upcoming AI Deadlines
@@ -155,11 +155,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwNzU4NzE0LDE0MTMwMjg1NiwtMTg5OD
-AyODI3LC0xNzk5OTYzNTk1LC0xNDA5ODQ4NTY1LC05OTQ2OTY5
-MjMsLTE4NDYwMzUzNTUsODg1OTc1Mzk5LDEyNzE2ODg1ODMsNj
-Q1MDk2NzYxLDEyODY2MjcxNDEsMTgyNTc5OTI2NSwzMzkyODUx
-NTQsLTE1MjIyNjcxMDMsMjE4ODI2NjUsNzQzMDAzMjU3LC0xNT
-A2MjgxNTM4LC0xNDQ2NzMyNDAyLDc5OTExOTE2MywxMzYyMTk2
-MTgyXX0=
+eyJoaXN0b3J5IjpbLTEwMTkwMTM4NDksODEwNzU4NzE0LDE0MT
+MwMjg1NiwtMTg5ODAyODI3LC0xNzk5OTYzNTk1LC0xNDA5ODQ4
+NTY1LC05OTQ2OTY5MjMsLTE4NDYwMzUzNTUsODg1OTc1Mzk5LD
+EyNzE2ODg1ODMsNjQ1MDk2NzYxLDEyODY2MjcxNDEsMTgyNTc5
+OTI2NSwzMzkyODUxNTQsLTE1MjIyNjcxMDMsMjE4ODI2NjUsNz
+QzMDAzMjU3LC0xNTA2MjgxNTM4LC0xNDQ2NzMyNDAyLDc5OTEx
+OTE2M119
 -->
