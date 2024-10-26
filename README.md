@@ -7,6 +7,7 @@ Date format: **"mm-dd, yy"** or  **"mm, yy (expected)"**
 |[COLING-24](https://lrec-coling-2024.org/) |~~10-20, 2023~~|~~02-19, 2024~~|~~05-20, 2024~~|
 |[NAACL24](https://2024.naacl.org/)  |~~12-15, 2023~~|~~03-15, 2024~~|~~06-16, 2024~~|
 |[ACL-24](https://2024.aclweb.org/)|~~02-15, 2024~~|~~05-15, 2024~~|~~08–11, 2024~~|
+|[COLM-24](https://colmweb.org/dates.html)|~~02-15, 2024~~|~~05-15, 2024~~|~~08–11, 2024~~|
 |[EMNLP-24](https://2024.emnlp.org/)|~~06-15, 2024~~|~~09-20, 2024~~|11-12, 2024|
 |[COLING-25](https://coling2025.org/)| ~~09-16, 2024~~|11-29, 2024|01-19, 2025|
 |[NAACL-25](https://2025.naacl.org/)  |~~10-15, 2024~~|01-22, 2025|04–29, 2025|
@@ -153,11 +154,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTgwMjgyNywtMTc5OTk2MzU5NSwtMT
-QwOTg0ODU2NSwtOTk0Njk2OTIzLC0xODQ2MDM1MzU1LDg4NTk3
-NTM5OSwxMjcxNjg4NTgzLDY0NTA5Njc2MSwxMjg2NjI3MTQxLD
-E4MjU3OTkyNjUsMzM5Mjg1MTU0LC0xNTIyMjY3MTAzLDIxODgy
-NjY1LDc0MzAwMzI1NywtMTUwNjI4MTUzOCwtMTQ0NjczMjQwMi
-w3OTkxMTkxNjMsMTM2MjE5NjE4MiwxOTcwMTQzMTM0LC00MjYy
-NzYzODZdfQ==
+eyJoaXN0b3J5IjpbMjAzNzYzMjYzNywtMTg5ODAyODI3LC0xNz
+k5OTYzNTk1LC0xNDA5ODQ4NTY1LC05OTQ2OTY5MjMsLTE4NDYw
+MzUzNTUsODg1OTc1Mzk5LDEyNzE2ODg1ODMsNjQ1MDk2NzYxLD
+EyODY2MjcxNDEsMTgyNTc5OTI2NSwzMzkyODUxNTQsLTE1MjIy
+NjcxMDMsMjE4ODI2NjUsNzQzMDAzMjU3LC0xNTA2MjgxNTM4LC
+0xNDQ2NzMyNDAyLDc5OTExOTE2MywxMzYyMTk2MTgyLDE5NzAx
+NDMxMzRdfQ==
 -->
