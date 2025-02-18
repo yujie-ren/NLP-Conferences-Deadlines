@@ -24,9 +24,9 @@ Date format: **"yy-mm-dd"**
 |[ICML-24](https://icml.cc/Conferences/2024) |~~2024-02-01~~|~~2024-05-01~~|~~2024-07-21~~|
 |[NeurIPS-24](https://neurips.cc/Conferences/2024) |~~2024-05-15~~|~~2024-09-25~~|2024-12-10|
 |[AAAI-25](https://aaai.org/conference/aaai/aaai-25/)|~~2024-08-07~~|2024-12-09|2025-02-25|
-|[ICLR-25](https://iclr.cc/Conferences/2025)|~~2024-09-27~~|2025-01-22|2025-04-24|
-|[ICML-25](https://icml.cc/Conferences/2025)|2025-01-23|2025-05-01|2025-07-13|
-|[IJCAI-25](https://2025.ijcai.org/)        |2025-01-16|2025-04-28|2025-08-16|
+|[ICLR-25](https://iclr.cc/Conferences/2025)|~~2024-09-27~~|~~2025-01-22~~|2025-04-24|
+|[ICML-25](https://icml.cc/Conferences/2025)|~~2025-01-23~~|2025-05-01|2025-07-13|
+|[IJCAI-25](https://2025.ijcai.org/)        |~~2025-01-16~~|2025-04-28|2025-08-16|
 |[NeurIPS-25]                             |2025-05-16 (expected)|             |2025-12 (expected)|
 |[AAAI-26]                                 |2025-08 (expected)|             |2026-02 (expected)|
 
@@ -139,7 +139,7 @@ Date format: **"yy-mm-dd"**
 ### IJCAI
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[IJCAI25]()|          |                 |08-16, 2025|
+|[IJCAI-25](https://2025.ijcai.org/)        |2025-01-16|2025-04-28|2025-08-16|
 |[IJCAI24](https://ijcai24.org/) |01-10, 2024|04-16, 2024|08-03, 2024|
 |[IJCAI23](https://ijcai-23.org/) |01-11, 2023|04-19, 2023|08-19, 2023|
 |[IJCAI22](https://ijcai-22.org/) |01-07, 2022|04-20, 2022|07-23, 2022|
@@ -155,11 +155,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwNzkzMDM4LDE5MTU3MTg0Miw2NDgxMz
-E0MjIsODkxNTA3MjExLC0xMDE5MDEzODQ5LDgxMDc1ODcxNCwx
-NDEzMDI4NTYsLTE4OTgwMjgyNywtMTc5OTk2MzU5NSwtMTQwOT
-g0ODU2NSwtOTk0Njk2OTIzLC0xODQ2MDM1MzU1LDg4NTk3NTM5
-OSwxMjcxNjg4NTgzLDY0NTA5Njc2MSwxMjg2NjI3MTQxLDE4Mj
-U3OTkyNjUsMzM5Mjg1MTU0LC0xNTIyMjY3MTAzLDIxODgyNjY1
-XX0=
+eyJoaXN0b3J5IjpbLTEzODM2OTA1NDMsMTkxNTcxODQyLDY0OD
+EzMTQyMiw4OTE1MDcyMTEsLTEwMTkwMTM4NDksODEwNzU4NzE0
+LDE0MTMwMjg1NiwtMTg5ODAyODI3LC0xNzk5OTYzNTk1LC0xND
+A5ODQ4NTY1LC05OTQ2OTY5MjMsLTE4NDYwMzUzNTUsODg1OTc1
+Mzk5LDEyNzE2ODg1ODMsNjQ1MDk2NzYxLDEyODY2MjcxNDEsMT
+gyNTc5OTI2NSwzMzkyODUxNTQsLTE1MjIyNjcxMDMsMjE4ODI2
+NjVdfQ==
 -->
