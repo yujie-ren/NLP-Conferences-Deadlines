@@ -1,10 +1,10 @@
 Record past deadlines to predict future ones.
-Date format: **"mm-dd, yy"** or  **"mm, yy (expected)"** 
+Date format: **"yy-mm-dd"**
 
 ## Upcoming NLP Deadlines
 |  Conf  |Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[COLING-24](https://lrec-coling-2024.org/) |~~10-20, 2023~~|~~02-19, 2024~~|~~05-20, 2024~~|
+|[COLING-24](https://lrec-coling-2024.org/) |~~2023-10-20~~|~~2024-02-19~~|~~2024-05-20~~|
 |[NAACL24](https://2024.naacl.org/)  |~~12-15, 2023~~|~~03-15, 2024~~|~~06-16, 2024~~|
 |[ACL-24](https://2024.aclweb.org/)|~~02-15, 2024~~|~~05-15, 2024~~|~~08–11, 2024~~|
 |[COLM-24](https://colmweb.org/dates.html)|~~03-29, 2024~~|~~07-09, 2024~~|~~10–07, 2024~~|
@@ -155,7 +155,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODA4MzU4OCw2NDgxMzE0MjIsODkxNT
+eyJoaXN0b3J5IjpbMjEzMjM3NjI4OCw2NDgxMzE0MjIsODkxNT
 A3MjExLC0xMDE5MDEzODQ5LDgxMDc1ODcxNCwxNDEzMDI4NTYs
 LTE4OTgwMjgyNywtMTc5OTk2MzU5NSwtMTQwOTg0ODU2NSwtOT
 k0Njk2OTIzLC0xODQ2MDM1MzU1LDg4NTk3NTM5OSwxMjcxNjg4
