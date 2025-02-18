@@ -121,11 +121,11 @@ Date format: **"yy-mm-dd"**
 ### ICLR
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[ICLR25](https://iclr.cc/Conferences/2025)|09-27, 2024|01-22, 2025|04-24, 2025|
-|[ICLR24](https://iclr.cc/Conferences/2024) |09-23, 2023|01-15, 2024|05-07, 2024|
-|[ICLR23](https://iclr.cc/Conferences/2023) |09-21, 2022|01-21, 2023|05-01, 2023|
-|[ICLR22](https://iclr.cc/Conferences/2022) |09-29, 2021|01-24, 2022|04-25, 2022|
-|[ICLR21](https://iclr.cc/Conferences/2021) |09-28, 2020|01-14, 2021|05-03, 2021|
+|[ICLR25](https://iclr.cc/Conferences/2025)|2024-09-27|2025-01-22|2025-04-24, 2025|
+|[ICLR24](https://iclr.cc/Conferences/2024) |2023-09-23|2024-01-15|2024-05-07, 2024|
+|[ICLR23](https://iclr.cc/Conferences/2023) |2022-09-21|2023-01-21|2023-05-01, 2023|
+|[ICLR22](https://iclr.cc/Conferences/2022) |2021-09-29|2022-01-24|2022-04-25, 2022|
+|[ICLR21](https://iclr.cc/Conferences/2021) |2020-09-28|2021-01-14|2021-05-03, 2021|
 
 ### AAAI
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -155,11 +155,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Nzk1MzM1NywtMTM4MzY5MDU0MywxOT
-E1NzE4NDIsNjQ4MTMxNDIyLDg5MTUwNzIxMSwtMTAxOTAxMzg0
-OSw4MTA3NTg3MTQsMTQxMzAyODU2LC0xODk4MDI4MjcsLTE3OT
-k5NjM1OTUsLTE0MDk4NDg1NjUsLTk5NDY5NjkyMywtMTg0NjAz
-NTM1NSw4ODU5NzUzOTksMTI3MTY4ODU4Myw2NDUwOTY3NjEsMT
-I4NjYyNzE0MSwxODI1Nzk5MjY1LDMzOTI4NTE1NCwtMTUyMjI2
-NzEwM119
+eyJoaXN0b3J5IjpbLTEzMDg1MTI4MDMsLTEzODM2OTA1NDMsMT
+kxNTcxODQyLDY0ODEzMTQyMiw4OTE1MDcyMTEsLTEwMTkwMTM4
+NDksODEwNzU4NzE0LDE0MTMwMjg1NiwtMTg5ODAyODI3LC0xNz
+k5OTYzNTk1LC0xNDA5ODQ4NTY1LC05OTQ2OTY5MjMsLTE4NDYw
+MzUzNTUsODg1OTc1Mzk5LDEyNzE2ODg1ODMsNjQ1MDk2NzYxLD
+EyODY2MjcxNDEsMTgyNTc5OTI2NSwzMzkyODUxNTQsLTE1MjIy
+NjcxMDNdfQ==
 -->
