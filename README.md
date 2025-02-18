@@ -54,7 +54,7 @@ Date format: **"yy-mm-dd"**
 ### ACL
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[ACL25](https://2025.aclweb.org/)  |               |                 |07-27, 2025|
+|[ACL-25](https://2025.aclweb.org/)  |2025-02-15|2025-05-15|2025-07-27|
 |[ACL24](https://2024.aclweb.org/)|02-15, 2024|05-15, 2024|08–11, 2024|
 |[ACL23](https://2023.aclweb.org/)|12-15, 2022|05-01, 2023|07-09, 2023|
 |[ACL22](https://2022.aclweb.org/)|11-15, 2021|02-23, 2022|05-22, 2022|
@@ -74,7 +74,7 @@ Date format: **"yy-mm-dd"**
 ### NAACL
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[NAACL25](https://2025.naacl.org/)  |10-15, 2024|                 |04-29, 2025|
+|[NAACL-25](https://2025.naacl.org/)  |2024-10-15|2025-01-22|2025-04–29|
 |[NAACL24](https://2024.naacl.org/)  |12-15, 2023|03-15, 2024|06-16, 2024|
 | NAACL23                            |       -       |        -        |       -       |
 |[NAACL22](https://2022.naacl.org/)  |01-15, 2022|04-07, 2022|07-10, 2022|
@@ -112,7 +112,7 @@ Date format: **"yy-mm-dd"**
 ### ICML
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[ICML25](https://icml.cc/Conferences/2025)|01-31, 2025|                 |               |
+|[ICML-25](https://icml.cc/Conferences/2025)|2025-01-23|2025-05-01|2025-07-13|
 |[ICML24](https://icml.cc/Conferences/2024) |02-01, 2024|05-01, 2024|07-21, 2024|
 |[ICML23](https://icml.cc/Conferences/2023) |01-26, 2023|04-24, 2023|07-23, 2023|
 |[ICML22](https://icml.cc/Conferences/2022) |01-20, 2022|05-14, 2022|07-17, 2022|
@@ -155,7 +155,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1MDMxMzI2LDE5MTU3MTg0Miw2NDgxMz
+eyJoaXN0b3J5IjpbOTkwNzkzMDM4LDE5MTU3MTg0Miw2NDgxMz
 E0MjIsODkxNTA3MjExLC0xMDE5MDEzODQ5LDgxMDc1ODcxNCwx
 NDEzMDI4NTYsLTE4OTgwMjgyNywtMTc5OTk2MzU5NSwtMTQwOT
 g0ODU2NSwtOTk0Njk2OTIzLC0xODQ2MDM1MzU1LDg4NTk3NTM5
