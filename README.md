@@ -85,17 +85,17 @@ Date format: **"yy-mm-dd"**
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 | EACL25 |      -        |       -         |       -       |
-|[EACL24](https://2024.eacl.org/) |210-15, 2023|01-17, 2024|03-17, 2024|
-|[EACL23](https://2023.eacl.org/) |10-13, 2022|01-20, 2023|05-02, 2023|
-| EACL22                          |       -       |        -        |       -       |
-|[EACL21](https://2021.eacl.org/) |10-07, 2020|01-11, 2021|04-19, 2021|
+|[EACL24](https://2024.eacl.org/) |2023-10-15|2024-01-17|2024-03-17|
+|[EACL23](https://2023.eacl.org/) |2022-10-13|2023-01-20|2023-05-02|
+| EACL22                          |    -     |     -    |    -     |
+|[EACL21](https://2021.eacl.org/) |2020-10-07|2021-01-11|2021-04-19|
 
 
 ### COLING
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[COLING25](https://coling2025.org/)|09-16, 2024|11-29, 2024|01-19, 2025|
-| [COLING24](https://lrec-coling-2024.org/) |10-20, 2023|02-19, 2024|05-20, 2024|
+|[COLING25](https://coling2025.org/)|2024-09-16, 2024|2024-11-29, 2024|2025-01-19, 2025|
+| [COLING24](https://lrec-coling-2024.org/) |2023-10-20, 2023|02-19, 2024|05-20, 2024|
 |  COLING23                           |       -       |        -        |       -       |
 | [COLING22](https://coling2022.org/) |05-17, 2022|08-15, 2022|10-12, 2022|
 | COLING21 |      -        |        -        |      -        |
@@ -155,11 +155,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDc0NTc0NSwtMTM4MzY5MDU0MywxOT
-E1NzE4NDIsNjQ4MTMxNDIyLDg5MTUwNzIxMSwtMTAxOTAxMzg0
-OSw4MTA3NTg3MTQsMTQxMzAyODU2LC0xODk4MDI4MjcsLTE3OT
-k5NjM1OTUsLTE0MDk4NDg1NjUsLTk5NDY5NjkyMywtMTg0NjAz
-NTM1NSw4ODU5NzUzOTksMTI3MTY4ODU4Myw2NDUwOTY3NjEsMT
-I4NjYyNzE0MSwxODI1Nzk5MjY1LDMzOTI4NTE1NCwtMTUyMjI2
-NzEwM119
+eyJoaXN0b3J5IjpbLTE1MzQzNzA5MjAsLTEzODM2OTA1NDMsMT
+kxNTcxODQyLDY0ODEzMTQyMiw4OTE1MDcyMTEsLTEwMTkwMTM4
+NDksODEwNzU4NzE0LDE0MTMwMjg1NiwtMTg5ODAyODI3LC0xNz
+k5OTYzNTk1LC0xNDA5ODQ4NTY1LC05OTQ2OTY5MjMsLTE4NDYw
+MzUzNTUsODg1OTc1Mzk5LDEyNzE2ODg1ODMsNjQ1MDk2NzYxLD
+EyODY2MjcxNDEsMTgyNTc5OTI2NSwzMzkyODUxNTQsLTE1MjIy
+NjcxMDNdfQ==
 -->
