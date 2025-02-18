@@ -130,7 +130,7 @@ Date format: **"yy-mm-dd"**
 ### AAAI
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[AAAI25](https://aaai.org/conference/aaai/aaai-25/)|2024-08-07, 2024|2024-12-09|2025-02-25|
+|[AAAI25](https://aaai.org/conference/aaai/aaai-25/)|2024-08-07|2024-12-09|2025-02-25|
 |[AAAI24](https://aaai.org/conference/aaai/aaai-24/) |2023-08-08|2023-12-09|2024-02-20|
 |[AAAI23](https://aaai-23.aaai.org/) |2022-08-08|2022-11-18|2023-02-07|
 |[AAAI22](https://aaai.org/conference/aaai/aaai-22/) |2021-08-30|2021-11-29|2022-02-22|
@@ -140,10 +140,10 @@ Date format: **"yy-mm-dd"**
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[IJCAI-25](https://2025.ijcai.org/)        |2025-01-16|2025-04-28|2025-08-16|
-|[IJCAI24](https://ijcai24.org/) |01-10, 2024|04-16, 2024|08-03, 2024|
-|[IJCAI23](https://ijcai-23.org/) |01-11, 2023|04-19, 2023|08-19, 2023|
-|[IJCAI22](https://ijcai-22.org/) |01-07, 2022|04-20, 2022|07-23, 2022|
-|[IJCAI21](https://ijcai-21.org/) |01-13, 2021|04-30, 2021|08-19, 2021|
+|[IJCAI24](https://ijcai24.org/) |2024-01-10|2024-04-16|2024-08-03|
+|[IJCAI23](https://ijcai-23.org/) |2023-01-11|2023-04-19|2023-08-19|
+|[IJCAI22](https://ijcai-22.org/) |2022-01-07|2022-04-20|2022-07-23|
+|[IJCAI21](https://ijcai-21.org/) |2021-01-13|2021-04-30|2021-08-19|
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4NDc5MjY4MDQsLTcyOTIyOTU3OCwxMT
@@ -155,11 +155,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Mzg2ODA1MywtMTM4MzY5MDU0MywxOT
-E1NzE4NDIsNjQ4MTMxNDIyLDg5MTUwNzIxMSwtMTAxOTAxMzg0
-OSw4MTA3NTg3MTQsMTQxMzAyODU2LC0xODk4MDI4MjcsLTE3OT
-k5NjM1OTUsLTE0MDk4NDg1NjUsLTk5NDY5NjkyMywtMTg0NjAz
-NTM1NSw4ODU5NzUzOTksMTI3MTY4ODU4Myw2NDUwOTY3NjEsMT
-I4NjYyNzE0MSwxODI1Nzk5MjY1LDMzOTI4NTE1NCwtMTUyMjI2
-NzEwM119
+eyJoaXN0b3J5IjpbLTExNzA1MzI1MzcsLTk4Mzg2ODA1MywtMT
+M4MzY5MDU0MywxOTE1NzE4NDIsNjQ4MTMxNDIyLDg5MTUwNzIx
+MSwtMTAxOTAxMzg0OSw4MTA3NTg3MTQsMTQxMzAyODU2LC0xOD
+k4MDI4MjcsLTE3OTk5NjM1OTUsLTE0MDk4NDg1NjUsLTk5NDY5
+NjkyMywtMTg0NjAzNTM1NSw4ODU5NzUzOTksMTI3MTY4ODU4My
+w2NDUwOTY3NjEsMTI4NjYyNzE0MSwxODI1Nzk5MjY1LDMzOTI4
+NTE1NF19
 -->
