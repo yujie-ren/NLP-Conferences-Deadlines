@@ -94,20 +94,20 @@ Date format: **"yy-mm-dd"**
 ### COLING
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[COLING25](https://coling2025.org/)|2024-09-16, 2024|2024-11-29, 2024|2025-01-19, 2025|
-| [COLING24](https://lrec-coling-2024.org/) |2023-10-20, 2023|02-19, 2024|05-20, 2024|
+|[COLING25](https://coling2025.org/)|2024-09-16|2024-11-29|2025-01-19|
+| [COLING24](https://lrec-coling-2024.org/) |2023-10-20|2024-02-19|2024-05-20|
 |  COLING23                           |       -       |        -        |       -       |
-| [COLING22](https://coling2022.org/) |05-17, 2022|08-15, 2022|10-12, 2022|
+| [COLING22](https://coling2022.org/) |2022-05-17|2022-08-15|2022-10-12|
 | COLING21 |      -        |        -        |      -        |
 
 ### NeurIPS
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[NeurIPS25]()|          |                 |               |
-|[NeurIPS24](https://neurips.cc/Conferences/2024) |05-15, 2024|09-25, 2024|12-09, 2024|
-|[NeurIPS23](https://neurips.cc/Conferences/2023) |05-11, 2023|09-22, 2023|12-10, 2023|
-|[NeurIPS22](https://neurips.cc/Conferences/2022) |05-16, 2022|09-14, 2022|11-28, 2022|
-|[NeurIPS21](https://neurips.cc/Conferences/2021) |05-21, 2021|09-28, 2021|12-06, 2021|
+|[NeurIPS24](https://neurips.cc/Conferences/2024) |2024-05-15|2024-09-25|2024-12-09|
+|[NeurIPS23](https://neurips.cc/Conferences/2023) |2023-05-11|2023-09-22|2023-12-10, 2023|
+|[NeurIPS22](https://neurips.cc/Conferences/2022) |2022-05-16|2022-09-14|2022-11-28, 2022|
+|[NeurIPS21](https://neurips.cc/Conferences/2021) |2021-05-21|2021-09-28|2021-12-06, 2021|
 
 ### ICML
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -155,11 +155,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQzNzA5MjAsLTEzODM2OTA1NDMsMT
-kxNTcxODQyLDY0ODEzMTQyMiw4OTE1MDcyMTEsLTEwMTkwMTM4
-NDksODEwNzU4NzE0LDE0MTMwMjg1NiwtMTg5ODAyODI3LC0xNz
-k5OTYzNTk1LC0xNDA5ODQ4NTY1LC05OTQ2OTY5MjMsLTE4NDYw
-MzUzNTUsODg1OTc1Mzk5LDEyNzE2ODg1ODMsNjQ1MDk2NzYxLD
-EyODY2MjcxNDEsMTgyNTc5OTI2NSwzMzkyODUxNTQsLTE1MjIy
-NjcxMDNdfQ==
+eyJoaXN0b3J5IjpbMTgwOTA0NjY5LC0xMzgzNjkwNTQzLDE5MT
+U3MTg0Miw2NDgxMzE0MjIsODkxNTA3MjExLC0xMDE5MDEzODQ5
+LDgxMDc1ODcxNCwxNDEzMDI4NTYsLTE4OTgwMjgyNywtMTc5OT
+k2MzU5NSwtMTQwOTg0ODU2NSwtOTk0Njk2OTIzLC0xODQ2MDM1
+MzU1LDg4NTk3NTM5OSwxMjcxNjg4NTgzLDY0NTA5Njc2MSwxMj
+g2NjI3MTQxLDE4MjU3OTkyNjUsMzM5Mjg1MTU0LC0xNTIyMjY3
+MTAzXX0=
 -->
