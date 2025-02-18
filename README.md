@@ -75,10 +75,10 @@ Date format: **"yy-mm-dd"**
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[NAACL-25](https://2025.naacl.org/)  |2024-10-15|2025-01-22|2025-04–29|
-|[NAACL24](https://2024.naacl.org/)  |12-15, 2023|03-15, 2024|06-16, 2024|
+|[NAACL24](https://2024.naacl.org/)  |2023-12-15|2024-03-15|2024-06-16|
 | NAACL23                            |       -       |        -        |       -       |
-|[NAACL22](https://2022.naacl.org/)  |01-15, 2022|04-07, 2022|07-10, 2022|
-|[NAACL21](https://2021.naacl.org/) |11-23, 2020|03-10, 2021|06–06, 2021|
+|[NAACL22](https://2022.naacl.org/)  |2022-01-15|2022-04-07|2022-07-10|
+|[NAACL21](https://2021.naacl.org/) |2020-11-23|2021-03-10|2021-06–06|
 
 
 ### EACL
@@ -155,7 +155,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODMzNjEyOCwtMTM4MzY5MDU0MywxOT
+eyJoaXN0b3J5IjpbLTg2MzY4ODcyMywtMTM4MzY5MDU0MywxOT
 E1NzE4NDIsNjQ4MTMxNDIyLDg5MTUwNzIxMSwtMTAxOTAxMzg0
 OSw4MTA3NTg3MTQsMTQxMzAyODU2LC0xODk4MDI4MjcsLTE3OT
 k5NjM1OTUsLTE0MDk4NDg1NjUsLTk5NDY5NjkyMywtMTg0NjAz
