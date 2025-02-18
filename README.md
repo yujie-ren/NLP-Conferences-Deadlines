@@ -5,10 +5,10 @@ Date format: **"yy-mm-dd"**
 |  Conf  |Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[COLING-24](https://lrec-coling-2024.org/) |~~2023-10-20~~|~~2024-02-19~~|~~2024-05-20~~|
-|[NAACL24](https://2024.naacl.org/)  |~~12-15, 2023~~|~~03-15, 2024~~|~~06-16, 2024~~|
-|[ACL-24](https://2024.aclweb.org/)|~~02-15, 2024~~|~~05-15, 2024~~|~~08–11, 2024~~|
-|[COLM-24](https://colmweb.org/dates.html)|~~03-29, 2024~~|~~07-09, 2024~~|~~10–07, 2024~~|
-|[EMNLP-24](https://2024.emnlp.org/)|~~06-15, 2024~~|~~09-20, 2024~~|~~11-12, 2024~~|
+|[NAACL24](https://2024.naacl.org/)  |~~2023-12-15~~|~~2024-03-15~~|~~2024-06-16~~|
+|[ACL-24](https://2024.aclweb.org/)|~~2024-02-15~~|~~2024-05-15~~|~~2024-08–11~~|
+|[COLM-24](https://colmweb.org/dates.html)|~~2024-03-29~~|~~2024-07-09~~|~~2024-10–07~~|
+|[EMNLP-24](https://2024.emnlp.org/)|~~2024-06-15~~|~~2024-09-20,~~|~~11-12, 2024~~|
 |[COLING-25](https://coling2025.org/)| ~~09-16, 2024~~|~~11-29, 2024~~|~~01-19, 2025~~|
 |[NAACL-25](https://2025.naacl.org/)  |~~10-15, 2024~~|~~01-22, 2025~~|04–29, 2025|
 |[ACL-25](https://2025.aclweb.org/)  |~~02-15, 2025~~ |05-15, 2025|07-27, 2025|
@@ -155,7 +155,7 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjM3NjI4OCw2NDgxMzE0MjIsODkxNT
+eyJoaXN0b3J5IjpbMjA5NzgzODUyOSw2NDgxMzE0MjIsODkxNT
 A3MjExLC0xMDE5MDEzODQ5LDgxMDc1ODcxNCwxNDEzMDI4NTYs
 LTE4OTgwMjgyNywtMTc5OTk2MzU5NSwtMTQwOTg0ODU2NSwtOT
 k0Njk2OTIzLC0xODQ2MDM1MzU1LDg4NTk3NTM5OSwxMjcxNjg4
