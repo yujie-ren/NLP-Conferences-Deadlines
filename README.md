@@ -9,9 +9,9 @@ Date format: **"mm-dd, yy"** or  **"mm, yy (expected)"**
 |[ACL-24](https://2024.aclweb.org/)|~~02-15, 2024~~|~~05-15, 2024~~|~~08–11, 2024~~|
 |[COLM-24](https://colmweb.org/dates.html)|~~03-29, 2024~~|~~07-09, 2024~~|~~10–07, 2024~~|
 |[EMNLP-24](https://2024.emnlp.org/)|~~06-15, 2024~~|~~09-20, 2024~~|~~11-12, 2024~~|
-|[COLING-25](https://coling2025.org/)| ~~09-16, 2024~~|11-29, 2024|01-19, 2025|
-|[NAACL-25](https://2025.naacl.org/)  |~~10-15, 2024~~|01-22, 2025|04–29, 2025|
-|[ACL-25](https://2025.aclweb.org/)  |02-15, 2025 |05-15, 2025|07-27, 2025|
+|[COLING-25](https://coling2025.org/)| ~~09-16, 2024~~|~~11-29, 2024|~~|~~01-19, 2025~~|
+|[NAACL-25](https://2025.naacl.org/)  |~~10-15, 2024~~|~~01-22, 2025~~|04–29, 2025|
+|[ACL-25](https://2025.aclweb.org/)  |~~02-15, 2025~~ |05-15, 2025|07-27, 2025|
 |[COLM-25](https://x.com/colm_conf)  |03-29, 2025 (expected)|  |10-07, 2025|
 | EMNLP-25                           |06-15, 2025 (expected)|          |11-05, 2025|
 
@@ -155,11 +155,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ4MTMxNDIyLDg5MTUwNzIxMSwtMTAxOT
-AxMzg0OSw4MTA3NTg3MTQsMTQxMzAyODU2LC0xODk4MDI4Mjcs
-LTE3OTk5NjM1OTUsLTE0MDk4NDg1NjUsLTk5NDY5NjkyMywtMT
-g0NjAzNTM1NSw4ODU5NzUzOTksMTI3MTY4ODU4Myw2NDUwOTY3
-NjEsMTI4NjYyNzE0MSwxODI1Nzk5MjY1LDMzOTI4NTE1NCwtMT
-UyMjI2NzEwMywyMTg4MjY2NSw3NDMwMDMyNTcsLTE1MDYyODE1
-MzhdfQ==
+eyJoaXN0b3J5IjpbLTc4NTQ4NzQ1OCw2NDgxMzE0MjIsODkxNT
+A3MjExLC0xMDE5MDEzODQ5LDgxMDc1ODcxNCwxNDEzMDI4NTYs
+LTE4OTgwMjgyNywtMTc5OTk2MzU5NSwtMTQwOTg0ODU2NSwtOT
+k0Njk2OTIzLC0xODQ2MDM1MzU1LDg4NTk3NTM5OSwxMjcxNjg4
+NTgzLDY0NTA5Njc2MSwxMjg2NjI3MTQxLDE4MjU3OTkyNjUsMz
+M5Mjg1MTU0LC0xNTIyMjY3MTAzLDIxODgyNjY1LDc0MzAwMzI1
+N119
 -->
