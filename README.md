@@ -105,18 +105,18 @@ Date format: **"yy-mm-dd"**
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[NeurIPS25]()|          |                 |               |
 |[NeurIPS24](https://neurips.cc/Conferences/2024) |2024-05-15|2024-09-25|2024-12-09|
-|[NeurIPS23](https://neurips.cc/Conferences/2023) |2023-05-11|2023-09-22|2023-12-10, 2023|
-|[NeurIPS22](https://neurips.cc/Conferences/2022) |2022-05-16|2022-09-14|2022-11-28, 2022|
-|[NeurIPS21](https://neurips.cc/Conferences/2021) |2021-05-21|2021-09-28|2021-12-06, 2021|
+|[NeurIPS23](https://neurips.cc/Conferences/2023) |2023-05-11|2023-09-22|2023-12-10|
+|[NeurIPS22](https://neurips.cc/Conferences/2022) |2022-05-16|2022-09-14|2022-11-28|
+|[NeurIPS21](https://neurips.cc/Conferences/2021) |2021-05-21|2021-09-28|2021-12-06|
 
 ### ICML
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[ICML-25](https://icml.cc/Conferences/2025)|2025-01-23|2025-05-01|2025-07-13|
-|[ICML24](https://icml.cc/Conferences/2024) |02-01, 2024|05-01, 2024|07-21, 2024|
-|[ICML23](https://icml.cc/Conferences/2023) |01-26, 2023|04-24, 2023|07-23, 2023|
-|[ICML22](https://icml.cc/Conferences/2022) |01-20, 2022|05-14, 2022|07-17, 2022|
-|[ICML21](https://icml.cc/Conferences/2021/index.html) |01-28, 2021|05-08, 2021|07-18, 2021|
+|[ICML24](https://icml.cc/Conferences/2024) |2024-02-01|2024-05-01|2024-07-21|
+|[ICML23](https://icml.cc/Conferences/2023) |2023-01-26|2023-04-24|2023-07-23|
+|[ICML22](https://icml.cc/Conferences/2022) |2022-01-20|2022-05-14|2022-07-17|
+|[ICML21](https://icml.cc/Conferences/2021/index.html) |2021-01-28|2021-05-08|2021-07-18|
 
 ### ICLR
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -155,11 +155,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTA0NjY5LC0xMzgzNjkwNTQzLDE5MT
-U3MTg0Miw2NDgxMzE0MjIsODkxNTA3MjExLC0xMDE5MDEzODQ5
-LDgxMDc1ODcxNCwxNDEzMDI4NTYsLTE4OTgwMjgyNywtMTc5OT
-k2MzU5NSwtMTQwOTg0ODU2NSwtOTk0Njk2OTIzLC0xODQ2MDM1
-MzU1LDg4NTk3NTM5OSwxMjcxNjg4NTgzLDY0NTA5Njc2MSwxMj
-g2NjI3MTQxLDE4MjU3OTkyNjUsMzM5Mjg1MTU0LC0xNTIyMjY3
-MTAzXX0=
+eyJoaXN0b3J5IjpbMTM4Nzk1MzM1NywtMTM4MzY5MDU0MywxOT
+E1NzE4NDIsNjQ4MTMxNDIyLDg5MTUwNzIxMSwtMTAxOTAxMzg0
+OSw4MTA3NTg3MTQsMTQxMzAyODU2LC0xODk4MDI4MjcsLTE3OT
+k5NjM1OTUsLTE0MDk4NDg1NjUsLTk5NDY5NjkyMywtMTg0NjAz
+NTM1NSw4ODU5NzUzOTksMTI3MTY4ODU4Myw2NDUwOTY3NjEsMT
+I4NjYyNzE0MSwxODI1Nzk5MjY1LDMzOTI4NTE1NCwtMTUyMjI2
+NzEwM119
 -->
