@@ -22,9 +22,9 @@ Date format: **"yy-mm-dd"**
 |[ICLR-24](https://iclr.cc/Conferences/2024) |~~2023-09-23~~|~~2024-01-15~~|~~2024-05-07~~|
 |[IJCAI-24](https://ijcai24.org/) |~~2024-01-10~~|~~2024-04-16~~|~~2024-08-03~~|
 |[ICML-24](https://icml.cc/Conferences/2024) |~~2024-02-01~~|~~2024-05-01~~|~~2024-07-21~~|
-|[NeurIPS-24](https://neurips.cc/Conferences/2024) |~~05-15, 2024~~|~~09-25, 2024~~|12-10, 2024|
-|[AAAI-25](https://aaai.org/conference/aaai/aaai-25/)|~~08-07, 2024~~|12-09, 2024|02-25, 2025|
-|[ICLR-25](https://iclr.cc/Conferences/2025)|~~09-27, 2024~~|01-22, 2025|04-24, 2025|
+|[NeurIPS-24](https://neurips.cc/Conferences/2024) |~~2024-05-15~~|~~2024-09-25~~|2024-12-10|
+|[AAAI-25](https://aaai.org/conference/aaai/aaai-25/)|~~2024-08-07~~|2024-12-09|2025-02-25|
+|[ICLR-25](https://iclr.cc/Conferences/2025)|~~2024-09-27~~|2025-01-22|04-24, 2025|
 |[ICML-25](https://icml.cc/Conferences/2025)|01-31, 2025|                 |07-11, 2025|
 |IJCAI-25                               |01, 2025 (expected)|                 |08-16, 2025|
 |NeurIPS-25                             |05, 2025 (expected)|             |12, 2025 (expected)|
@@ -155,11 +155,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjI5NjUxMjMsMTkxNTcxODQyLDY0OD
-EzMTQyMiw4OTE1MDcyMTEsLTEwMTkwMTM4NDksODEwNzU4NzE0
-LDE0MTMwMjg1NiwtMTg5ODAyODI3LC0xNzk5OTYzNTk1LC0xND
-A5ODQ4NTY1LC05OTQ2OTY5MjMsLTE4NDYwMzUzNTUsODg1OTc1
-Mzk5LDEyNzE2ODg1ODMsNjQ1MDk2NzYxLDEyODY2MjcxNDEsMT
-gyNTc5OTI2NSwzMzkyODUxNTQsLTE1MjIyNjcxMDMsMjE4ODI2
-NjVdfQ==
+eyJoaXN0b3J5IjpbMTE0Njc0NTA2MywxOTE1NzE4NDIsNjQ4MT
+MxNDIyLDg5MTUwNzIxMSwtMTAxOTAxMzg0OSw4MTA3NTg3MTQs
+MTQxMzAyODU2LC0xODk4MDI4MjcsLTE3OTk5NjM1OTUsLTE0MD
+k4NDg1NjUsLTk5NDY5NjkyMywtMTg0NjAzNTM1NSw4ODU5NzUz
+OTksMTI3MTY4ODU4Myw2NDUwOTY3NjEsMTI4NjYyNzE0MSwxOD
+I1Nzk5MjY1LDMzOTI4NTE1NCwtMTUyMjI2NzEwMywyMTg4MjY2
+NV19
 -->
