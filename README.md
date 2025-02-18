@@ -28,7 +28,7 @@ Date format: **"yy-mm-dd"**
 |[ICML-25](https://icml.cc/Conferences/2025)|~~2025-01-23~~|2025-05-01|2025-07-13|
 |[IJCAI-25](https://2025.ijcai.org/)        |~~2025-01-16~~|2025-04-28|2025-08-16|
 |[NeurIPS-25]                             |2025-05-16 (expected)|             |2025-12 (expected)|
-|[AAAI-26]                                 |2025-08 (expected)|             |2026-02 (expected)|
+|[AAAI-26](https://aaai.org/conference/aaai/aaai-26/) |2025-08 (expected)|             |2026-01-20|
 
 ## Conf Rankings
 |  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |NeurIPS|ICML|ICLR|AAAI|IJCAI|
@@ -155,11 +155,11 @@ UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
 OCw3NTExMDIxNzFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA1MzI1MzcsLTk4Mzg2ODA1MywtMT
-M4MzY5MDU0MywxOTE1NzE4NDIsNjQ4MTMxNDIyLDg5MTUwNzIx
-MSwtMTAxOTAxMzg0OSw4MTA3NTg3MTQsMTQxMzAyODU2LC0xOD
-k4MDI4MjcsLTE3OTk5NjM1OTUsLTE0MDk4NDg1NjUsLTk5NDY5
-NjkyMywtMTg0NjAzNTM1NSw4ODU5NzUzOTksMTI3MTY4ODU4My
-w2NDUwOTY3NjEsMTI4NjYyNzE0MSwxODI1Nzk5MjY1LDMzOTI4
-NTE1NF19
+eyJoaXN0b3J5IjpbMzc3OTYzMTg1LC05ODM4NjgwNTMsLTEzOD
+M2OTA1NDMsMTkxNTcxODQyLDY0ODEzMTQyMiw4OTE1MDcyMTEs
+LTEwMTkwMTM4NDksODEwNzU4NzE0LDE0MTMwMjg1NiwtMTg5OD
+AyODI3LC0xNzk5OTYzNTk1LC0xNDA5ODQ4NTY1LC05OTQ2OTY5
+MjMsLTE4NDYwMzUzNTUsODg1OTc1Mzk5LDEyNzE2ODg1ODMsNj
+Q1MDk2NzYxLDEyODY2MjcxNDEsMTgyNTc5OTI2NSwzMzkyODUx
+NTRdfQ==
 -->
