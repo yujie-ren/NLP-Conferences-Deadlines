@@ -30,11 +30,13 @@ Date format: **"yy-mm-dd"**
 |[NeurIPS-25]                             |2025-05-16 (expected)|             |2025-12 (expected)|
 |[AAAI-26](https://aaai.org/conference/aaai/aaai-26/) |2025-08 (expected)|             |2026-01-20|
 
+
 ## Conf Rankings
 |  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |NeurIPS|ICML|ICLR|AAAI|IJCAI|
 | :---:  | :----:  |   :---:  |  :---:   | :---:|  :---: |:---: |:---: |:---: |:---: |:---: |
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |A*|A*|A*|A*|A*|
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |A |A |- |A |A |
+
 
 ## Contents - Past Deadlines
 - NLP
@@ -100,6 +102,7 @@ Date format: **"yy-mm-dd"**
 | [COLING22](https://coling2022.org/) |2022-05-17|2022-08-15|2022-10-12|
 | COLING21 |      -        |        -        |      -        |
 
+
 ### NeurIPS
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
@@ -118,6 +121,7 @@ Date format: **"yy-mm-dd"**
 |[ICML22](https://icml.cc/Conferences/2022) |2022-01-20|2022-05-14|2022-07-17|
 |[ICML21](https://icml.cc/Conferences/2021/index.html) |2021-01-28|2021-05-08|2021-07-18|
 
+
 ### ICLR
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
@@ -126,6 +130,7 @@ Date format: **"yy-mm-dd"**
 |[ICLR23](https://iclr.cc/Conferences/2023) |2022-09-21|2023-01-21|2023-05-01|
 |[ICLR22](https://iclr.cc/Conferences/2022) |2021-09-29|2022-01-24|2022-04-25|
 |[ICLR21](https://iclr.cc/Conferences/2021) |2020-09-28|2021-01-14|2021-05-03|
+
 
 ### AAAI
 |  Conf  | Submission    |   Notification  |   Conference  |
@@ -136,6 +141,7 @@ Date format: **"yy-mm-dd"**
 |[AAAI22](https://aaai.org/conference/aaai/aaai-22/) |2021-08-30|2021-11-29|2022-02-22|
 |[AAAI21](https://aaai.org/conference/aaai/aaai-21/) |2020-09-01|2020-12-01|2021-02-02|
 
+
 ### IJCAI
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
@@ -145,21 +151,3 @@ Date format: **"yy-mm-dd"**
 |[IJCAI22](https://ijcai-22.org/) |2022-01-07|2022-04-20|2022-07-23|
 |[IJCAI21](https://ijcai-21.org/) |2021-01-13|2021-04-30|2021-08-19|
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDc5MjY4MDQsLTcyOTIyOTU3OCwxMT
-EyNzQ4NTUzLC0zODkwODE2OTQsNDIzNTMwMjMwLDQyMzUzMDIz
-MCwtMTcyMjY2OTc0NCwtMTYzMjM4ODc3NCwtNzAyNTU0NDg2LC
-0xNTk2MzEyMzg1LDg1MDA2NTU5MiwtMjEyNzg2MjY0MiwtMjA3
-MjU0NTI4NywtMTc3NDQ5MzI4NiwtMTU5NDE0MzIwNCwyMTI1OT
-UwMzA4LC01NTMwNDY4ODIsLTEwNzAzOTI1MzAsMTk0MTgxMTA1
-OCw3NTExMDIxNzFdfQ==
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjUxODI5OCwzNzc5NjMxODUsLTk4Mz
-g2ODA1MywtMTM4MzY5MDU0MywxOTE1NzE4NDIsNjQ4MTMxNDIy
-LDg5MTUwNzIxMSwtMTAxOTAxMzg0OSw4MTA3NTg3MTQsMTQxMz
-AyODU2LC0xODk4MDI4MjcsLTE3OTk5NjM1OTUsLTE0MDk4NDg1
-NjUsLTk5NDY5NjkyMywtMTg0NjAzNTM1NSw4ODU5NzUzOTksMT
-I3MTY4ODU4Myw2NDUwOTY3NjEsMTI4NjYyNzE0MSwxODI1Nzk5
-MjY1XX0=
--->
