@@ -2,33 +2,26 @@ Record past deadlines to predict future ones.
 Date format: **"yy-mm-dd"**
 
 ## Upcoming NLP Deadlines
-|  Conference  |Submission    |   Notification  |   Conference  |
+|  Conf  |Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[COLING-24](https://lrec-coling-2024.org/) |~~2023-10-20~~|~~2024-02-19~~|~~2024-05-20~~|
-|[NAACL24](https://2024.naacl.org/)  |~~2023-12-15~~|~~2024-03-15~~|~~2024-06-16~~|
-|[ACL-24](https://2024.aclweb.org/)|~~2024-02-15~~|~~2024-05-15~~|~~2024-08–11~~|
-|[COLM-24](https://colmweb.org/dates.html)|~~2024-03-29~~|~~2024-07-09~~|~~2024-10–07~~|
-|[EMNLP-24](https://2024.emnlp.org/)|~~2024-06-15~~|~~2024-09-20~~|~~2024-11-12~~|
-|[COLING-25](https://coling2025.org/)| ~~2024-09-16~~|~~2024-11-29~~|~~2025-01-19~~|
-|[NAACL-25](https://2025.naacl.org/)  |~~2024-10-15~~|~~2025-01-22~~|2025-04–29|
-|[ACL-25](https://2025.aclweb.org/)  |~~2025-02-15~~ |2025-05-15|2025-07-27|
-|[COLM-25](https://colmweb.org/dates.html)  |2025-03-20| 2025-07-07 |2025-10-07|
-|[EMNLP-25](https://2025.emnlp.org/)   |2025-05-19|2025-08-20|2025-11-05|
+|[EMNLP-24](https://2024.emnlp.org/)            |~~2024-06-15~~|~~2024-09-20~~|~~2024-11-12~~|
+|[NAACL-25](https://2025.naacl.org/)            |~~2024-10-15~~|~~2025-01-22~~|~~2025-04–29~~|
+|[ACL-25](https://2025.aclweb.org/)             |~~2025-02-15~~ |~~2025-05-15~~|~~2025-07-27~~|
+|[EMNLP-25](https://2025.emnlp.org/)            |~~2025-05-19~~|~~2025-08-20~~|~~2025-11-05~~|
+|[ACL-26](https://2026.aclweb.org/)             |2026-01-05  |2026-04-04  |2026-07-02  |
+|[EMNLP-26]()            |2026-05 (expected)  |  |  |
 
 
 ## Upcoming AI Deadlines
-|  Conference  | Submission    |   Notification  |   Conference  |
+|  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
-|[ICLR-24](https://iclr.cc/Conferences/2024) |~~2023-09-23~~|~~2024-01-15~~|~~2024-05-07~~|
-|[IJCAI-24](https://ijcai24.org/) |~~2024-01-10~~|~~2024-04-16~~|~~2024-08-03~~|
-|[ICML-24](https://icml.cc/Conferences/2024) |~~2024-02-01~~|~~2024-05-01~~|~~2024-07-21~~|
-|[NeurIPS-24](https://neurips.cc/Conferences/2024) |~~2024-05-15~~|~~2024-09-25~~|2024-12-10|
-|[AAAI-25](https://aaai.org/conference/aaai/aaai-25/)|~~2024-08-07~~|2024-12-09|2025-02-25|
-|[ICLR-25](https://iclr.cc/Conferences/2025)|~~2024-09-27~~|~~2025-01-22~~|2025-04-24|
-|[ICML-25](https://icml.cc/Conferences/2025)|~~2025-01-23~~|2025-05-01|2025-07-13|
-|[IJCAI-25](https://2025.ijcai.org/)        |~~2025-01-16~~|2025-04-28|2025-08-16|
-|[NeurIPS-25]                             |2025-05-16 (expected)|             |2025-12 (expected)|
-|[AAAI-26](https://aaai.org/conference/aaai/aaai-26/) |2025-08 (expected)|             |2026-01-20|
+|[NeurIPS-24](https://neurips.cc/Conferences/2024)       |~~2024-05-15~~|~~2024-09-25~~|~~2024-12-10~~|
+|[ICLR-25](https://iclr.cc/Conferences/2025)             |~~2024-09-27~~|~~2025-01-22~~|~~2025-04-24~~|
+|[ICML-25](https://icml.cc/Conferences/2025)             |~~2025-01-23~~|~~2025-05-01~~|~~2025-07-13~~|
+|[NeurIPS-25](https://neurips.cc/Conferences/2025)       |~~2025-05-11~~|~~2025-09-18~~|2025-11-30|
+|[ICLR-26](https://iclr.cc/Conferences/2026)             |~~2025-09-19~~|2026-01-22  |  |
+|[ICML-26](https://icml.cc/Conferences/2026)             |2026-01-23 | | |
+|[NeurIPS-26]()       |2026-05 (expected) | | |
 
 
 ## Conf Rankings
@@ -36,6 +29,7 @@ Date format: **"yy-mm-dd"**
 | :---:  | :----:  |   :---:  |  :---:   | :---:|  :---: |:---: |:---: |:---: |:---: |:---: |
 | [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |A*|A*|A*|A*|A*|
 | [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |A |A |- |A |A |
+
 
 
 ## Contents - Past Deadlines
