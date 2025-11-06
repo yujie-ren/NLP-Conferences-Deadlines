@@ -2,7 +2,7 @@ Record past deadlines to predict future ones.
 Date format: **"yy-mm-dd"**
 
 ## Upcoming NLP Deadlines
-|  Conf  |Submission    |   Notification  |   Conference  |
+|  Conference  |Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[COLING-24](https://lrec-coling-2024.org/) |~~2023-10-20~~|~~2024-02-19~~|~~2024-05-20~~|
 |[NAACL24](https://2024.naacl.org/)  |~~2023-12-15~~|~~2024-03-15~~|~~2024-06-16~~|
@@ -17,7 +17,7 @@ Date format: **"yy-mm-dd"**
 
 
 ## Upcoming AI Deadlines
-|  Conf  | Submission    |   Notification  |   Conference  |
+|  Conference  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
 |[ICLR-24](https://iclr.cc/Conferences/2024) |~~2023-09-23~~|~~2024-01-15~~|~~2024-05-07~~|
 |[IJCAI-24](https://ijcai24.org/) |~~2024-01-10~~|~~2024-04-16~~|~~2024-08-03~~|
