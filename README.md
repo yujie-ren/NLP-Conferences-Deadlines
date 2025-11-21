@@ -9,7 +9,7 @@ Date format: **"yy-mm-dd"**
 |[ACL-25](https://2025.aclweb.org/)             |~~2025-02-15~~ |~~2025-05-15~~|~~2025-07-27~~|
 |[EMNLP-25](https://2025.emnlp.org/)            |~~2025-05-19~~|~~2025-08-20~~|~~2025-11-05~~|
 |[ACL-26](https://2026.aclweb.org/)             |2026-01-05  |2026-04-04  |2026-07-02  |
-|[EMNLP-26]()            |2026-05 (expected)  |  |  |
+|[EMNLP-26]()            |2026-06 (expected)  |  |  |
 
 
 ## Upcoming AI Deadlines
