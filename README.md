@@ -26,7 +26,9 @@ Date format: **"yy-mm-dd"**
 |[ICLR-26](https://iclr.cc/Conferences/2026)             |~~2025-09-19~~|~~2026-01-25~~|~~2026-04-23~~| Brazil |
 |[ICML-26](https://icml.cc/Conferences/2026)             |~~2026-01-23~~|~~2026-04-30~~|2026-07-07| South Korea |
 |[NeurIPS-26](https://neurips.cc/Conferences/2026)       |~~2026-05-04~~|2026-09-24|2026-12-08| Sydney, Australia |
-
+|[ICLR-27]()                                             |2026-09 (expected)|  |  |  |
+|[ICML-27]()                                             |2027-01 (expected)|  |  |  |
+|[NeurIPS-27]()                                          |2027-05 (expected)|  |  |  |
 
 ## Conf Rankings
 |  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |NeurIPS|ICML|ICLR|AAAI|IJCAI|
