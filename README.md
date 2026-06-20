@@ -1,34 +1,38 @@
 Record past deadlines to predict future ones.
 Date format: **"yy-mm-dd"**
 
-## Upcoming NLP Deadlines
-|  Conf  |Submission    |   Notification  |   Conference  |
-| :---:  |    :----:     |     :---:       |     :---:     |
-|[EMNLP-24](https://2024.emnlp.org/)            |~~2024-06-15~~|~~2024-09-20~~|~~2024-11-12~~|
-|[NAACL-25](https://2025.naacl.org/)            |~~2024-10-15~~|~~2025-01-22~~|~~2025-04–29~~|
-|[ACL-25](https://2025.aclweb.org/)             |~~2025-02-15~~ |~~2025-05-15~~|~~2025-07-27~~|
-|[EMNLP-25](https://2025.emnlp.org/)            |~~2025-05-19~~|~~2025-08-20~~|~~2025-11-05~~|
-|[ACL-26](https://2026.aclweb.org/)             |2026-01-05  |2026-04-04  |2026-07-02  |
-|[EMNLP-26]()            |2026-06 (expected)  |  |  |
+## NLP DDLs
+|  Conf  |Submission    |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |   :---:   |
+|[EMNLP-24](https://2024.emnlp.org/)            |~~2024-06-15~~|~~2024-09-20~~|~~2024-11-12~~| Florida, North America |
+|[NAACL-25](https://2025.naacl.org/)            |~~2024-10-15~~|~~2025-01-22~~|~~2025-04–29~~| Merico, North America |
+|[ACL-25](https://2025.aclweb.org/)             |~~2025-02-15~~ |~~2025-05-15~~|~~2025-07-27~~| Vienna, Europe |
+|[EMNLP-25](https://2025.emnlp.org/)            |~~2025-05-19~~|~~2025-08-20~~|~~2025-11-05~~|  Suzhou, China |
+|[EACL-26](https://2026.eacl.org/)              |~~2025-12-14~~|~~2026-01-03~~|~~2026-03-24~~|  Morocco, Africa |
+|[ACL-26](https://2026.aclweb.org/)             |~~2026-01-05~~|~~2026-04-04~~|2026-07-02  |  San Diego, North America |
+|[EMNLP-26](https://2026.emnlp.org/)            |~~2026-05-25~~| 2026-08-20 | 2026-10-24 | Budapest, Europe |
+|[EACL-27](https://2027.eacl.org/)              |2026-08-03| 2026-12 (expected) | 2027-03-09 | Athens, Europe |
+|[ACL-27]()                                     |2027-01 (expected)|  |  |  |
+|[EMNLP-27]()                                   |2027-05 (expected)|  |  |  |
 
 
-## Upcoming AI Deadlines
-|  Conf  | Submission    |   Notification  |   Conference  |
-| :---:  |    :----:     |     :---:       |     :---:     |
-|[NeurIPS-24](https://neurips.cc/Conferences/2024)       |~~2024-05-15~~|~~2024-09-25~~|~~2024-12-10~~|
-|[ICLR-25](https://iclr.cc/Conferences/2025)             |~~2024-09-27~~|~~2025-01-22~~|~~2025-04-24~~|
-|[ICML-25](https://icml.cc/Conferences/2025)             |~~2025-01-23~~|~~2025-05-01~~|~~2025-07-13~~|
-|[NeurIPS-25](https://neurips.cc/Conferences/2025)       |~~2025-05-11~~|~~2025-09-18~~|2025-11-30|
-|[ICLR-26](https://iclr.cc/Conferences/2026)             |~~2025-09-19~~|2026-01-22  |  |
-|[ICML-26](https://icml.cc/Conferences/2026)             |2026-01-23 | | |
-|[NeurIPS-26]()       |2026-05 (expected) | | |
+## ML DDLs
+|  Conf  | Submission    |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |
+|[NeurIPS-24](https://neurips.cc/Conferences/2024)       |~~2024-05-15~~|~~2024-09-25~~|~~2024-12-10~~| Vancouver, Canada |
+|[ICLR-25](https://iclr.cc/Conferences/2025)             |~~2024-09-27~~|~~2025-01-22~~|~~2025-04-24~~| Singapore |
+|[ICML-25](https://icml.cc/Conferences/2025)             |~~2025-01-23~~|~~2025-05-01~~|~~2025-07-13~~| Vancouver, Canada |
+|[NeurIPS-25](https://neurips.cc/Conferences/2025)       |~~2025-05-11~~|~~2025-09-18~~|~~2025-11-30~~| San Diego, CA |
+|[ICLR-26](https://iclr.cc/Conferences/2026)             |~~2025-09-19~~|~~2026-01-25~~|~~2026-04-23~~| Brazil |
+|[ICML-26](https://icml.cc/Conferences/2026)             |~~2026-01-23~~|~~2026-04-30~~|2026-07-07| South Korea |
+|[NeurIPS-26](https://neurips.cc/Conferences/2026)       |~~2026-05-04~~|2026-09-24|2026-12-08| Sydney, Australia |
 
 
 ## Conf Rankings
 |  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |NeurIPS|ICML|ICLR|AAAI|IJCAI|
 | :---:  | :----:  |   :---:  |  :---:   | :---:|  :---: |:---: |:---: |:---: |:---: |:---: |
-| [CORE2023](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |A*|A*|A*|A*|A*|
-| [CCF2022](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |A |A |- |A |A |
+| [CORE2026](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |A*|A*|A*|A*|A*|
+| [CCF2026](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |A |A |A |A |B |
 
 
 
