@@ -12,6 +12,7 @@ Date format: **"yy-mm-dd"**
 |[ACL-26](https://2026.aclweb.org/)             |~~2026-01-05~~|~~2026-04-04~~|2026-07-02  |  San Diego, North America |
 |[EMNLP-26](https://2026.emnlp.org/)            |~~2026-05-25~~| 2026-08-20 | 2026-10-24 | Budapest, Europe |
 |[EACL-27](https://2027.eacl.org/)              |2026-08-03| 2026-12 (expected) | 2027-03-09 | Athens, Europe |
+|[NAACL-27](https://2027.naacl.org/)            |2026-10-12| 2026-12 (expected) | 2027-06-01 | San Francisco, US |
 |[ACL-27]()                                     |2027-01 (expected)|  |  |  |
 |[EMNLP-27]()                                   |2027-05 (expected)|  |  |  |
 
