@@ -1,6 +1,17 @@
 Record past deadlines to predict future ones.
 Date format: **"yy-mm-dd"**
 
+
+## ARR DDLs
+[ARR-2026](https://aclrollingreview.org/dates)
+|  Cycle  |  Submission  |  Reviews due   |  Author Response   |  Meta-reviews  |
+| :---:   |    :----:    |     :---:      |        :---:       |   :---:        |
+|2026-03  |  2026-03-16  |  2026-04-20    |      2026-04-28    |  2026-05-21    |
+|2026-05  |  2026-05-25  |  2026-07-02    |      2026-07-08    |  2026-07-30    |
+|2026-08  |  2026-08-03  |  2026-09-07    |      2026-09-14    |  2026-10-08    |
+|2026-10  |  2026-10-12  |     TBA        |         TBA        |     before 2026-12-20      |
+
+
 ## NLP DDLs
 |  Conf  |Submission    |   Notification  |   Conference  |  Location  |
 | :---:  |    :----:     |     :---:       |     :---:     |   :---:   |
